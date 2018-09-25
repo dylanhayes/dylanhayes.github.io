@@ -56,7 +56,7 @@ Then click on a document, and it should open in the previewer like so:
 
 ![Previewer](../images/gilamesh preview.png)
 
-It's worth remembering this only works for supported file types (there's a lot of them). You can test this by uploading a text file with a random name and extension like foo.bar, and you'll notice the file only downloads.
+It's worth remembering this only works for supported file types (there's a lot of them). You can test this by uploading a text file with a random name and extension like foobar.foo, and you'll notice the file only downloads.
 
 ## IE Spoils the party again
 
