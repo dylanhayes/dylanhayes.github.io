@@ -38,7 +38,7 @@ Assuming that we wish for 'visitors' to be able to only view documents, as owner
 
 To do this, we need to edit the permission for the visitors group by first selecting the checkbox next to the group, and then selecting 'edit user permissions'.
 
-![Adding permissions](../images/permissions adding view only.png)
+![Adding permissions](../images/permissions adding view only.PNG)
 
 The **first thing** I always do is make sure I uncheck the hidden 'send an email invitation' checkbox, which Microsoft bizzarely made a hidden default value, as I really don't want to email everyone in the visitors group.
 
