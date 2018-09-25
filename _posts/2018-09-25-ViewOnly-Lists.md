@@ -52,7 +52,7 @@ With a user who is a member of the test account verify you can see the list. You
 
 ![List](../images/list view.png)
 
-Then click on a document, and it should open in the previewer like so:
+Then click on a document, and it should open in the previewer. You'll notice that Office files read only in the preview pane, and there is no ability to edit.
 
 ![Previewer](../images/gilamesh preview.png)
 
