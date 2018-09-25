@@ -16,7 +16,7 @@ If you want iron clad control over documents, then you should be looking at Offi
 
 The first thing you'll need to do is go to Site Settings then Site Permissions. From the ribbon select 'Permission Levels'.
 
-![Ribbon](../images/ribbon.png)
+![Ribbon](../images/ribbon.PNG)
 
 Then we can create a new permission level with some fairly tight restrictions, so that members of this group can only view a document, but not open then. You will also need to ensure the permission level has permission to 'View Application Pages' to enable users to see the list. The list section should look something like this:
 
@@ -64,7 +64,7 @@ In modern browsers such as Edge, Chrome Safari etc, there is no One Drive sync b
 
 Sadly, in IE 11 and below, the view menu on the right hand side gains an option called 'View in File Explorer':
 
-![IE 11](../imaegs/ie11.png)
+![IE 11](../images/ie11.png)
 
 CLicking on this opens a new tab, as well as prompting you to open a popup window which opens the library in Windows Explorer. Readonly permissions is respected, so changing local files will not change the files in SharePoint, but of course, you have just downloaded the files, which doesn't respect the permission you just setup. Not only that, but in the new tab, you can click on the files, and instead of the previewer, you just get to download the file. 
 This seems like a workaround as the document previewer doesn't work properly on IE, but alas breaks the intend of our permission. Oh well.
