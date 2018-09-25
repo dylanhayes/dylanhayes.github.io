@@ -5,7 +5,7 @@ title: View Only Lists in Modern SharePoint Lists
 
 ## Introduction
 
-One of SharePoint onlines standout features for me has always been the document previews,, where clicking on a document in SharePoint would show the document in the browser with no additional tools required. These days it's not just Office documents, but a huge and growing list of different [file types](https://support.office.com/en-us/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4).
+For me, one of SharePoint online's standout features has always been document previews. Clicking on a document in SharePoint would show the document in the browser with no additional tools required beyond a browser. These days it's not just Office documents, but a huge and growing list of different [file types](https://support.office.com/en-us/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4) you can do this for. Code, plain text, XML, Office documents, in fact pretty much anything you are likely to want to put in SharePoint.
 
 We recently had a request wondering if it was possible to only show documents in the preview, and not allow users to download the files locally, as they wished to limit what users could do with files in terms of sharing and locally modifying these files. It turns out you can with a modern list, and it's quite easy to do, but not documented down very well anywhere. 
 
