@@ -7,9 +7,9 @@ title: View Only Lists in Modern SharePoint Lists
 
 For me, one of SharePoint online's standout features has always been document previews. Clicking on a document in SharePoint would show the document in the browser with no additional tools required. These days it's not just Office documents, but a huge and growing list of different [file types](https://support.office.com/en-us/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4) you can do this for. Code, plain text, XML, Office documents, in fact pretty much anything you are likely to want to put in SharePoint.
 
-We recently had a request wondering if it was possible to only show documents in the document preview, and not allow users to download the document locally, as they wished to limit what users could do with documents in terms of sharing and locally modifying these files. It turns out you can with a modern list, and it's quite easy to do, but not well documented very well anywhere. 
+We recently had a request wondering if it was possible to only show documents in the document preview, and not allow users to download the document locally, as they wished to limit what users could do with documents in terms of sharing and locally modifying these files. It turns out you can with a modern list, and it's quite easy to do, but not well documented anywhere. 
 
-As ever, there are some caveats. Firstly, images are pretty easy to download if they are on screen, nor can you  prevent the user copying and pasting the content elsewhere. This works pretty well on a modern browser, but IE 11 and earlier alas allow you to circumvent the restrictions.
+As ever, there are some caveats. Firstly, images are pretty easy to download if they are on screen, nor can you  prevent the user copying and pasting the content elsewhere. Otherwise on a modern browser everything works pretty well, but IE 11 and earlier alas allow you to circumvent the restrictions if the user knows how.
 If you want iron clad control over documents, then you should be looking at Office 365's Data Loss Prevention features. Even then you are mearly making things harder for determined would be leaker.
 
 ## Creating View Only Permission Level
@@ -62,7 +62,7 @@ It's worth remembering this only works for supported file types (there's a lot o
 
 In modern browsers such as Edge, Chrome Safari etc, there is no One Drive sync button or any other obvious means to download the files locally.
 
-Sadly, in IE 11 and below, the view menu on the right hand side gains an option called 'View in File Explorer':
+Sadly, in IE 11 and below, although the normal views of the list behave as expected, the view menu on the right hand side gains an option called 'View in File Explorer':
 
 ![IE 11](../images/ie11.png)
 
