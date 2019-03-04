@@ -67,7 +67,7 @@ Sadly, in IE 11 and below, although the normal views of the list behave as expec
 ![IE 11](../images/ie11.png)
 
 CLicking on this opens a new tab, as well as prompting you to open a popup window which opens the library in Windows Explorer. Readonly permissions is respected, so changing local files will not change the files in SharePoint, but of course, you have just downloaded the files, which doesn't respect the view only permission you just setup. Not only that, but in the new tab, you can click on the files, and instead of the preview, you just get to download the file. 
-The inclusion of the 'View in File Explorer' seems like it must have been added delibrately for some reason when browsing with IE, but alas breaks the intend of our permission. Oh well.
+The inclusion of the 'View in File Explorer' seems like it must have been added delibrately for some reason when browsing with IE, but alas breaks the intend of our permission. Oh well. IE spoils the party.
 
 
 
