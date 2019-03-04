@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NE Bytes - SharePoint Hubsites Deep Dive
+title: Yorkshire Office 365 Usergroup - Flow and Powerapps
 ---
 
 ## Introduction
