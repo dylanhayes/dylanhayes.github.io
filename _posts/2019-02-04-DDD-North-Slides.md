@@ -8,7 +8,7 @@ title: DDD North - Office 365 as a Development Platform
 I recently had the honour to speak at DDD North on the topic of 
 'Office 365 as a Development Platform'.
 
-I also did a lunchtime talk on Cognitive Services and Microsoft Flow, and there's a few tweets [1](https://twitter.com/GosiaBorzecka/status/1101844769435779072) [2](https://twitter.com/deejaygraham/status/1101843878456553474) - but alas no slides as it was a very short talk around a SharePoint Online demo. 
+I also did a lunchtime talk on Cognitive Services and Microsoft Flow, and there's a few tweets [1](https://twitter.com/GosiaBorzecka/status/1101844769435779072), [2](https://twitter.com/deejaygraham/status/1101843878456553474) - but alas no slides as it was a very short talk around a SharePoint Online demo. 
 
 Here's the slide deck from my main talk:
 
