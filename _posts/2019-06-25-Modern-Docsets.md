@@ -44,6 +44,7 @@ In our example, we're going to create a country document set, and a few city doc
 With a little effort I was able to build a nested structure that gave me the nice featues of documents sets, with a deep hierarchy in modern. 
 
 ![New Menu](../images/oslo.PNG)
+![New Menu](../images/oslo document.PNG)
 ![New Menu](../images/document set at city level.PNG)
 
 ## Putting it together
