@@ -14,7 +14,7 @@ In the example below we first delete the existing menu in the target site and th
 
 ## Code
 
-```
+```PowerShell
 
 $pnpUsername = "user@name"
 $pnpPassword = "************"
@@ -24,15 +24,18 @@ $TargetHubSite = "https://AcmeIncIntranet.sharepoint.com/sites/targetSite"
 [SecureString]$SecurePassword = ConvertTo-SecureString $pnpPassword -AsPlainText -Force
 [System.Management.Automation.PSCredential]$PSCredentials = New-Object System.Management.Automation.PSCredential($pnpUsername, $SecurePassword)
 
+
 #delete the existing menu
 Connect-PnPOnline -Url $TargetHubSite -Credentials $PSCredentials
 $TopNavs=Get-PnPNavigationNode -Location TopNavigationBar   | Select Title, Url, Id
 
 foreach($TopNav in $TopNavs)
 {
-    Write-Host "Deleting " $TopNav.Id " Title: " $TopNav.Title "Url: " $TopNav.Url -ForegroundColor DarkRed
+    Write-Host "Deleting [" $TopNav.Id "]" "Title: " $TopNav.Title "Url: " $TopNav.Url -ForegroundColor DarkRed
     Remove-PnPNavigationNode -Identity  $TopNav.Id -Force
 }
+
+
 
 Connect-PnPOnline -Url $SourceHubSiteUrl -Credentials $PSCredentials
 $TopNavs=Get-PnPNavigationNode -Location TopNavigationBar   | Select Title, Url, Id
@@ -44,7 +47,7 @@ foreach($TopNav in $TopNavs)
 
     $node = Get-PnPNavigationNode -Id $TopNav.Id 
 
-    Write-Host "Top Level Id: "$TopNav.Id" Title: "$TopNav.Title " Url: "$TopNav.Url -ForegroundColor Yellow
+    Write-Host "Top Level Id: "$TopNav.Id" Title:  "$TopNav.Title "Url: "$TopNav.Url -ForegroundColor Yellow
   
     Connect-PnPOnline -Url $TargetHubSite -Credentials $PSCredentials
     $newTopLevel = Add-PnPNavigationNode -Title $TopNav.Title -Url $TopNav.Url -Location "TopNavigationBar"
@@ -55,25 +58,26 @@ foreach($TopNav in $TopNavs)
 
         foreach($child in $node.Children){
 
-        Write-Host "   -- ChildId: "$child.Id"  Title: " $child.Title "Url: "$child.Url -ForegroundColor Green
+        Write-Host "   ++ Child_Id: "$child.Id"  Title: " $child.Title "Url: "$child.Url -ForegroundColor Green
 
         #add the level 2 items
         Connect-PnPOnline -Url $TargetHubSite -Credentials $PSCredentials
         $neSubLevel1 = Add-PnPNavigationNode -Title $child.Title -Url $child.Url -Location "TopNavigationBar" -Parent $newTopLevel.Id
 
+
         #get 3rd level terms
+
         Connect-PnPOnline -Url $SourceHubSiteUrl -Credentials $PSCredentials
 
         $subChildNode = Get-PnPNavigationNode -Id $child.Id 
 
         if($subChildNode.Children)
         {
-          #gets childrens children
-          $subChild = $subChildNode.Children | Select Title, Url, Id   
+          $subChild = $subChildNode.Children | Select Title, Url, Id   #gets childrens children
 
           foreach($subChild in $subChildNode.Children)
           {
-            Write-Host "     -- SubChildId: "$subChild.Id" Title: " $subChild.Title "Url: "$subChild.Url -ForegroundColor DarkGreen
+            Write-Host "     ++ SubChild_Id: "$subChild.Id"  Title: " $subChild.Title "Url: "$subChild.Url -ForegroundColor DarkGreen
 
 
                 #add the level 2 items
@@ -85,5 +89,4 @@ foreach($TopNav in $TopNavs)
         }
     }
 }
-
 ```
