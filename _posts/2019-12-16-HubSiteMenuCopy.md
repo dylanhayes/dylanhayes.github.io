@@ -13,9 +13,7 @@ The secret to making this work is the marvellous PNP PowerShell, and the command
 In the example below we first delete the existing menu in the target site and then add it all in again. In the example below we're hardcoding the username and password, but in production you may want to prompt for credentials, or use one of the authentication methods that work with 2FA.
 
 ## Code
-
 ```PowerShell
-
 $pnpUsername = "user@name"
 $pnpPassword = "************"
 $SourceHubSiteUrl = "https://AcmeIncIntranet.sharepoint.com/sites/sourceSite"
