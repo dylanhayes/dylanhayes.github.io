@@ -21,10 +21,8 @@ $pnpPassword = "************"
 $SourceHubSiteUrl = "https://AcmeIncIntranet.sharepoint.com/sites/sourceSite"
 $TargetHubSite = "https://AcmeIncIntranet.sharepoint.com/sites/targetSite"
 
-
 [SecureString]$SecurePassword = ConvertTo-SecureString $pnpPassword -AsPlainText -Force
 [System.Management.Automation.PSCredential]$PSCredentials = New-Object System.Management.Automation.PSCredential($pnpUsername, $SecurePassword)
-
 
 #delete the existing menu
 Connect-PnPOnline -Url $TargetHubSite -Credentials $PSCredentials
@@ -35,8 +33,6 @@ foreach($TopNav in $TopNavs)
     Write-Host "Deleting " $TopNav.Id " Title: " $TopNav.Title "Url: " $TopNav.Url -ForegroundColor DarkRed
     Remove-PnPNavigationNode -Identity  $TopNav.Id -Force
 }
-
-
 
 Connect-PnPOnline -Url $SourceHubSiteUrl -Credentials $PSCredentials
 $TopNavs=Get-PnPNavigationNode -Location TopNavigationBar   | Select Title, Url, Id
@@ -65,9 +61,7 @@ foreach($TopNav in $TopNavs)
         Connect-PnPOnline -Url $TargetHubSite -Credentials $PSCredentials
         $neSubLevel1 = Add-PnPNavigationNode -Title $child.Title -Url $child.Url -Location "TopNavigationBar" -Parent $newTopLevel.Id
 
-
         #get 3rd level terms
-
         Connect-PnPOnline -Url $SourceHubSiteUrl -Credentials $PSCredentials
 
         $subChildNode = Get-PnPNavigationNode -Id $child.Id 
