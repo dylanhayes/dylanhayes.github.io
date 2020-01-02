@@ -14,7 +14,7 @@ In the example below we first delete the existing menu in the target site and th
 
 ## Code
 
-```PowerShell
+```
 
 $pnpUsername = "user@name"
 $pnpPassword = "************"
@@ -74,7 +74,8 @@ foreach($TopNav in $TopNavs)
 
         if($subChildNode.Children)
         {
-          $subChild = $subChildNode.Children | Select Title, Url, Id   #gets childrens children
+          #gets childrens children
+          $subChild = $subChildNode.Children | Select Title, Url, Id   
 
           foreach($subChild in $subChildNode.Children)
           {
