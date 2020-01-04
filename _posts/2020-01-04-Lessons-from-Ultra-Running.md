@@ -1,4 +1,4 @@
-Training, kit or attitude?
+###Training, kit or attitude?###
 
 Last year I did three ultra marathons. An ultra marathon is a run which go beyond the standard marathon distance. In this process I learned quite a lot, and not just how to run a very long way.
 
