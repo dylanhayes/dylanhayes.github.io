@@ -1,4 +1,4 @@
-###Training, kit or attitude?###
+***Training, kit or attitude?***
 
 Last year I did three ultra marathons. An ultra marathon is a run which go beyond the standard marathon distance. In this process I learned quite a lot, and not just how to run a very long way.
 
@@ -30,5 +30,5 @@ Inevitably, runners will talk about what kit they used. It&#39;s a very personal
 - **Montane Minimus Stretch Ul**** tra jacket.** More breathable than my previous jacket, although I only bothered to put it on once the rain started in earnest.
 - **Montane Primino top**. Comfortable even when wet, it and a lightweight fleece kept me warm enough until the rain started in earnest.
 - **Montane PowerStretch gloves**. Warm enough even when wet in the wind, although when it got cold on the march run I needed to swap to something warmer.
-- S **ealSkins Knee length socks**. Waterproof socks are handy in winter, as even if they don&#39;t stay perfectly dry inside, your feet stay warm and comfortable. I had used shorter ones on other race, but decided to go for something longer. The knee length socks kept my calves warm, and mostly dry, which was handy when crossing bogs and the occasional stream. After 19 hours on my feet, the fact my feet emerged warm and comfortable from the ordeal is a good recommendation.
+- **SealSkins Knee length socks**. Waterproof socks are handy in winter, as even if they don&#39;t stay perfectly dry inside, your feet stay warm and comfortable. I had used shorter ones on other race, but decided to go for something longer. The knee length socks kept my calves warm, and mostly dry, which was handy when crossing bogs and the occasional stream. After 19 hours on my feet, the fact my feet emerged warm and comfortable from the ordeal is a good recommendation.
 - **Dexshell windproof beanie hat**. I carried a buff as well, but the extra insultation from a windproof layer meant not having to put my hood up, which I don&#39;t particularly like doing unless I have to.
