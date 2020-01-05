@@ -42,7 +42,7 @@ Inevitably, runners will talk about what kit they used. It&#39;s a very personal
 
 **Photos**
 
-{% include image.html file="/2020-01-04/IMG_20191207_124654.jpg" description="Typical conditions away from the decent path" %}
+
 
 ![Typical path on the ridge](../images/2020-01-04/IMG_20191207_124654.jpg)
 
