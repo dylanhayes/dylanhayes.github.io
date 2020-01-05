@@ -37,7 +37,7 @@ Inevitably, runners will talk about what kit they used. It&#39;s a very personal
 **photos**
 
 
-![Typical path on the ridge](../images/IMG_20191207_124654.jpg)
+![Typical path on the ridge](../images/2020-01-04/IMG_20191207_124654.jpg)
 
 ![After about 25 miles](../images/2020-01-04/i-HbBPL5C-X3.jpg)
 
