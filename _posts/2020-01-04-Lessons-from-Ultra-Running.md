@@ -1,5 +1,7 @@
 ***Training, kit or attitude?***
 
+![Medals](../images/2020-01-04/IMG_20200104_110951.jpg)
+
 Last year I did three ultra marathons. An ultra marathon is a run which go beyond the standard marathon distance. In this process I learned quite a lot, and not just how to run a very long way.
 
 Indeed during the long hours of the event, and then during post event introspection I thought about if success in these endeavours was down to physical fitness, taking the right equipment or resilience of spirit.
@@ -46,3 +48,5 @@ Inevitably, runners will talk about what kit they used. It&#39;s a very personal
 ![Me after arriving at the cafe](../images/2020-01-04/IMG_20191208_010202.jpg)
 
 ![Food and medals](../images/2020-01-04/IMG_20191208_010506.jpg)
+
+
