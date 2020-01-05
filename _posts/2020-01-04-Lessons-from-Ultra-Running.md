@@ -43,6 +43,6 @@ Inevitably, runners will talk about what kit they used. It&#39;s a very personal
 
 ![Attempting to look cool](../images/2020-01-04/IMG_20191207_132804.jpg)
 
-![Me after arriving at the cafe](../images/IMG_20191208_010202.jpg)
+![Me after arriving at the cafe](../images/2020-01-04/IMG_20191208_010202.jpg)
 
 ![Food and medals](../images/2020-01-04/IMG_20191208_010506.jpg)
