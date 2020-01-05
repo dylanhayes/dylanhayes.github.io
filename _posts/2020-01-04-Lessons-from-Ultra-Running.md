@@ -25,14 +25,14 @@ In my first race, the sudden absence of company had destroyed  my morale, and th
 
 Inevitably, runners will talk about what kit they used. It&#39;s a very personal thing, but I felt I was well equipped for the last race. Deserving special mention would be:
 
-- **Leki RCM carbon poles**. Running with poles is strange, but most of the competitors other than the very fastest used them. Despite the extra weight, being able to literally test the waters of the many bogs was invaluable.
+- **Leki RCM carbon poles**. Running with poles is strange, but most of the competitors other than the very fastest used them. Being able to literally test the waters of the many bogs was invaluable, and worth the extra weight.
 - **Petzl Nao+**. Having lots of light for a long time is essential for a winter ultra marathon. The clever technology in the Nao adapts the output to the environment, by reducing power output when not needed, helping the battery last a long time. On the default settings it managed 9 hours of use finishing on 25% battery, and aside from the odd time I had to turn it up to full beam to navigate around obstacles there was plenty of light.
-- **Garmin Fenix 5**. I hadn&#39;t used the navigate functionality before, but it worked well, as it showed a dotted line to follow on the watch face, and beeped angrily when I strayed off trail, which is handy when the watch is invisible before extra layers. The battery lasted 18.5+ hours only failing in the last 1 km.
+- **Garmin Fenix 5**. I hadn&#39;t used the navigate functional before. It worked well, as it showed a dotted line to follow on the watch face, and beeped angrily when I strayed off trail, which is handy when the watch is invisible under extra layers. The battery lasted 18.5+ hours only failing in the last 1 km.
 - **Montane Minimus Stretch Ultra jacket.** More breathable than my previous jacket, although I only bothered to put it on once the rain started in earnest.
-- **Montane Primino top**. Comfortable even when wet, it and a lightweight fleece kept me warm enough until the rain started in earnest.
-- **Montane PowerStretch gloves**. Warm enough even when wet in the wind, although when it got cold on the march run I needed to swap to something warmer.
-- **SealSkins Knee length socks**. Waterproof socks are handy in winter, as even if they don&#39;t stay perfectly dry inside, your feet stay warm and comfortable. I had used shorter ones on other race, but decided to go for something longer. The knee length socks kept my calves warm, and mostly dry, which was handy when crossing bogs and the occasional stream. After 19 hours on my feet, the fact my feet emerged warm and comfortable from the ordeal is a good recommendation.
-- **Dexshell windproof beanie hat**. I carried a buff as well, but the extra insultation from a windproof layer meant not having to put my hood up, which I don&#39;t particularly like doing unless I have to.
+- **Montane Primino top**. Comfortable when wet, it and a lightweight fleece kept me warm enough until the rain started in earnest.
+- **Montane PowerStretch gloves**. Warm enough even when wet in the wind, although when it got cold on the Hardmoors 50 I needed to swap to something warmer.
+- **SealSkins Knee length socks**. Waterproof socks are handy in winter, as even if they don&#39;t stay perfectly dry inside, your feet stay warm and comfortable. I had used shorter ones on other races, but decided to go for something longer. The knee length socks kept my calves warm and mostly dry, which was handy when crossing bogs and wading the occasional stream. After 19 hours on my feet, the fact my feet emerged warm and comfortable from the ordeal is a good recommendation.
+- **Dexshell windproof beanie hat**. I carried a buff as well, but the extra insultation from a windproof layer meant not having to put my hood up which feels very isolating.
 
 **photos**
 
