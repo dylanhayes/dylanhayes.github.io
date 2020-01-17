@@ -75,7 +75,7 @@ Step 8. I'm logged in. Happy days.
 
 
 
-##Recap##
+## Recap
 
 So, let's just reply what's happened here. I've just logged in to an account, but I haven't been asked for a user name or password. 
 Entering a PIN slows the process down a little, but the PIN ensures accidental possession 
@@ -84,6 +84,13 @@ of the key doesn't grant access.
 ![Blinking lights](../images/2020-01-15/ezgif-2-1e1906891fb1.gif)
 
 It took me a while to figure out why I needed to touch the device when prompted on screen and by the flashing LED, but then, I thought about what if a person had left the device plugged in and left work for the day? If the attacker could remotely access that machine, and had obtained the PIN nothing would stop them. Now for it to be maliciously used, the attacker would need the more than just good luck but active assistance from the token possessor.
+
+## Caveats
+
+I was running Chrome and Chromium Edge ('Credge?') on the most upto date Windows 10 release. It also worked seemlessly with a similarly upto date Mac. Older combinations of browser/operating system may not work.
+
+
+## And next
 
 Next article will be the setup phase. I'd like to test the robustness of the device, as I'm pretty adapt at destroying stuff that claims water resistance, but unfortunately  didn't have it last month when I did the [Cheviot Goat](https://dylanhayes.github.io/Lessons-from-Ultra-Running/), so I guess I'll have to wait until my next ultra marathon.
 
