@@ -1,3 +1,8 @@
+---
+layout: post
+title: Lessons in life from running a long way
+---
+
 ***Training, kit or attitude?***
 
 ![Medals](../images/2020-01-04/IMG_20200104_110951.jpg)
