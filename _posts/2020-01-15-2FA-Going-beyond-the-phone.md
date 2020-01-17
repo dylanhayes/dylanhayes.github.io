@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Yubikeys and FIDO2 to enable passwordless Office 365 login
+title: Using Yubikeys and FIDO2 to enable passwordless Office 365 login for break glass accounts
 ---
 
 We're all using two factor authentication on Office 365 right? 
@@ -10,9 +10,9 @@ Two factor authentication (2FA) is also called 'Multifactor authentication', and
 post is here to remind you it's not just about using your phone to approve logins. 
 Although there's been quite a bit of talk about the venerabilities of SMS based authication, 
 authentication apps such as Microsoft and Google's respective Authenticator applications are still 
-an improvement over passwords alone. However, not every use case fits this.
+a vast improvement over passwords alone. However, not every use case fits this.
 
-Many organisations choose to have emergency 'breakglass' accounts armed with powerful privilidges 
+Many organisations choose to have emergency 'break glass' accounts armed with powerful privileges  
 with the credentials physically secured (e.g. locked in in a safe) for use just in case all of the 
 other administrative accounts are unavailable. On the face of it, this is a wise move, as inevitably a 
 problem might occur when you are least prepared for it. Accounts could be compromised or the regular admins unavailable.
