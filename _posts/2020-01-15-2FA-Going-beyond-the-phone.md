@@ -58,7 +58,7 @@ Step 5. I'm prompted to touch the key which is now blinking.
 ![Step 5](../images/2020-01-15/login 5.jpg)
 
 Step 6. I choose which account's credentials I want to check. It's possible to stack multiple accounts of to one device, and in my 
-demo, I have it setup with a dev tenant and my personal Microsoft account.
+demo, I have it setup with a dev tenant account and a personal Microsoft account.
 
 
 ![Step 6](../images/2020-01-15/login 6.jpg)
@@ -83,8 +83,8 @@ of the key doesn't grant access.
 
 ![Blinking lights](../images/2020-01-15/ezgif-2-1e1906891fb1.gif)
 
-It took me a while to figure out why I needed to touch the device during the process, but then, I thought about what if a person had left the device plugged in and left work for the day? If the attacker could remotely access that machine, and had obtained the PIN nothing would stop them. Now for it to be maliciously used, the attacker would need the more than just good luck but active assistance from the token possessor.
+It took me a while to figure out why I needed to touch the device when prompted on screen and by the flashing LED, but then, I thought about what if a person had left the device plugged in and left work for the day? If the attacker could remotely access that machine, and had obtained the PIN nothing would stop them. Now for it to be maliciously used, the attacker would need the more than just good luck but active assistance from the token possessor.
 
-Next article will be the setup phase. I'd like to test the robustness of the device, as I'm pretty adapt at destroying stuff, but unfortunalty didn't have it last month when I did the [Cheviot Goat](https://dylanhayes.github.io/Lessons-from-Ultra-Running/), so I guess I'll have to wait until my next ultra marathon.
+Next article will be the setup phase. I'd like to test the robustness of the device, as I'm pretty adapt at destroying stuff that claims water resistance, but unfortunately  didn't have it last month when I did the [Cheviot Goat](https://dylanhayes.github.io/Lessons-from-Ultra-Running/), so I guess I'll have to wait until my next ultra marathon.
 
 
