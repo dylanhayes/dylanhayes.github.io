@@ -41,6 +41,17 @@ Invoke-SPOSiteSwap -SourceUrl https://dylanhayes.sharepoint.com/sites/HomeSite -
 
 ```
 
+## Areas of confusion
+
+A homesite may be part of a hubsite, but you must un-enroll from the hub whilst you promote it. Depending on the structure and size of your intranet, you may decide the home site is either part of one of your existing hubs, or merits a hub all of its own for corporate level sites.
+
+You can of course have many hub sites, but there can be only one homesite.  I haven't actually tried making another site into a homesite yet to see what happens. 
+
+The homesite doesn't have to be at the root, but it makes a lot more sense that it is, so if somebody just types the root URL for your site they end up at the home site.
+
+Although you create a homesite from a regular communications sites, and it looks no different to a regular communication site, some blogs suggest you can create a new communications site from a template for an 'Organisation'. As of late Jan 2020, I can't see this feature on any of the tenants I have access to. Maybe I'm missing something? If I do spot how to do this, I'll amend the blog to document how.
+
+
 ## Conclusions
 
 Site swap has been something we've all been asking about for a long while. There's quite a lot going on behind the sceans to make it happen, as any access to the old URL (external links and bookmarks) need to be redirected to the new URL. There's also the stuff that happens in the background (API calls to SharePoint) that need to cope with the root site moving. 
@@ -51,13 +62,3 @@ So, what are homesites then? Well, they are as the name suggests intended to be 
 - News published here is considered a trusted source of organisation wide news, and the site is setup as organisation news site.
 - The SharePoint mobile app will go to this site if you hit the 'home' button.
 - The new SharePoint start page will take it's branding from this site. 
-
-## Areas of confusion
-
-A homesite may be part of a hubsite, but you must un-enroll from the hub whilst you promote it. Depending on the structure and size of your intranet, you may decide the home site is either part of one of your existing hubs, or merits a hub all of its own for corporate level sites.
-
-You can of course have many hub sites, but there can be only one homesite.  I haven't actually tried making another site into a homesite yet to see what happens. 
-
-The homesite doesn't have to be at the root, but it makes a lot more sense that it is, so if somebody just types the root URL for your site they end up at the home site.
-
-Although you create a homesite from a regular communications sites, and it looks no different to a regular communication site, some blogs suggest you can create a new communications site from a template for an 'Organisation'. As of late Jan 2020, I can't see this feature on any of the tenants I have access to. Maybe I'm missing something? If I do spot how to do this, I'll amend the blog to document how.
