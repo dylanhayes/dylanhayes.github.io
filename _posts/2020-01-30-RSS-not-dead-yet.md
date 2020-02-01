@@ -51,6 +51,8 @@ After I got my proof of concept, it didn't take long to notice that some stories
 replace(triggerBody()?['summary'],'"', '\"')
 ```
 
+Note how we escape the double quote with a \ inside the single quotes.
+
 ![Replace](../images/2020-01-30/story body replace.PNG)
 
 Now we can come to the fun bit where we create our post:
