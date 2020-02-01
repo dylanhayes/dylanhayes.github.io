@@ -6,7 +6,7 @@ title: Hubsite Menu Copy
 ## Introduction
 
 Each hubsite can have it's own menu, and that's fine. But, sometimes we need to have the same menu across multiple hub sites. There's no out of the box way to do this, so once again, PowerShell is here to ride in and save the day. 
-The secret to making this work is the marvellous PNP PowerShell, and the commands which enable access to the navigation menu. The documentation doesn't say how to 'get at' the hubsite menu, but if you access the navigation menu on the hubsite, that's what you get.
+The secret to making this work is the marvelous PNP PowerShell, and the commands which enable access to the navigation menu. The documentation doesn't say how to 'get at' the hubsite menu, but if you access the navigation menu on the hubsite, that's what you get.
 
 ## How the code works
 
