@@ -13,7 +13,7 @@ There are some 3rd party RSS web parts, but none of them offered a very pleasing
 
 Step forward Power Automate's RSS connector. The obvious solution is create a Power Automation triggered by the RSS connector, which puts new RSS feed items into a SharePoint list. Add in the secret sauce of a view formatter, and a nice looking RSS feed can be yours. By choosing to put multiple feeds into one list, you can make one consolidated view, or filter the views by origin to separate out the items as required. 
 
-[show screen grab of RSS to list]
+![Overview]('../images/2020-01-30/rss to list.png')
 
 ## Power Automate and News ##
 
