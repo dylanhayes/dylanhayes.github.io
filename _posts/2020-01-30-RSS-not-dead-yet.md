@@ -21,12 +21,15 @@ A list just felt like a missed opportunity to me. There's been a lot of investme
 
 Alas, there's no action in Power Automate to create a news page, or indeed a news link page. However, I turned on the developer tools in the browser, and observed the traffic when I used the UI to add a news link page. It turns out it's actually a pretty simple POST to a REST endpoint with a payload of the link, title, description and image. 
 
-```javascript
-{"BannerImageUrl":"https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/01/Microsoft-Edge-FB.jpg",
-"Description":"Microsoft Edge saves you time and helps you focus by delivering a fast and secure way to get things done on the web. 
+``` javascript
+{"BannerImageUrl":
+"https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/01/Microsoft-Edge-FB.jpg",
+"Description":
+"Microsoft Edge saves you time and helps you focus by delivering a fast and secure way to get things done on the web. 
 Today, the new Microsoft Edge is out of preview and ready for download on all supported versions of Windows and macOS and in more tha",
 "IsBannerImageUrlExternal":true,
-"OriginalSourceUrl":"https://www.microsoft.com/en-us/microsoft-365/blog/2020/01/15/the-new-microsoft-edge-now-available-for-download/",
+"OriginalSourceUrl":
+"https://www.microsoft.com/en-us/microsoft-365/blog/2020/01/15/the-new-microsoft-edge-now-available-for-download/",
 "ShouldSaveAsDraft":false,
 "Title":"The new Microsoft Edge now available for download - Microsoft 365 Blog",
 "__metadata":{"type":"SP.Publishing.RepostPage"}}
@@ -42,10 +45,10 @@ When you add a link via the user interface, SharePoint goes off and grabs the ti
 
 ![Logo](../images/2020-01-30/adding a variable for logo.PNG)
 
-After I got my proof of concept, it didn't take long to notice that some stories would fail to parse. A quick examination of the error showed that double quotes inside the content was managling the JSON. With the aid of a bit of search and replace this was soon fixed.
+After I got my proof of concept, it didn't take long to notice that some stories would fail to parse. A quick examination of the error showed that double quotes inside the content was mangling the JSON. With the aid of a bit of search and replace on the offending string this was soon fixed.
 
 ```VBScript
-replace(triggerBody()?['summary'],'"', '\"')mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+replace(triggerBody()?['summary'],'"', '\"')
 ```
 
 ![Replace](../images/2020-01-30/story body replace.PNG)
