@@ -13,7 +13,7 @@ There are some 3rd party RSS web parts, but none of them offered a very pleasing
 
 Step forward Power Automate's RSS connector. The obvious solution is create a Power Automation triggered by the RSS connector, which puts new RSS feed items into a SharePoint list. Add in the secret sauce of a view formatter, and a nice looking RSS feed can be yours. By choosing to put multiple feeds into one list, you can make one consolidated view, or filter the views by origin to separate out the items as required. 
 
-![Overview](../../images/2020-01-30/rss to list.png)
+![Overview](../../images/2020-01-30/rss to list.c)
 
 ## Power Automate and News ##
 
@@ -29,11 +29,11 @@ With the aid of a HTTP action we can certainly do that in Power Automate. By sub
 
 ## Putting it all together ##
 
-![Overview](../images/2020-01-30/flow overview.png)
+![Overview](../images/2020-01-30/flow overview.v)
 
 When you add a link via the user interface, SharePoint goes off and grabs the title, description and image for the post before it POSTs back to the endpoint we're going to hit. The RSS connector doesn't have any concept of an image for each item, so we don't get to have an image for each item, which is a real shame as that really would be the cherry on the top of our delicious RSS cake. The simple solution is to simply upload a generic image (such as the logo for the RSS feed provider) to a known location in SharePoint like the assets library and stick that URL into the image part of the POST payload - to make the POST code easier to read we're going to put this into variable. This works OK, but feels like we're not taking full advantage of the features of news. 
 
-![Logo](../images/2020-01-30/adding a variable for logo.png)
+![Logo](../images/2020-01-30/adding a variable for logo.v)
 
 After I got my proof of concept, it didn't take long to notice that some stories would fail to parse. A quick examination of the error showed that double quotes inside the content was managling the JSON. With the aid of a bit of search and replace this was soon fixed.
 
@@ -41,11 +41,11 @@ After I got my proof of concept, it didn't take long to notice that some stories
 replace(triggerBody()?['summary'],'"', '\"')
 ```
 
-![Replace](../images/2020-01-30/story body replace.png)
+![Replace](../images/2020-01-30/story body replace.v)
 
 Now we can come to the fun bit where we create our post:
 
-![Replace](../images/2020-01-30/create the post.png)
+![Replace](../images/2020-01-30/create the post.v)
 
 ## And now, here is the news ##
 
@@ -53,14 +53,10 @@ At this point we've got a workable solution, and we can add a news control to a 
 
 ## Going further ##
 
-I wasn't happy with the generic image for each RSS item, especially as that's not what you see if you add a link via the UI. The better solution would be to add some further steps to our flow, and go off and page scrape the destination of the link to get ourselves a  image for the story. We could try and parse the HTML to look for the main image, but HTML parsing is always tricky. Fortunatly, there is a standard solution to this problem, although, as always there's no absolute certaincy that every page will have this. But many bigger news organisations provide an 'og:image' metatag with our image in the header. 'og' means open graph, and an example looks something like this:
+I wasn't happy with the generic image for each RSS item, especially as that's not what you see if you add a link via the UI. The better solution would be to add some further steps to our flow, and go off and page scrape the destination of the link to get ourselves a  image for the story. We could try and parse the HTML to look for the main image, but HTML parsing is always tricky. Fortunately, there is a standard solution to this problem, although, as always there's no absolute certainty that every page will have this. But many bigger news organisations provide an 'og:image' metatag with our image in the header. 'og' means open graph, and an example looks something like this:
 
 ```HTML
 <meta property="og:image" content="http://ia.media-imdb.com/images/rock.jpg" /> 
 ```
 
-However, it turns out that at the time of writting the seemingly simple task of grabbing some content from a webpage isn't simple, so we'll cover this in a further blog post.
-
-
-
-
+However, it turns out that at the time of writing the seemingly simple task of grabbing some content from a webpage isn't simple, so we'll cover this in a further blog post.
