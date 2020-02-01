@@ -38,7 +38,6 @@ Connect-SPOService -Url https://dylanhayes-admin.sharepoint.com -Credential $PSC
 Set-SPOHomeSite -HomeSiteUrl https://dylanhayes.sharepoint.com/HomeSite
 
 Invoke-SPOSiteSwap -SourceUrl https://dylanhayes.sharepoint.com/sites/HomeSite -TargetUrl https://dylanhayes.sharepoint.com -ArchiveUrl https://dylanhayes.sharepoint.com/sites/Archive
-
 ```
 
 ## Areas of confusion

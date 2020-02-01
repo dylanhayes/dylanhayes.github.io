@@ -13,7 +13,7 @@ There are some 3rd party RSS web parts, but none of them offered a very pleasing
 
 Step forward Power Automate's RSS connector. The obvious solution is create a Power Automation triggered by the RSS connector, which puts new RSS feed items into a SharePoint list. Add in the secret sauce of a view formatter, and a nice looking RSS feed can be yours. By choosing to put multiple feeds into one list, you can make one consolidated view, or filter the views by origin to separate out the items as required. 
 
-![Overview](../../images/2020-01-30/rss to list.c)
+![Overview](../../images/2020-01-30/rss to list.PNG)
 
 ## Power Automate and News ##
 
@@ -21,31 +21,38 @@ A list just felt like a missed opportunity to me. There's been a lot of investme
 
 Alas, there's no action in Power Automate to create a news page, or indeed a news link page. However, I turned on the developer tools in the browser, and observed the traffic when I used the UI to add a news link page. It turns out it's actually a pretty simple POST to a REST endpoint with a payload of the link, title, description and image. 
 
-```JSON
-{"BannerImageUrl":"https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/01/Microsoft-Edge-FB.jpg","Description":"Microsoft Edge saves you time and helps you focus by delivering a fast and secure way to get things done on the web. Today, the new Microsoft Edge is out of preview and ready for download on all supported versions of Windows and macOS and in more tha","IsBannerImageUrlExternal":true,"OriginalSourceUrl":"https://www.microsoft.com/en-us/microsoft-365/blog/2020/01/15/the-new-microsoft-edge-now-available-for-download/","ShouldSaveAsDraft":false,"Title":"The new Microsoft Edge now available for download - Microsoft 365 Blog","__metadata":{"type":"SP.Publishing.RepostPage"}}
+```javascript
+{"BannerImageUrl":"https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/01/Microsoft-Edge-FB.jpg",
+"Description":"Microsoft Edge saves you time and helps you focus by delivering a fast and secure way to get things done on the web. 
+Today, the new Microsoft Edge is out of preview and ready for download on all supported versions of Windows and macOS and in more tha",
+"IsBannerImageUrlExternal":true,
+"OriginalSourceUrl":"https://www.microsoft.com/en-us/microsoft-365/blog/2020/01/15/the-new-microsoft-edge-now-available-for-download/",
+"ShouldSaveAsDraft":false,
+"Title":"The new Microsoft Edge now available for download - Microsoft 365 Blog",
+"__metadata":{"type":"SP.Publishing.RepostPage"}}
 ```
 
 With the aid of a HTTP action we can certainly do that in Power Automate. By subsitution of the values I had captured with the values provided by the RSS connector, I was able to create a new news link page every time a new item got added the the RSS feed (have I said 'new' enough?).
 
 ## Putting it all together ##
 
-![Overview](../images/2020-01-30/flow overview.v)
+![Overview](../images/2020-01-30/flow overview.PNG)
 
 When you add a link via the user interface, SharePoint goes off and grabs the title, description and image for the post before it POSTs back to the endpoint we're going to hit. The RSS connector doesn't have any concept of an image for each item, so we don't get to have an image for each item, which is a real shame as that really would be the cherry on the top of our delicious RSS cake. The simple solution is to simply upload a generic image (such as the logo for the RSS feed provider) to a known location in SharePoint like the assets library and stick that URL into the image part of the POST payload - to make the POST code easier to read we're going to put this into variable. This works OK, but feels like we're not taking full advantage of the features of news. 
 
-![Logo](../images/2020-01-30/adding a variable for logo.v)
+![Logo](../images/2020-01-30/adding a variable for logo.PNG)
 
 After I got my proof of concept, it didn't take long to notice that some stories would fail to parse. A quick examination of the error showed that double quotes inside the content was managling the JSON. With the aid of a bit of search and replace this was soon fixed.
 
-```
-replace(triggerBody()?['summary'],'"', '\"')
+```VBScript
+replace(triggerBody()?['summary'],'"', '\"')mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 ```
 
-![Replace](../images/2020-01-30/story body replace.v)
+![Replace](../images/2020-01-30/story body replace.PNG)
 
 Now we can come to the fun bit where we create our post:
 
-![Replace](../images/2020-01-30/create the post.v)
+![Replace](../images/2020-01-30/create the post.PNG)
 
 ## And now, here is the news ##
 
