@@ -99,7 +99,12 @@ The news web part is very versitile and has many different options, and will cop
 
 ## Conclusions ##
 
-Just getting started with this refinement to the original idea of reading RSS requires a premium Power Automate feature, which means the solution has to offer real business value. 
-Parsing HTML is painful, involves lots of steps and is potentially fragile. Despite these two negatives, the overall solution looks really good, as news is such a rich way to display this sort of content. There's no reason why the same can't be applied to other use cases involving picking out the og:image metatag from internet pages, or indeed that the same technique can't be applied to other web page parsing needs. This is one area that a custom connector which integrates with an existing HTML parsing library could really make life easier (if not cheaper as custom connectors are premium features) as even something as obtuse as XPATH would still be more robust and terse than fishing for strings in a big bowl of tag soup.
+Just getting started with this refinement to the original idea of reading RSS requires a the HTTP action, which is a premium Power Automate feature. So the solution has to offer real business value, and adding images to RSS items may not 
+always be important enough to justify the cost.  
+Parsing HTML is painful, involves lots of steps and is potentially fragile. 
+
+Despite these two negatives, the overall solution looks really good, as news is such a rich way to display this sort of content. There's no reason why the same can't be applied to other use cases involving picking out the og:image metatag from internet pages, or indeed that the same technique can't be applied to other web page parsing needs. This is one area that a custom connector which integrates with an existing HTML parsing library could really make life easier (custom connectors are premium features so it wouldn't be any cheaper to run) as even something as obtuse as XPATH would still be more robust and terse than fishing for strings in a big bowl of tag soup.
+
+If cost is a barrier, then recreating this in Azure logic apps may be the way to go, espcially if the volume of RSS feeds is low, as costs are consumption based. 
 
 

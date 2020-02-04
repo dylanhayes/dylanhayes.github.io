@@ -47,7 +47,7 @@ When you add a link via the user interface, SharePoint goes off and grabs the ti
 
 After I got my proof of concept, it didn't take long to notice that some stories would fail to parse. A quick examination of the error showed that double quotes inside the content was mangling the JSON. With the aid of a bit of search and replace on the offending string this was soon fixed.
 
-```VBScript
+``` 
 replace(triggerBody()?['summary'],'"', '\"')
 ```
 
