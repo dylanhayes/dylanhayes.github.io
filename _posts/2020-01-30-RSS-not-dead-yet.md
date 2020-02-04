@@ -71,4 +71,4 @@ I wasn't happy with the generic image for each RSS item, especially as that's no
 <meta property="og:image" content="http://ia.media-imdb.com/images/rock.jpg" /> 
 ```
 
-However, it turns out that at the time of writing the seemingly simple task of grabbing some content from a webpage isn't simple, so we'll cover this in a further blog post about [2020-02-01/Extracting-metatag-from-webpage.md](parsing HTML with Power Automate).
+However, it turns out that at the time of writing the seemingly simple task of grabbing some content from a webpage isn't simple, so we'll cover this in a further blog post about [/Extracting-metatag-from-webpage.md](parsing HTML with Power Automate).

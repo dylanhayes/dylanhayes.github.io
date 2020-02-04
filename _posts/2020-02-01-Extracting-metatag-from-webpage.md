@@ -6,7 +6,7 @@ title: Modern SharePoint and RSS Part 2 - extracting metadate from a webpage
 ## What are we trying to do? ##
 
 In a previous post I discussed how it was actually very easy to 
-[extract RSS into SharePoint news](2020-01-30/RSS-not-dead-yet.md), but I wasn't happy with the generic image for each RSS item, as news just looks so much nicer with a image for each. This is what you see if you add a link via the UI. What we need to do is add some further steps to our flow to go off and page scrape the destination of the link to get an image for the story. 
+[extract RSS into SharePoint news](/2020-01-30-RSS-not-dead-yet.md), but I wasn't happy with the generic image for each RSS item, as news just looks so much nicer with a image for each. This is what you see if you add a link via the UI. What we need to do is add some further steps to our flow to go off and page scrape the destination of the link to get an image for the story. 
 
 ## Salvation from Og:Image ##
 
