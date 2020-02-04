@@ -3,6 +3,9 @@ layout: post
 title: Modern SharePoint and RSS Part 2 - extracting metadate from a webpage
 ---
 
+_Parsing a web page with the HTTP action and bloody, sweat and tears_
+
+
 ## What are we trying to do? ##
 
 In a previous post I discussed how it was actually very easy to 

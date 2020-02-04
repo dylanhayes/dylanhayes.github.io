@@ -3,6 +3,8 @@ layout: post
 title: Modern SharePoint and RSS
 ---
 
+_RSS is like latin, it's been dead for years but is still used sometimes_
+
 ## The problem ##
 
 RSS has been around for a while. A staple of many a SharePoint intranet of yesteryear was a couple of RSS web parts showing industry news. RSS is no longer quite so popular, and Modern SharePoint doesn't have a native RSS web part anymore. But the requirement hasn't entirely gone away.
