@@ -6,7 +6,7 @@ title: Modern SharePoint and RSS Part 2 - extracting metadate from a webpage
 ## What are we trying to do? ##
 
 In a previous post I discussed how it was actually very easy to 
-(extract RSS into SharePoint news)[2020-01-30-RSS-not-dead-yet.md], but I wasn't happy with the generic image for each RSS item, as news just looks so much nicer with a image for each. This is what you see if you add a link via the UI. What we need to do is add some further steps to our flow to go off and page scrape the destination of the link to get an image for the story. 
+[extract RSS into SharePoint news](2020-01-30-RSS-not-dead-yet.md), but I wasn't happy with the generic image for each RSS item, as news just looks so much nicer with a image for each. This is what you see if you add a link via the UI. What we need to do is add some further steps to our flow to go off and page scrape the destination of the link to get an image for the story. 
 
 ## Salvation from Og:Image ##
 
@@ -45,11 +45,11 @@ HTTP GET to go and get the content of the link target.
 
 Creating a variable for the `og:image` URL. 
 
-![Variable for images](../../images/2020-02-01/initimage url.PNG)
+![Variable for images](../../images/2020-02-01/init image url.PNG)
 
-Creating a variable for newline. Note the value is a return not an empty line!
+Creating a variable for newline. *Note the value is a return not an empty line!*
 
-![Newline](../../images/2020-02-01/init newline.PNG)
+![Newline variable](../../images/2020-02-01/init newline.PNG)
 
 
 Parsing the HTML into an array. Note how we use the newline variable as the separator.
