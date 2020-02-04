@@ -8,7 +8,7 @@ title: Modern SharePoint and RSS Part 2 - extracting metadate from a webpage
 In a previous post I discussed how it was actually very easy to 
 [extract RSS into SharePoint news](https://dylanhayes.github.io/RSS-not-dead-yet/), but I wasn't happy with the generic image for each RSS item, as news just looks so much nicer with a image for each. This is what you see if you add a link via the UI. What we need to do is add some further steps to our flow to go off and page scrape the destination of the link to get an image for the story. 
 
-## Salvation from Og:Image ##
+## Salvation by Og:Image ##
 
 Rather than look for a main image by parsing the page body HTML which is inevitably going to be fragile and complicated, wouldn't it be great if there was a standard way to do this? It turns out that is, many bigger news organisations provide an 'og:image' metatag with our image which is intended to do exactly that. As always, with these things there's no certaincy it will exist, but it's our best bet. 'og' means open graph, and an example of the image looks something like this
 
