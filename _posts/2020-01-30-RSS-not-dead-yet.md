@@ -11,7 +11,7 @@ There are some 3rd party RSS web parts, but none of them offered a very pleasing
 
 ## Power Automate and a formatted list ##
 
-Step forward Power Automate's RSS connector. The obvious solution is create a Power Automation triggered by the RSS connector, which puts new RSS feed items into a SharePoint list. Add in the secret sauce of a view formatter, and a nice looking RSS feed can be yours. By choosing to put multiple feeds into one list, you can make one consolidated view, or filter the views by origin to separate out the items as required. 
+Step forward Power Automate's RSS connector. The obvious solution is create a Power Automation triggered by the RSS connector, which puts new RSS feed items into a SharePoint list. Add in the secret sauce of a view formatter, and a nice looking RSS feed can be yours. By choosing to put multiple feeds into one list, you can make one consolidated view, or filter the views by origin to separate out the items as required. With a fairly simple view formatter, an attractive RSS feed is possible with limited effort. However, we have to make all the effort to do the formatting, and any changes mean delving in to the JSON that does the formatting.
 
 ![Overview](../../images/2020-01-30/rss to list.PNG)
 
@@ -61,14 +61,14 @@ Now we can come to the fun bit where we create our post:
 
 ## And now, here is the news ##
 
-At this point we've got a workable solution, and we can add a news control to a page and play around with the output. There's lots of different options for how the news displays, so we're sure to find something that suits our needs. As our RSS feed is creating news, we may decide that we want this content mixed in with our own internal news, or more likely we'd like to segregate it from our internal news. By putting our RSS derived news link pages into a separate site, this lets us easily filter out RSS derived news from the news web parts elsewhere in the site simply by selecting which sites we get news from and making a point to exclude that site. I'm anticipating that news will eventually get richer ways to classify each story, and this would provide a better solution in future. 
+At this point we've got a workable solution, and we can add a news control to a page and play around with the output. There's lots of different options for how the news displays, so we're sure to find something that suits our needs. As our RSS feed is creating news, we may decide that we want this content mixed in with our own internal news, or more likely we'd like to segregate it from our internal news. By putting our RSS derived news link pages into a separate site, this lets us easily filter out RSS derived news from the news web parts elsewhere in the other sites simply by selecting which sites we get news from and making a point to exclude the RSS site. I'm anticipating that news will eventually get richer ways to classify each story, and this would provide a better solution in future. 
 
 ## Going further ##
 
-I wasn't happy with the generic image for each RSS item, especially as that's not what you see if you add a link via the UI. The better solution would be to add some further steps to our flow, and go off and page scrape the destination of the link to get ourselves a  image for the story. We could try and parse the HTML to look for the main image, but HTML parsing is always tricky. Fortunately, there is a standard solution to this problem, although, as always there's no absolute certainty that every page will have this. But many bigger news organisations provide an 'og:image' metatag with our image in the header. 'og' means open graph, and an example looks something like this:
+I wasn't happy with the generic image for each RSS item, especially as that's not what you see if you add a link via the UI. The better solution would be to add some further steps to our flow, and go off and page scrape the destination of the link to get ourselves a  image for the story. We could try and parse the HTML to look for the main image, but HTML parsing is always tricky. Fortunately, there is a standard solution to this problem, although, as always there's no absolute certainty that every page will have this. But many bigger news organisations provide an 'og:image' metatag with our image in the header and an example looks something like this:
 
 ```HTML
 <meta property="og:image" content="http://ia.media-imdb.com/images/rock.jpg" /> 
 ```
 
-However, it turns out that at the time of writing the seemingly simple task of grabbing some content from a webpage isn't simple, so we'll cover this in a further blog post.
+However, it turns out that at the time of writing the seemingly simple task of grabbing some content from a webpage isn't simple, so we'll cover this in a further blog post about HTML (2020-02-01-Extracting-metatag-from-webpage.md)[parsing with Power Automate].
