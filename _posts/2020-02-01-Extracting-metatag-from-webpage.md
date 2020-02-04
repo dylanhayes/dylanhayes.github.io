@@ -75,6 +75,10 @@ Now we need to cast the array output from the previous step into a string, and t
 
 And finally our penultimate step to escape the double quotes in the RSS body
 
+``` 
+replace(triggerBody()?['summary'],'"', '\"')
+```
+
 ![Replace](../images/2020-01-30/story body replace.PNG)
 
 Finally the POST where we compose our REST call to the SharePoint API. Note the 
