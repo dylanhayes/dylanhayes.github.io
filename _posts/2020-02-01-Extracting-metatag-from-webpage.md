@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modern SharePoint and RSS Part 2 - extracting metadate from a webpage
+title: Modern SharePoint and RSS Part 2 - extracting metadata from a webpage
 ---
 
 _Parsing a web page with the HTTP action and blood, swears and tears_
@@ -13,7 +13,7 @@ In a previous post I discussed how it was actually very easy to
 
 ## Salvation by Og:Image ##
 
-Rather than look for a main image by parsing the page body HTML which is inevitably going to be fragile and complicated, wouldn't it be great if there was a standard way to do this? It turns out that is, many bigger news organisations provide an 'og:image' metatag with our image which is intended to do exactly that. As always, with these things there's no certaincy it will exist, but it's our best bet. 'og' means open graph, and an example of the image looks something like this
+Rather than look for a main image by parsing the page body HTML which is inevitably going to be fragile and complicated, wouldn't it be great if there was a standard way to do this? It turns out that is, many bigger news organisations provide an 'og:image' metatag with a  path to an image which is intended to do exactly that. As always, with these things there's no certainty it will exist, but it's our best bet. Incidently if you were wondering, 'og' means open graph, and an example of the image looks something like this
 
 ```HTML
 <meta property="og:image" content="http://ia.media-imdb.com/images/rock.jpg" /> 
@@ -108,6 +108,6 @@ Parsing HTML is painful, involves lots of steps and is potentially fragile.
 
 Despite these two negatives, the overall solution looks really good, as news is such a rich way to display this sort of content. There's no reason why the same can't be applied to other use cases involving picking out the og:image metatag from internet pages, or indeed that the same technique can't be applied to other web page parsing needs. This is one area that a custom connector which integrates with an existing HTML parsing library could really make life easier (custom connectors are premium features so it wouldn't be any cheaper to run) as even something as obtuse as XPATH would still be more robust and terse than fishing for strings in a big bowl of tag soup.
 
-If cost is a barrier, then recreating this in Azure logic apps may be the way to go, espcially if the volume of RSS feeds is low, as costs are consumption based. 
+If cost is a barrier, then recreating this as an Azure logic apps may be the way to go, espcially if the volume of RSS feeds is low, as costs are consumption based. 
 
 
