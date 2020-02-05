@@ -88,4 +88,6 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
+
+remote_theme: "mmistakes/jekyll-theme-basically-ba
