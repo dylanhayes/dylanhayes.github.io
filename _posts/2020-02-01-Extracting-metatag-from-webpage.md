@@ -3,7 +3,7 @@ layout: post
 title: Modern SharePoint and RSS Part 2 - extracting metadata from a webpage
 ---
 
-_Parsing a web page with the HTTP action and blood, swears and tears_
+_Parsing a web page with an HTTP action and blood, swears and tears_
 
 
 ## What are we trying to do? ##
