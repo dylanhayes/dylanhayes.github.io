@@ -90,4 +90,6 @@ exclude:
 
 #theme: jekyll-theme-architect
 
-remote_theme: "mmistakes/jekyll-theme-basically-ba
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
+
+google_analytics: UA-157858399-1
