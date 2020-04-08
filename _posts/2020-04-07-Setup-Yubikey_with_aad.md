@@ -26,19 +26,25 @@ Sign in to the [Azure portal](https://portal.azure.com/) to let the fun begin.
 
 Head to Azure Active Directory from the ribbon of Azure services, and then go to 'Security'.
 
+![Azure Portal](../../images/2020-04-07/az_mfa_portal.PNG)
+
 In security click on 'Authentication Methods'. You will be reminded that you don't have AAD Premium at this point. If you don't already, start a trial of Aure Active Directory Premium 1.
 
 Now click on Authentication Methods. You should see a list of authentication methods, and the number of users enrolled in them. 
+
+![Authentication Methods](../../images/2020-04-07/authmethods.PNG)
 
 Click on the FIDO2 Security Key method.
 
 You will need to enable it, and then choose which users the policy applies to. For a first attempt, I would suggest targeting a single user. Ensure you have selected 'Allow self-service set up'.
 
+![Allow self-service set up](../../images/2020-04-07/selectmfauser.PNG)
+
 Then you must follow the link at the top of the page with "Click here to enable users for the enhanced registration preview"
 
 Now select a group who should be able to use the new preview features. *Unless you do this you will not be able to access the new authentication methods.*
 
-
+![Preview features](../../images/2020-04-07/previewfeatures.PNG)
 
 
 ### Self service set up ###
@@ -49,21 +55,29 @@ Select 'Security Info' from the menu on the left. You will be prompted for your 
 
 Note: if you will see the classic rather than modern interface, you need to enable the preview features - which is the last step above
 
+![Add security key](../../images/2020-04-07/addseckey.PNG)
+
 Now, just 'Add method' and choose Security Key
 
 You will probably be asked to sign in with MFA again.
 
 Now choose a device
 
+![Choose device](../../images/2020-04-07/choosedevice.PNG)
+
 You will then be walked through setting up the key. If you have entered a PIN previously for the device you will need to provide this
+
+![Setup key](../../images/2020-04-07/choosedevice.PNG)
 
 You will then need to touch the device and allow the device to be registered - this will vary slightly depending on browser
 
 Then you will go back to the mysignins.microsoft.com site to finish by providing a name for the key key
 
+![Setup key](../../images/2020-04-07/seckeyname.PNG)
+
 All done! Use the key instead of a username and password to [login in with a Yubikey](_posts\2020-01-15-2FA-Going-beyond-the-phone.html) instead. 
 
-
+![Setup key](../../images/2020-04-07/keyready.PNG)
 
 
 
