@@ -6,7 +6,7 @@ title: Yubikey and Azure Active Directory login
 _Take the fastlane around passwords_
 ## What are we trying to do? ##
 
-In a previous post I covered just how easy [logging in with a Yubikey](_posts\2020-01-15-2FA-Going-beyond-the-phone.html) or other similar FIDO2 devices is. 
+In a previous post I covered just how easy [logging in with a Yubikey](https://dylanhayes.github.io/2FA-Going-beyond-the-phone/) or other similar FIDO2 devices is. 
 Now we're going to setup this on a new Office 365 Tenant. This feature requires Azure Active Directory and uses a feature that at the time of writing is still in preview.
 
 ### Prerequisites ###
@@ -73,6 +73,6 @@ Then you will go back to the mysignins.microsoft.com site to finish by providing
 
 ![Setup key](../../images/2020-04-07/seekey.PNG)
 
-All done! Use the key instead of a username and password to [login in with a Yubikey](_posts\2020-01-15-2FA-Going-beyond-the-phone.html) instead. 
+All done! Use the key instead of a username and password to [login in with a Yubikey](https://dylanhayes.github.io/2FA-Going-beyond-the-phone/) instead. 
 
 ![Setup key](../../images/2020-04-07/keyready.PNG)
