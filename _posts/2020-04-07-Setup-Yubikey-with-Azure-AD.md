@@ -26,7 +26,7 @@ Head to Azure Active Directory from the ribbon of Azure services, and then go to
 
 ![Azure Portal](../../images/2020-04-07/mfa_az_portal.PNG)
 
-In security click on 'Authentication Methods'. You will be reminded that you don't have AAD Premium at this point. If you don't already, start a trial of Aure Active Directory Premium 1.
+In security click on 'Authentication Methods'. You will be reminded that you don't have AAD Premium at this point. If you don't already, start a trial of Azure Active Directory Premium 1.
 
 Now click on Authentication Methods. You should see a list of authentication methods, and the number of users enrolled in them. 
 
@@ -38,6 +38,7 @@ You will need to enable it, and then choose which users the policy applies to. F
 
 ![Allow self-service set up](../../images/2020-04-07/selectmfauser.PNG)
 
+<a name="selfservice">Important - Remember to Allow Self Service</a>
 Then you must follow the link at the top of the page with "Click here to enable users for the enhanced registration preview"
 
 Now select a group who should be able to use the new preview features. *Unless you do this you will not be able to access the new authentication methods.*
@@ -51,7 +52,7 @@ In a new browser window login to [https://myprofile.microsoft.com](https://mypro
 
 Select 'Security Info' from the menu on the left. You will be prompted for your password again to make sure that you are you. If you have already turned on MFA (please say it's true), you will have to reauthenticate in MFA. *If you have just emerged from a 100 years sleep, and don't yet have MFA enabled you will see a slightly different interface where you will need to set up your first MFA method.*
 
-Note: if you will see the classic rather than modern interface, you need to enable the preview features - which is the last step above
+Note: if you will see the classic rather than modern interface, you need to enable the preview features - which is the [last step](#selfservice) above
 
 ![Add security key](../../images/2020-04-07/addseckey.PNG)
 
@@ -65,7 +66,7 @@ Now choose a device, and select a USB device
 
 You will then be walked through setting up the key. If you have entered a PIN previously for the device you will need to provide this
 
-![Setup key](../../images/2020-04-07/choosedevice.PNG)
+![Setup key](../../images/2020-04-07/pinentry.PNG)
 
 You will then need to touch the device and allow the device to be registered - this will vary slightly depending on browser
 
