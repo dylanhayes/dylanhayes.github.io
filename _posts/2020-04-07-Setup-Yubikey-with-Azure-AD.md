@@ -71,7 +71,7 @@ You will then need to touch the device and allow the device to be registered - t
 
 Then you will go back to the mysignins.microsoft.com site to finish by providing a name for the key key
 
-![Setup key](../../images/2020-04-07/seckeyname.PNG)
+![Setup key](../../images/2020-04-07/seekey.PNG)
 
 All done! Use the key instead of a username and password to [login in with a Yubikey](_posts\2020-01-15-2FA-Going-beyond-the-phone.html) instead. 
 
