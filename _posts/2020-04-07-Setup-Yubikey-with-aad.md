@@ -61,7 +61,7 @@ Now, just 'Add method' and choose Security Key
 
 You will probably be asked to sign in with MFA again.
 
-Now choose a device
+Now choose a device, and select a USB device
 
 ![Choose device](../../images/2020-04-07/choosedevice.PNG)
 
