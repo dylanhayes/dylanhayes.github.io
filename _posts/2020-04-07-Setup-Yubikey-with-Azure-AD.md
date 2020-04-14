@@ -39,7 +39,7 @@ You will need to enable it, and then choose which users the policy applies to. F
 
 *<a name="selfservice">Important - Remember to Enable Preview Features</a>*
 
-Then you must follow the link at the top of the page with "Click here to enable users for the enhanced registration preview"
+To do this you must follow the link at the top of the page with "Click here to enable users for the enhanced registration preview"
 
 Now select a group who should be able to use the new preview features. *Unless you do this you will not be able to access the new authentication methods.*
 
