@@ -11,12 +11,11 @@ Now we're going to setup this on a new Office 365 Tenant. This feature requires 
 
 ### Prerequisites ###
 
-* A Yubikey or similar device. I used a [Yubikey 5 NFC](https://www.yubico.com/works-with-yubikey/catalog/azure-active-directory/), but other keys may work as long they support the correct standards - FIDO2, and some additional extra requirements. 
+* A Yubikey or similar device. I used a [Yubikey 5 NFC](https://www.yubico.com/works-with-yubikey/catalog/azure-active-directory/), but other keys may work as long they support the correct standards - FIDO2, and some additional extra Microsoft specified requirements. 
 
 * A modern browser, and modern Operating System. I have tested this on MacOS and Windows 10 (1903 onwards).
 
-* Office 365, with Azure AD Premium P1 or P2. There are cases where you don't need P1/2 for certain narrow scenarios. As ever, licensing is complex and could fill an entire new blog post. If you have an E3 license, you will need P1. If you are lucky enough to have E5, you will not.
-
+* Office 365, with Azure AD Premium P1 or P2. There are cases where you don't need P1/2 for certain narrow scenarios. As ever, licensing is complex and could fill an entire new blog post. TLDR: If you have an E3 license, you seem to need Azure AD P1. If you are lucky enough to have E5, you will not.
 
 ### Azure Portal ###
 
@@ -38,8 +37,9 @@ You will need to enable it, and then choose which users the policy applies to. F
 
 ![Allow self-service set up](../../images/2020-04-07/selectmfauser.PNG)
 
-<a name="selfservice">Important - Remember to Allow Self Service</a>
-Then you must follow the link at the top of the page with "Click here to enable users for the enhanced registration preview"
+*<a name="selfservice">Important - Remember to Enable Preview Features</a>*
+
+To do this you must follow the link at the top of the page with "Click here to enable users for the enhanced registration preview"
 
 Now select a group who should be able to use the new preview features. *Unless you do this you will not be able to access the new authentication methods.*
 
