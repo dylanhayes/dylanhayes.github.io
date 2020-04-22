@@ -8,7 +8,7 @@ I volunteer in scouting. It's fun, sometimes difficult and frustrating even but 
 It was perhaps fitting that on what was to prove our last in person meeting on the 16th of March; we had a camp fire, did our best to make hotdogs hit the goldilocks zone between stone cold and charred, and sang songs. Whilst we did this the email came out from HQ suspending face to face scouting in the UK until further notice.
 
 
-![Fire](../../images/bonfire-photo.jpg)
+![Fire](../../images/2020-04-21/bonfire-photo.jpg)
 
 Since our last in person meeting, we've done our best to carry on scouting. For a movement born under a (state of siege)[https://en.wikipedia.org/wiki/Siege_of_Mafeking#Siege] in a far away Victorian war, I felt doing so represented both the original values the scouting movement encapsulated and a more contemporary need to provide some sense of continuity to  children in a world even the adults struggled to understand.
 
