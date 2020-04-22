@@ -22,6 +22,6 @@ Since then, we've kept the same format, and added additional material referencin
 
 ![Badly pitched tent](../../images/2020-04-21/IMG_20200410_203435.jpg)
 
-There's a new trend towards "camping at home" and we've already dabbled in this, but this weekend we're going to try and take it a bit further and try a virtual camp, and encourage the young people to try camping at home as a group activity, and try and set some activities and make it more of a shared experience. Because the taking part is so important, if you have a suitable tent and garden you can use, then great, but it's equally valid to build a den in the living room.
+There's a new trend towards "camping at home" and we've already dabbled in this, but this weekend we're going to try and take it a bit further and try a virtual camp, and encourage the young people to try camping at home as a group activity by doing so simultaneously, and try and set some activities and make it more of a shared experience. Because the taking part is so important, if you have a suitable tent and garden you can use, then great, but it's equally valid to build a den in the living room.
 
 Of course, we'd all rather be on a real campsite, doing real activities together, as that's very much what Scouting is about. But, Scouting is also about doing your best and helping others, and sometimes that means being inventive and optimistic even in strange times.
