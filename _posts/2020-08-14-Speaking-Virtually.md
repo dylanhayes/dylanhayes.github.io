@@ -124,9 +124,11 @@ The software that is bundled with the Stream Deck allows you to define either ac
 
 In a recent talk I wished to demonstrate a couple of things which didn&#39;t really work with the setup I have just described. The first scenario was showing the process of authenticating into Office 365 with a Yubikey. A screen share didn&#39;t capture the interaction of plugging in the USB key and logging in to Office.com. The second was to show how DRM protected documents can have restrictions baked into the documents. So effective is the DRM that attempting to screen share a document with restrictions shows a blank area to viewers where the document should be.
 
+![HUE are you](../../images/2020-08-14/huecamera.jpg)
+
 In both cases the solution was to bring in video from an additional camera. Educators use similar setups to show paper documents in classroom settings. I found that if I setup a Hue HD camera, which has a flexible gooseneck, I could place a laptop on my desk and angle the camera to show the laptop and it&#39;s screen to allow me to demonstrate the steps to use a Yubikey and show DRM documents without the pesky DRM doing it&#39;s job. Better yet, I could setup an additional scene in OBS which featured the extra camera full screen and my regular camera in a small window in the bottom, so the audience could see me and what I was talking about.
 
-![HUE are you](../../images/2020-08-14/huecamera.jpg)
+![Second camera](../../images/2020-08-14/secondcamera.png)
 
 **Going further**
 
