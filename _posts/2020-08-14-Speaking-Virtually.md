@@ -36,6 +36,8 @@ Modern video conferencing software has fancy video processing to blur or replace
 
 Once you are happy with the camera angle, then consider the lighting. You can buy specially made video lighting kit, but as I actually wanted to do work in my home office as well, I decided against this. As we already had Hue lighting in the house, I did however buy some additional Hue lights and put these either side of my monitors. By using the Hue Sync app on my PC, as well as my phone I could easily bring in plenty of light when I needed to without making my office feel like a studio the rest of the time. Bear in mind natural lighting from windows changes through out the day and bright sunlight streaming into a room is pleasant but not always helpful for video.
 
+![Hue Sync](../../images/2020-08-14/huesync.png)
+
 As always, taking the time to experiment and perfect this will result in a better experience.
 
 **Voices**
