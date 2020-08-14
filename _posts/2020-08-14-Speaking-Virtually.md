@@ -81,6 +81,8 @@ I realised the key concept was to build a series of scenes, and each of these wo
 
 I could then simply use OBS to switch scenes during the presentation as I wanted.
 
+![OBS](../../images/2020-08-14/obs modesjpg)
+
 Emboldened by this I immediately set about adding more scenes and getting all the toys out of the box to see what it could do, before settling on something more practical that I could work with during a talk when my concentration was mostly focused on the actual talk.
 
 There&#39;s a number of things I found really help make the most out of OBS:
