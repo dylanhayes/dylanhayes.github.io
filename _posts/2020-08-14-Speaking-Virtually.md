@@ -3,10 +3,10 @@ layout: post
 title: Virtually Speaking
 ---
 
+I&#39;ve got multiple, diverse interests and it&#39;s always great when different interests have some connections. Just like everyone else, I found myself having to adapt to life through the lens of a webcam. In my public speaking, work and my volunteering in Scouting I found a common theme that presenting and demoing things over video is very different to doing so in person, and there was much room to do this better.
+
 ![StreamDeck](../../images/2020-08-14/desktop.jpg)
 
-
-I&#39;ve got multiple, diverse interests and it&#39;s always great when different interests have some connections. Just like everyone else, I found myself having to adapt to life through the lens of a webcam. In my public speaking, work and my volunteering in Scouting I found a common theme that presenting and demoing things over video is very different to doing so in person, and there was much room to do this better.
 
 So, I decided to think about the bits I didn&#39;t like and ponder if there was a better solution already out there.
 
