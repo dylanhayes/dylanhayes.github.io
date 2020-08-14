@@ -3,6 +3,9 @@ layout: post
 title: Virtually Speaking
 ---
 
+![StreamDeck](../../images/2020-08-14/desktop.jpg)
+
+
 I&#39;ve got multiple, diverse interests and it&#39;s always great when different interests have some connections. Just like everyone else, I found myself having to adapt to life through the lens of a webcam. In my public speaking, work and my volunteering in Scouting I found a common theme that presenting and demoing things over video is very different to doing so in person, and there was much room to do this better.
 
 So, I decided to think about the bits I didn&#39;t like and ponder if there was a better solution already out there.
@@ -25,6 +28,8 @@ Before we get down to the technical and hardware toys, it&#39;s probably taking 
 
 I bought a Logitech c930e web camera for my home office early in 2020. Since then market forces have done insane things to the prices of decent cameras. The reason for this is that laptop cameras are not flattering. The small size and desire for cost cutting mean the picture quality is often poor regardless of the resolution in pixels. Not only that but the camera angle below the chin just isn&#39;t flattering to most people. Better cameras will produce a good picture even in less than ideal lighting conditions, as often you will find in a home setting. Once you have got yourself setup with a camera in a better location, the next thing is to think carefully about what is also on camera behind you. Ideally this should reflect the imagine you wish to project, and be part of your personal branding, without being too distracting. Politicians expend huge efforts ensuring the podiums they speak from have nothing negative behind them, and it&#39;s something you should think about to. Generally unless you are lucky enough to have some space behind you, overbearing items around your head are distracting to your viewers. How much of the view is you versus how much is background is a matter of personal taste, but a really close in image of a face is generally uncomfortable for most people to view.
 
+
+
 Joe Wicks became a household name over lockdown with his &quot;PE With Joe&quot; YouTube exercise classes, and he did a brilliant job of broadcasting from what was recognisably a normal living room, but with carefully curated items placed in it. Be like Joe.
 
 Modern video conferencing software has fancy video processing to blur or replace the background. It does an amazing job under the circumstances, but there&#39;s always some leakage at the edges. If you wear glasses, wear headphones, or have frizzy hair the software gets confused about what is and isn&#39;t you and weird effect abound. I like to play the game of trying to guess what the room behind looks like from the brief glimpses you get whilst the software is struggling to detect the edges. I personally think it&#39;s a distraction, so unless you really have no better option, sorting out your background usually looks better.
@@ -44,6 +49,8 @@ With a boom you can place the mic in the optimal place to pick up your voice and
 There&#39;s a certain amount of adjustment needed to get the right placement for the microphone, so there&#39;s a lot of value of any time spent adjusting things. You may decide to go to town on this and get a pop filter if you are prone to spitting at the microphone, and a shock mount if you are prone to bashing the mount. My own experience was that a cheap mount and an expensive microphone seemed to do the job.
 
 It&#39;s kind of obvious, but background noise which you not aware of, is really noticeable when you are recording. Anything from neighbourhood dogs to delivery drivers will inevitably happen when you least expect it. A quality microphone will have a directional pattern which will go some way to remove noise from anything but in front of you, but don&#39;t expect it to miraculously mask out background noise. Those of you, myself included who have mechanical keyboards may wish to plug in a quieter keyboard during recording,
+
+![StreamDeck](../../images/2020-08-14/mic.jpg)
 
 **Putting it together**
 
@@ -98,6 +105,8 @@ With two or more screens I will set one screen up as my presentation, and the ot
 
 Game streamers have this exact same problem, and playing a game and talking requires even more concentration. One of the ways they solve this problem is with an external USB device called a Stream Deck that offers a bunch of customisable actions from customisable buttons. The device comes in 3 sizes with 6, 20 or 32 buttons. More buttons cost more and makes the device bigger. The accompanying software lets you set up actions for each of the button, and a custom icon and text for each button that is shown on a LCD panel behind the buttons. Illuminated labelled buttons are so much easier to find that keyboard shortcuts. And the shortcuts can be quite deeply integrated with commonly used applications.
 
+![StreamDeck](../../images/2020-08-14/streamdeck.jpg)
+
 For my setup I choose the base level Stream Deck mini with 6 buttons, and setup buttons as follows:
 
 1. Move to previous virtual desktop
@@ -114,6 +123,8 @@ The software that is bundled with the Stream Deck allows you to define either ac
 In a recent talk I wished to demonstrate a couple of things which didn&#39;t really work with the setup I have just described. The first scenario was showing the process of authenticating into Office 365 with a Yubikey. A screen share didn&#39;t capture the interaction of plugging in the USB key and logging in to Office.com. The second was to show how DRM protected documents can have restrictions baked into the documents. So effective is the DRM that attempting to screen share a document with restrictions shows a blank area to viewers where the document should be.
 
 In both cases the solution was to bring in video from an additional camera. Educators use similar setups to show paper documents in classroom settings. I found that if I setup a Hue HD camera, which has a flexible gooseneck, I could place a laptop on my desk and angle the camera to show the laptop and it&#39;s screen to allow me to demonstrate the steps to use a Yubikey and show DRM documents without the pesky DRM doing it&#39;s job. Better yet, I could setup an additional scene in OBS which featured the extra camera full screen and my regular camera in a small window in the bottom, so the audience could see me and what I was talking about.
+
+![HUE are you](../../images/2020-08-14/huecamera.jpg)
 
 **Going further**
 
