@@ -75,7 +75,7 @@ Video conferencing software such as Teams and Zoom has the ability to share a wi
 
 It turns out that gamers have been doing something similar for a long time, as streaming games to large audiences is a big enough market for Amazon to spend close to a billion dollars on Twitch. There was a large selection of software available for doing this. Some software was heavily tailored to game streaming and some was more general purpose.
 
-Open Broadcast System, or OBS for short seemed to be the best option for my use cases. Although the software is very powerful, it&#39;s not particularly oblivious what to do.
+Open Broadcast System, or OBS for short seemed to be the best option for my use cases. Although the software is very powerful, it&#39;s not particularly obivious what to do.
 
 **Looking for a change of scene**
 
@@ -93,19 +93,19 @@ There&#39;s a number of things I found really help make the most out of OBS:
 - You can add a &#39;test card&#39; scene with no video and use this before you are ready to broadcast as a placeholder until you are ready.
 - Virtual desktops work really well, but remember to pin OBS so that it appears on all desktops (on the screen you are not sharing) if you have a multiscreen setup so you can still control OBS when you change desktop.
 - Although OBS allows you to mix audio as well as video, if you are outputting your video to conference via a virtual camera (more on this later), this will make no difference.
-- You can add text and even widgets to each scene, which is a great way to add some branding to your video. Just because you can, doesn&#39;t mean you should, and be wary of trying to emulate a 24 rolling news channel with graphics and text exploding all over the feed as it distracts from the content.
+- You can add text and even widgets to each scene, which is a great way to add some branding to your video. Just because you can, doesn&#39;t mean you should, and be wary of trying to emulate a 24 rolling news channel with graphics and text exploding all over the screen as it distracts from the content.
 
 **Being a Teams player**
 
-OBS by default outputs video as stream. This is pretty easy to use as a source using a &quot;stream key&quot; with broadcast orientated setups, as with most of the common solutions including Facebook live and Teams live events, but when you want to inject video from OBS into a regular Teams meeting, or indeed any other software which expects a video stream from a camera, you will need an extra bit of software which converts the output from OBS into a virtual camera. Fortunately it&#39;s a really simple process of downloading OBS Virtual Cam and setting this as your &quot;camera&quot; in your meeting software.
+OBS by default outputs video as a stream. This is pretty easy to use as a source with broadcast orientated setups, as with most of the common solutions including Facebook live and Teams live events use a stream key you can plugin to OBS, but when you want to inject video from OBS into a regular Teams meeting, or indeed any other software which expects a camera, you will need an extra bit of software which converts the output from OBS into a virtual camera. Fortunately it&#39;s a really simple process of downloading OBS Virtual Cam and setting this as your &quot;camera&quot; in your meeting software.
 
 [Obs virtualcam](https://obsproject.com/forum/resources/obs-virtualcam.949/)
 
 **Avoiding cognitive overload**
 
-In a professional TV broadcast there is the role of the producer and the presenter. The producer is responsible for controlling the presentation, and the presenter is responsible for the content. Most of us doing public speaking don&#39;t have this luxury, so you have deal with both the medium and the message. Ideally, we should be free to concentrate on the message without getting too distracted by the medium. But, now I have hopefully convinced you of the advantages of taking more controlling the medium, how do you actually manage to do all of this? People are terrible at multitasking, but there are tricks you can do to help manage your presentation.
+In a professional TV broadcast there is the role of the producer and the presenter. The producer is responsible for controlling the presentation, and the presenter is responsible for presenting the content. Most of us doing public speaking don&#39;t have this luxury, so you have deal with both the medium and the message. Ideally, we should be free to concentrate on the message without getting too distracted by the medium. But, now I have hopefully convinced you of the advantages of taking more interest in controlling the medium, how do you actually manage all of this? People are terrible at multitasking, but there are tricks you can do to help manage your presentation.
 
-With two or more screens I will set one screen up as my presentation, and the other screen as my production screen, and ensure all the stuff needed for the demo will open on the presentation screen, and keep everything needed for the production (video conferencing software, OBS, notes, timers etc) on the other. This helps me remember where to look for things. The snag with this, is that to change scenes in OBS requires you to mouse out of the presentation screen and find OBS, which is a distraction. Even with keyboard shortcuts, you need to then ensure OBS has focus. Applications like AutoHotKey allow the creation of quite complex behaviours from keyboard shortcuts, but remembering the right combination is yet more cognitive load.
+With two or more screens I will set one screen up as my presentation, and the other screen as my production screen, and ensure all the stuff needed for the demo will open on the presentation screen, and keep everything needed for the production (video conferencing software, OBS, notes, timers. lighting etc) on the other. This helps me remember where to look for things. The snag with this, is that to change scenes in OBS requires you to mouse out of the presentation screen and find OBS, which is a distraction. Even with keyboard shortcuts, you need to then ensure OBS has focus. Applications like AutoHotKey allow the creation of quite complex behaviours from keyboard shortcuts, but remembering the right combination is yet more cognitive load, i.e. something else to get wrong.
 
 Game streamers have this exact same problem, and playing a game and talking requires even more concentration. One of the ways they solve this problem is with an external USB device called a Stream Deck that offers a bunch of customisable actions from customisable buttons. The device comes in 3 sizes with 6, 20 or 32 buttons. More buttons cost more and makes the device bigger. The accompanying software lets you set up actions for each of the button, and a custom icon and text for each button that is shown on a LCD panel behind the buttons. Illuminated labelled buttons are so much easier to find that keyboard shortcuts. And the shortcuts can be quite deeply integrated with commonly used applications.
 
@@ -120,9 +120,9 @@ For my setup I choose the base level Stream Deck mini with 6 buttons, and setup 
 5. Scene Three - Full screen camera
 6. Scene Four - Secondary camera
 
-The software that is bundled with the Stream Deck allows you to define either actions for specific products related streaming, including OBS, but also many other quite esoteric applications, or to activate keyboard shortcuts (which is how to change virtual desktop). You can customise the image on the button and the text. As well as the bundled icons, you can add your own, although the icon generator application is a bit clunky. For a basic setup 6 buttons is enough although I'm sure I can find a use for a few more buttons. I suspect 20 would be more than I need right now, and I'd end up having buttons for stuff I never do to confused me.
+The software that is bundled with the Stream Deck allows you to define either actions for specific products related to streaming, including OBS, but also many other quite esoteric applications intended for the gamer audience, or to activate keyboard shortcuts (which is how to change virtual desktop). You can customise the image on the button and the text. As well as the bundled icons, you can add your own, although the icon generator application is a bit clunky. For a basic setup 6 buttons is enough although I'm sure I can always find a use for a few more buttons. 
 
-There are various other solutions, including a remote control for OBS that can run on a second computer or device, and even a Stream Deck mobile app. Alas, the Stream Deck mobile app is subscription service even if you have bought the Stream Deck hardware, so for me at least the Stream Deck wins.
+There are various other solutions, including a remote control for OBS that can run on a second computer or device, and even a Stream Deck mobile app. Alas, the Stream Deck mobile app is subscription service even if you have bought the Stream Deck hardware, so for me at least the Stream Deck wins for now.
 
 **Multiple cameras**
 
@@ -130,9 +130,11 @@ In a recent talk I wished to demonstrate a couple of things which didn&#39;t rea
 
 ![HUE are you](../../images/2020-08-14/huecamera.jpg)
 
-In both cases the solution was to bring in video from an additional camera. Teachers use similar setups to show paper documents in classroom settings. I found that if I setup a Hue HD camera, which has a flexible gooseneck, I could place a laptop on my desk and angle the camera to show the laptop and it&#39;s screen to allow me to demonstrate the steps to use a Yubikey and show DRM documents without the pesky DRM doing it&#39;s job. Better yet, I could setup an additional scene in OBS which featured the extra camera full screen and my regular camera in a small window in the bottom, so the audience could see me and what I was talking about.
+In both cases the solution was to bring in video from an additional camera. Teachers use similar setups to show paper documents in classroom settings. I found that if I setup a Hue HD camera, which has a flexible gooseneck, I could place a laptop on my desk and angle the camera to show the laptop and it&#39;s screen to allow me to demonstrate the steps to use a Yubikey and show DRM documents without the pesky DRM doing it&#39;s job. Better yet, I could setup an additional scene in OBS which featured the extra camera full screen and my regular camera in a small window in the bottom, so the audience could see me and what I was talking about. 
 
 ![Second camera](../../images/2020-08-14/secondcamera.png)
+
+At this point take a moment to appreciate how far this technology has democratised what would have once required a building full of people and equipment: We can now broadcast from a desktop studio built from consumer level products.
 
 **Going further**
 
