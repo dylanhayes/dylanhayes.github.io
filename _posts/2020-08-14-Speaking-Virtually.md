@@ -157,7 +157,7 @@ As always, there are some areas for improvement. Even when setup to stream at hi
 
 [![Teams screen share close up](../../images/2020-08-14/teams share closeup.png)](../../images/2020-08-14/teams share.png)
 
-The difference is noticable, and annoying, but not so bad that would discard this way of working. In general PowerPoint slides and photos look fine, but text heavy screens with small text are noticably harder to read.
+The difference is noticable, and annoying, but not so bad that you would discard this way of working. In general PowerPoint slides and photos look fine, but text heavy screens with small text are noticably harder to read.
 
 ##Going further##
 
