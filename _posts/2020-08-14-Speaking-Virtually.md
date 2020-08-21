@@ -151,7 +151,7 @@ As always, there are some areas for improvement. Even when setup to stream at hi
 
 OBS virtual cam
 
-[![OBS screen shot close up](../../images/2020-08-14/obs share closeup.png)](../../images/2020-08-14/obs share closeup.png)
+[![OBS screen shot close up](../../images/2020-08-14/OBS share closeup.png)](../../images/2020-08-14/OBS share closeup.png)
 
 Teams Screen share
 
