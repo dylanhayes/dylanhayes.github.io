@@ -147,7 +147,7 @@ At this point take a moment to appreciate how far this technology has democratis
 
 **Disadvantages**
 
-As always, there are some areas for improvement. Even when setup to stream at high resolution such as 1920x1080 and a decent framerate, what appears on the screen of the audience doesn't look so good. When you share a screen in Teams, it seems to do a much better job of smoothly scaling the output to match the display compared to when you share a screen via OBS virtual camera. Here's an example - click on each image for the full screen image:
+As always, there are some areas for improvement. Even when setup to stream at high resolution such as 1920x1080 and a decent framerate, what appears on the screen of the audience doesn't look so good. When you share a screen in Teams, it seems to do a much better job of smoothly scaling the output to match the display compared to when you share a screen via OBS virtual camera. Here's a series of closeup images to show an example - click on each image for the full screen image:
 
 OBS virtual cam
 
@@ -156,6 +156,8 @@ OBS virtual cam
 Teams Screen share
 
 [![Teams screen share close up](../../images/2020-08-14/teams share closeup.png)](../../images/2020-08-14/teams share.png)
+
+The difference is noticable, and annoying, but not so bad that would discard this way of working. In general PowerPoint slides and photos look fine, but text heavy screens with small text are noticably harder to read.
 
 **Going further**
 
