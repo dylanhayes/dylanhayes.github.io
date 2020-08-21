@@ -147,11 +147,11 @@ At this point take a moment to appreciate how far this technology has democratis
 
 **Disadvantages**
 
-As always, there are some areas for improvement. Even when setup to stream at high resolution such as 1920x1080 and a decent framerate, what appears on the screen of the audience doesn't look so good. When you share a screen in Teams, it seems to do a much better job of smoothly scaling the output to match the display compared to when you share a screen via OBS virtual camera. Here's a series of closeup images to show an example - click on each image for the full screen image:
+As always, there are some areas for improvement. Even when setup to stream at high resolution such as 1920x1080 and a decent framerate, what appears on the screen of the audience doesn't look so good. When you share a screen in Teams, it seems to do a much better job of smoothly scaling the output to match the display compared to when you share a screen via OBS virtual camera. Of course you can't control the size of the viewer's screen of the window size, so the actual results may vary, but my experiments seem to demostrate that Teams scales a screen share better than a camera feed. I have not tested this on other video platforms. Here's a series of closeup images to show an example - click on each image for the full screen image:
 
 OBS virtual cam
 
-[![OBS screen shot close up](../../images/2020-08-14/OBS share closeup.png)](../../images/2020-08-14/OBS share closeup.png)
+[![OBS screen shot close up](../../images/2020-08-14/OBS share closeup.png)](../../images/2020-08-14/OBS share.png)
 
 Teams Screen share
 
