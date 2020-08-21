@@ -136,6 +136,27 @@ In both cases the solution was to bring in video from an additional camera. Teac
 
 At this point take a moment to appreciate how far this technology has democratised what would have once required a building full of people and equipment: We can now broadcast from a desktop studio built from consumer level products.
 
+**Output settings**
+
+ Microsoft seem to [recommend](https://support.microsoft.com/en-us/office/best-practices-for-producing-a-teams-live-event-e500370e-4dd1-4187-8b48-af10ef02cf42) 1920x1080 pixels at 4000 kbps for Teams live, so I found that going to File -> Settings in OBS and checking the output settings is useful to confirm that your output is correct. Please note, if you are using OBS virtual cam you will need to stop that before you can change settings.
+
+![Streaming settings](../../images/stream settings 2.png)
+
+![Streaming settings](../../images/streamingsettings.png)
+
+
+**Disadvantages**
+
+As always, there are some areas for improvement. Even when setup to stream at high resolution such as 1920x1080 and a decent framerate, what appears on the screen of the audience doesn't look so good. When you share a screen in Teams, it seems to do a much better job of smoothly scaling the output to match the display compared to when you share a screen via OBS virtual camera. Here's an example - click on each image for the full screen image:
+
+OBS virtual cam
+
+[![OBS screen shot close up](../../images/obs share closeup.png)](../../images/obs share closeup.png)
+
+Teams Screen share
+
+[![Teams screen share close up](../../images/teams share closeup.png)](../../images/teams share.png)
+
 **Going further**
 
 OBS includes a lot of functionality, and it can be extended with plugins to add extra features beyond what is included in the base package. This would be enough to fill multiple blog posts in it&#39;s own right. Some of the more notable additional features worthy of further investigation (perhaps a further blog post) would be:
@@ -143,6 +164,9 @@ OBS includes a lot of functionality, and it can be extended with plugins to add 
 Remote streams using NDI - for instance use a phone as an additional camera, share the screen of another computer, oe bring in the stream from another person for an interview etc.
 
 Camera masks. Make your little video window something other than a rectangle. Because.
+
+
+
 
 **Kit list**
 
