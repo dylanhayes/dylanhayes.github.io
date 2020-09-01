@@ -99,7 +99,7 @@ There&#39;s a number of things I found really help make the most out of OBS:
 - Although OBS allows you to mix audio as well as video, if you are outputting your video to conference via a virtual camera (more on this later), this will make no difference.
 - You can add text and even widgets to each scene, which is a great way to add some branding to your video. Just because you can, doesn&#39;t mean you should, and be wary of trying to emulate a 24 rolling news channel with graphics and text exploding all over the screen as it distracts from the content.
 
-##Being a Teams player##
+## Being a Teams player 
 
 OBS by default outputs video as a stream. This is pretty easy to use as a source with broadcast orientated setups, as with most of the common solutions including Facebook live and Teams live events use a stream key you can plugin to OBS, but when you want to inject video from OBS into a regular Teams meeting, or indeed any other software which expects a camera, you will need an extra bit of software which converts the output from OBS into a virtual camera. Fortunately it&#39;s a really simple process of downloading OBS Virtual Cam and setting this as your &quot;camera&quot; in your meeting software.
 
