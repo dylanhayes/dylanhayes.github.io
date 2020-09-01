@@ -22,9 +22,9 @@ My final rather esoteric annoyance is sometimes you&#39;d like to show how to do
 
 Before we get down to the technical and playing with the hardware toys, it&#39;s probably taking the time to fix the basics. Even if you are not going to go down the road of advanced production techniques, getting the simple stuff right is so important.
 
-##Getting the simple stuff right##
+## Getting the simple stuff right
 
-##Camera, lights action##
+## Camera, lights action
 
 I bought a Logitech c930e web camera for my home office early in 2020. Since then market forces have done insane things to the prices of decent web cameras. The reason for this is that laptop cameras are not flattering. The small size mean the picture quality is often poor regardless of the resolution in pixels. Not only that but the camera angle looking from below the chin just isn&#39;t flattering to most, nor is a view of your ceiling light fixtures. Better cameras will produce a good picture even in less than ideal lighting conditions, as often you will find in a home setting. Once you have got yourself setup with a camera in a better location, the next thing is to think carefully about what is also on camera behind you. Ideally this should reflect the imagine you wish to project, and be part of your personal branding, without being too distracting. Politicians expend huge efforts ensuring the podiums they speak from have nothing negative behind them, and it&#39;s something you should think about to. Generally unless you are lucky enough to have some empty space behind you, overbearing items around your head are distracting to your viewers. How much of the view is you versus how much is background is a matter of personal taste, but unless you are fortunate enough to have film star qualities a really close in image of a face is generally uncomfortable for most people to view.
 
@@ -40,7 +40,7 @@ Once you are happy with the camera angle, then consider the lighting. You can bu
 
 As always, taking the time to experiment and perfect this will result in a better experience.
 
-##Voices##
+## Voices
 
 Let&#39;s be blunt here. Your laptop microphone is a terrible way to be heard. It&#39;s not far from the fan (which may end up running hard as video is CPU intensive), and the keyboard which you&#39;ll probably be using in a demo, so big two sources of unwanted noise are closer than your mouth. There&#39;s only so far fancy digital signal processing can help you.
 
@@ -50,17 +50,21 @@ With a boom you can place the mic in the optimal place to pick up your voice and
 
 There&#39;s a certain amount of adjustment needed to get the right placement for the microphone, so there&#39;s a lot of value of any time spent adjusting things. You may decide to go to town on this and get a pop filter if you are prone to spitting at the microphone, and a shock mount if you are prone to bashing the mount. My own experience was that a cheap mount and an expensive microphone seemed to do the job.
 
-It&#39;s kind of obvious, but background noise which you not aware of, is really noticeable when you are recording. Anything from neighbourhood dogs to delivery drivers will inevitably happen when you least expect it. A quality microphone will have a directional pattern which will go some way to remove noise from anything but in front of you, but don&#39;t expect it to miraculously mask out background noise. Those of you, myself included who have mechanical keyboards may wish to plug in a quieter keyboard during recording,
+It&#39;s kind of obvious, but background noise which you not aware of, is really noticeable when you are recording. Anything from neighbourhood dogs to delivery drivers will inevitably happen when you least expect it. A quality microphone will have a directional pattern which will go some way to remove noise from anything but in front of you, but don&#39;t expect it to miraculously mask out background noise. Those of you, myself included who have mechanical keyboards may wish to plug in a quieter keyboard during recording, as the sound of mechanical keys is jarring to your audience.
 
-![StreamDeck](../../images/2020-08-14/mic.jpg)
+# Interuptions
 
-##Putting it together##
+Aside from the obvious interruptions from the real world that we've all grown accustomed to, and have limited control over, it's worth considering interruptions from your onw computer.  Hopefully windows update will not decide that a reboot is required halfway through your presentation, but most computers have a bunch of software that can generate notifications. It's worth making sure you use Windows focus assist to mute notifications as far as possible. If you have two screens, sharing the screen that is not you primary screen should ensure that your audience doesn't see notifications even if you forget to set focus assistant correctly.
+
+![Mic](../../images/2020-08-14/mic.jpg)
+
+## Putting it together
 
 Now you have the basic hardware sorted, it&#39;s time to consider the human factors. When you are sharing the room with an audience, it&#39;s so much easier to read the room, and adapt your content dynamically depending on how the audience react to your presentation. Without this, it&#39;s probably safer to slow down the pace a little from what you would use face to face. Bad audio, unseen distractions and so many other things including the cognitive load of virtual conversation tend to slow down the rate at which people can absorb information. If your audience has already spent part of the work day on video calls, the chances are they are already tired and easily distracted.
 
-##Improving your presentation##
+## Improving your presentation
 
-##Mastering virtual desktops##
+## Mastering virtual desktops
 
 Virtual Desktops have been around for a while, and they are built into modern operating systems such as Windows 10. I must not be the only person to fail to use them much, as with dual monitors I didn&#39;t need any extra screen space. However, I was missing a trick. When sharing a screen, I frequently want to go between PowerPoint and a browser when I want to demo something. I&#39;m usually pretty clumsy at this. However, I have found if I get PowerPoint to display full screen in the screen I&#39;m sharing, and set up different virtual desktops for each other features I&#39;m showing, for example one virtual desktop with a browser logged in with a certain account, another with a browser running a different account, a command line etc, I can use a keyboard short cut to switch between the desktops without breaking stride. In Windows 10, from the task view, you can assign applications to each desktop, and there in lies the hidden gem of being able to right click on applications and pin them to show on all desktops. I tend to do this with the Teams window, and the video software (more on this later), so they stay on the other screen to the one I&#39;m sharing.
 
@@ -69,7 +73,7 @@ Virtual Desktops have been around for a while, and they are built into modern op
 
 Better yet, the same techniques will work when presenting in person. If you are fortunate enough to have a Logitech Spotlight, you can use the software to flip between virtual desktops, so you can do this without even touching the keyboard.
 
-##A better video feed##
+## A better video feed
 
 Video conferencing software such as Teams and Zoom has the ability to share a window or a screen, and separately include a feed from a camera. This is fine for a meeting, when the aim is for peers to collaborate, but a presentation or conference session is more akin to a broadcast. I&#39;m involved in volunteering in Scouting, and just like everyone else from March onwards we had to suddenly adapt to doing everything virtually. We decided to use Facebook Live, as we already used a private Facebook group to manage our group. The feature that sent me searching for a better solution in the first place was that Facebook Live allowed either a camera or a document to be shared but it was impossible to switch between them in one live session. It then occurred to me that I&#39;d actually like far more control of the video I was broadcasting in other places, for example during demos and public speaking, as this had all gone virtual. My aspiration was to be able to show either a my screen containing PowerPoint slide or browser, with a small video feed of myself in the corner, or a full size video feed, and be able to easily flip between them as I saw fit.
 
@@ -77,7 +81,7 @@ It turns out that gamers have been doing something similar for a long time, as s
 
 Open Broadcast System, or OBS for short seemed to be the best option for my use cases. Although the software is very powerful, it&#39;s not particularly obivious what to do.
 
-##Looking for a change of scene##
+## Looking for a change of scene
 
 I realised the key concept was to build a series of scenes, and each of these would have some combination of inputs which could be combined together in OBS. My initial goal of being able to have a full screen camera, and easily change to PowerPoint with a small camera feed was actually easily achieved by creating two different scenes and adding a screen as a video source to one, and then adding my camera feed to the same scene and resizing and positioning the window to occupy the bottom right. I could then add the video feed for the camera to the second scene and make this occupy the entire feed in OBS.
 
@@ -101,7 +105,7 @@ OBS by default outputs video as a stream. This is pretty easy to use as a source
 
 [Obs virtualcam](https://obsproject.com/forum/resources/obs-virtualcam.949/)
 
-##Avoiding cognitive overload##
+## Avoiding cognitive overload
 
 In a professional TV broadcast there is the role of the producer and the presenter. The producer is responsible for controlling the presentation, and the presenter is responsible for presenting the content. Most of us doing public speaking don&#39;t have this luxury, so you have deal with both the medium and the message. Ideally, we should be free to concentrate on the message without getting too distracted by the medium. But, now I have hopefully convinced you of the advantages of taking more interest in controlling the medium, how do you actually manage all of this? People are terrible at multitasking, but there are tricks you can do to help manage your presentation.
 
