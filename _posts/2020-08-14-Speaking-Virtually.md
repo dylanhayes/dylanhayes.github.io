@@ -124,7 +124,7 @@ The software that is bundled with the Stream Deck allows you to define either ac
 
 There are various other solutions, including a remote control for OBS that can run on a second computer or device, and even a Stream Deck mobile app. Alas, the Stream Deck mobile app is subscription service even if you have bought the Stream Deck hardware, so for me at least the Stream Deck wins for now.
 
-##Multiple cameras##
+## Multiple cameras
 
 In a recent talk I wished to demonstrate a couple of things which didn&#39;t really work with the setup I have just described. The first scenario was showing the process of authenticating into Office 365 with a Yubikey. A screen share didn&#39;t capture the interaction of plugging in the USB key and logging in to Office.com. The second was to show how DRM protected documents can have restrictions baked into the documents. So effective is the DRM that attempting to screen share a document with restrictions shows a blank area to viewers where the document should be.
 
@@ -136,7 +136,7 @@ In both cases the solution was to bring in video from an additional camera. Teac
 
 At this point take a moment to appreciate how far this technology has democratised what would have once required a building full of people and equipment: We can now broadcast from a desktop studio built from consumer level products.
 
-##Output settings##
+## Output settings
 
  Microsoft seem to [recommend](https://support.microsoft.com/en-us/office/best-practices-for-producing-a-teams-live-event-e500370e-4dd1-4187-8b48-af10ef02cf42) 1920x1080 pixels at 4000 kbps for Teams live, so I found that going to File -> Settings in OBS and checking the output settings is useful to confirm that your output is correct. Please note, if you are using OBS virtual cam you will need to stop that before you can change settings.
 
@@ -145,21 +145,21 @@ At this point take a moment to appreciate how far this technology has democratis
 ![Streaming settings](../../images/2020-08-14/streamingsettings.png)
 
 
-##Disadvantages##
+## Disadvantages
 
 As always, there are some areas for improvement. Even when setup to stream at high resolution such as 1920x1080 and a decent framerate, what appears on the screen of the audience doesn't look so good. When you share a screen in Teams, it seems to do a much better job of smoothly scaling the output to match the display compared to when you share a screen via OBS virtual camera. Of course you can't control the size of the viewer's screen of the window size, so the actual results may vary, but my experiments seem to demostrate that Teams scales a screen share better than a camera feed. I have not tested this on other video platforms. Here's a series of closeup images to show an example - click on each image for the full screen image:
 
-*OBS virtual cam*
+* OBS virtual cam
 
 [![OBS screen shot close up](../../images/2020-08-14/OBS share closeup.png)](../../images/2020-08-14/OBS share.png)
 
-*Teams Screen share*
+* Teams Screen share
 
 [![Teams screen share close up](../../images/2020-08-14/teams share closeup.png)](../../images/2020-08-14/teams share.png)
 
 The difference is noticable, and annoying, but not so bad that you would discard this way of working. In general PowerPoint slides and photos look fine, but text heavy screens with small text are noticably harder to read.
 
-##Going further##
+# Going further
 
 OBS includes a lot of functionality, and it can be extended with plugins to add extra features beyond what is included in the base package. This would be enough to fill multiple blog posts in it&#39;s own right. Some of the more notable additional features worthy of further investigation (perhaps a further blog post) would be:
 
@@ -168,11 +168,9 @@ Remote streams using NDI - for instance use a phone as an additional camera, sha
 [Camera masks](https://streamshark.io/obs-guide/image-mask). Make your little video window something other than a rectangle. Because.
 
 
+## Kit list
 
-
-##Kit list##
-
-##Hardware##
+### Hardware
 
 Main camera: [Logitech C930-E](https://www.logitech.com/en-gb/product/c930e-webcam) It&#39;s been around for 8 years now, but works well in most lighting conditions. Cheaper alternatives are flooding the market now that everyone has started to realise the limitations of laptop cameras, which is fortunate given the crazy prices these cameras currently reach.
 
@@ -186,14 +184,16 @@ Secondary Camera: [HUE HD document camera](https://huehd.com/) Popular in educat
 
 [Hue Lighting](https://www.philips-hue.com/en-us) I have had Hue lights at home for years now, but when I refitted my home office I took the opportunity to place Hue lights either side of my monitors, and a Hue light strip on the ceiling just out of shot on the opposite wall. By setting up the Hue sync software on my PC I can easily control lighting to ensure correct lighting for video.
 
-##Software##
+### Software
 
 Open Broadcast Software or OBS is free open source software that allows far greater control of the video output you create. OBS is very much a general purpose tool and unlike other software which is more focused on a particular task such as StreamLabs OBS which is made for streaming games. The interface is not particularly welcoming and assumes you already know what you are trying to do, but making the effort to learn is worthwhile in terms of being able to produce video to a higher standard.
 
 [obsproject.com](https://obsproject.com/)
 
-Facebook Live and Teams Live can directly accept the output from OBS, but for most other use cases you will need to convert the output stream into a virtual camera which can them be setup in your conferencing software as your camera.
+Facebook Live and Teams Live can directly accept the output from OBS, but for most other use cases you will need to convert the output stream into a virtual camera which can them be setup in your conferencing software as your camera. Until very recently, this has required the use of additional software in the shape of OBS Virtual Camera, but the most recent version of OBS (OBS Studio 26 RC1) has this built in.
 
 [OBS Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/)
+
+I'll update the blog in future with my experiences once I have used the most recent OBS to see how the out of the box virtual camera works.
 
 [Hue Sync](https://www.philips-hue.com/en-us/entertainment/sync-with-pc) Although you can control Hue lights with a highly functional mobile app, being able to control the lights from your desktop PC puts everything at your fingertips. By setting up an &quot;entertainment area&quot; in the mobile app, and and running the windows app on my &quot;production screen&quot; I particularly like being able to bright the lighting up to high brightness levels in a single click.
