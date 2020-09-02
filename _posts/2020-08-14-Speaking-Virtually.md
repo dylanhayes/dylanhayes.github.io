@@ -105,6 +105,8 @@ OBS by default outputs video as a stream. This is pretty easy to use as a source
 
 [Obs virtualcam](https://obsproject.com/forum/resources/obs-virtualcam.949/)
 
+Update 2nd September 2020: As of OBS Studio 26, in the Windows version OBS has an virtual camera built in removing the need to add this.  
+
 ## Avoiding cognitive overload
 
 In a professional TV broadcast there is the role of the producer and the presenter. The producer is responsible for controlling the presentation, and the presenter is responsible for presenting the content. Most of us doing public speaking don&#39;t have this luxury, so you have deal with both the medium and the message. Ideally, we should be free to concentrate on the message without getting too distracted by the medium. But, now I have hopefully convinced you of the advantages of taking more interest in controlling the medium, how do you actually manage all of this? People are terrible at multitasking, but there are tricks you can do to help manage your presentation.
