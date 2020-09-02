@@ -121,10 +121,10 @@ For my setup I choose the base level Stream Deck mini with 6 buttons, and setup 
 
 1. Move to previous virtual desktop
 2. Move to next virtual desktop
-3. Scene One - Test Card
-4. Scene Two - Screen with minor camera
+3. Scene One - Secondary camera
+4. Scene Two - Test Card
 5. Scene Three - Full screen camera
-6. Scene Four - Secondary camera
+6. Scene Four - Screen with camera as picture in picture
 
 The software that is bundled with the Stream Deck allows you to define either actions for specific products related to streaming, including OBS, but also many other quite esoteric applications intended for the gamer audience, or to activate keyboard shortcuts (which is how to change virtual desktop). You can customise the image on the button and the text. As well as the bundled icons, you can add your own, although the icon generator application is a web application and is a bit clunky. You can of course add your own images as long as they are 288x288 PNGs. Although it's fun to get really creative, it's worth remembering overly complex icons might lead to confusion, and doing the wrong thing. In the photo above I have customised all of the icons (ask me nicely and I'll add them to a git repo). For a basic setup 6 buttons is enough although with more frequent use I kept finding the need for more buttons. Once again it's a matter of reaching a good balance between the ease of simple task automation with the potential confusion masses of buttons with complex icons can cause. 
 
