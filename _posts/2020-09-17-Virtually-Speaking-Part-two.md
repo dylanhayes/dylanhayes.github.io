@@ -45,14 +45,13 @@ The missing ingredient was to create a special scene, let's call it 'Video Camer
 
 First we need to make a scene, and then we apply a filter to the whole scene. You must do this to the entire scene. The filter we need is an Image Mask/Blend. The image we need is an alpha channel mask. Fortunatly, a search for [OBS webcam overlay mask](https://www.bing.com/images/search?q=OBS+Webcam+Overlay+Mask&form=IRIBIP&first=1&scenario=ImageBasicHover) yields plenty of ready made ones. 
 
-![Image mask as scene](../../images/2020-09-17/Image mask as scene.png)
+![mask as scene](../../images/2020-09-17/mask as scene.png)
 
 Simply apply the mask, the whole scene is inside a neat round mask. 
 Next, we find a scene that you wish to add some round web cam pizzazz to. First, you need to delete the old boring non round web cam object from the scene if there is one.  Then add the scene as a source.
 
 ![scene as source](../../images/2020-09-17/scene as source.png)
-![select scene](../../images/2020-09-17/select scene
-.png)
+![select scene](../../images/2020-09-17/select scene.png)
 After that, just drag and size the image to where you want it, and you'll be the envy of your whole neighbourhood.
 
 Move to right position
@@ -63,6 +62,6 @@ And lastly, you may want to play with the scale filtering we talked about at the
 
 ![scale filtering of additional camera](../../images/2020-09-17/scale filtering of additional camera.png)
 
-Tweak away
+## Tweak away
 
 We've talked about some of the things you can do with OBS, but there's a wealth more stuff, as we've hardly scratched the surface. OBS hasn't got particularly approachable documentation, but there are a lot of blog posts aimed at giving streamers ever more fanciful effects. It is worth remembering that all this stuff should serve a clear purpose, and unless wish to look like your own 24 news channel, with text and graphics spewing everywhere these techniques should be used sparingly and either add something  of value to the viewer, or help your message.
