@@ -171,7 +171,9 @@ OBS includes a lot of functionality, and it can be extended with plugins to add 
 
 Remote streams using NDI - for instance use a phone as an additional camera, share the screen of another computer, oe bring in the stream from another person for an interview etc.
 
-[Camera masks](https://streamshark.io/obs-guide/image-mask). Make your little video window something other than a rectangle. Because.
+So it turns out that I had so much to say, that there is a [Speaking Virtually Part II](https://dylanhayes.github.io/Virtually-Speaking-Part-two/) where I dwell upon why screen sharing with OBS may not be such a good idea and how to really pimp up your video feed.
+
+
 
 
 ## Kit list
