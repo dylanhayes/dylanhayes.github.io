@@ -45,7 +45,7 @@ The missing ingredient was to create a special scene, let's call it 'Video Camer
 
 First we need to make a scene, and then we apply a filter to the whole scene. You must do this to the entire scene. The filter we need is an Image Mask/Blend. The image we need is an alpha channel mask. Fortunatly, a search for [OBS webcam overlay mask](https://www.bing.com/images/search?q=OBS+Webcam+Overlay+Mask&form=IRIBIP&first=1&scenario=ImageBasicHover) yields plenty of ready made ones. 
 
-![mask as scene](../../images/2020-09-17/mask as scene.png)
+![mask on scene](../../images/2020-09-17/mask on scene.png)
 
 Simply apply the mask, the whole scene is inside a neat round mask. 
 Next, we find a scene that you wish to add some round web cam pizzazz to. First, you need to delete the old boring non round web cam object from the scene if there is one.  Then add the scene as a source.
@@ -54,9 +54,9 @@ Next, we find a scene that you wish to add some round web cam pizzazz to. First,
 ![select scene](../../images/2020-09-17/select scene.png)
 After that, just drag and size the image to where you want it, and you'll be the envy of your whole neighbourhood.
 
-![move scene](../../images/2020-09-17/Move to right position.png)
+![move scene](../../images/2020-09-17/move to right position.png)
 
-![move scene](../../images/2020-09-17/round second camera.png)
+![round we go](../../images/2020-09-17/round second camera.png)
 
 And lastly, you may want to play with the scale filtering we talked about at the start to get the camera looking nice.
 
