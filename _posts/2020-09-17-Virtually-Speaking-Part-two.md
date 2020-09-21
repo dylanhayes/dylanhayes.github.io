@@ -54,9 +54,9 @@ Next, we find a scene that you wish to add some round web cam pizzazz to. First,
 ![select scene](../../images/2020-09-17/select scene.png)
 After that, just drag and size the image to where you want it, and you'll be the envy of your whole neighbourhood.
 
-Move to right position
+![move scene](../../images/2020-09-17/Move to right position.png)
 
-Image round second camera
+![move scene](../../images/2020-09-17/round second camera.png)
 
 And lastly, you may want to play with the scale filtering we talked about at the start to get the camera looking nice.
 
