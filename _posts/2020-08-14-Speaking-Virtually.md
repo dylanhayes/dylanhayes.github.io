@@ -174,8 +174,6 @@ Remote streams using NDI - for instance use a phone as an additional camera, sha
 So it turns out that I had so much to say, that there is a [Speaking Virtually Part II](https://dylanhayes.github.io/Virtually-Speaking-Part-two/) where I dwell upon why screen sharing with OBS may not be such a good idea and how to really pimp up your video feed.
 
 
-
-
 ## Kit list
 
 ### Hardware
@@ -205,3 +203,7 @@ Facebook Live and Teams Live can directly accept the output from OBS, but for mo
 I'll update the blog in future with my experiences once I have used the most recent OBS to see how the out of the box virtual camera works.
 
 [Hue Sync](https://www.philips-hue.com/en-us/entertainment/sync-with-pc) Although you can control Hue lights with a highly functional mobile app, being able to control the lights from your desktop PC puts everything at your fingertips. By setting up an &quot;entertainment area&quot; in the mobile app, and and running the windows app on my &quot;production screen&quot; I particularly like being able to bright the lighting up to high brightness levels in a single click.
+
+### Post script
+
+If you are wondering how long it might to take to set all this up, it took me about 30 minutes to get OBS setup as I liked and all the hardware plugged in and working correctly o a new machine  following an unexpected hardware failure on the usual machine I use for OBS. Obviously, I'd done it before and you may find it takes longer. 
