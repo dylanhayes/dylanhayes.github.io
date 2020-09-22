@@ -4,14 +4,16 @@ title: Virtually Speaking - Part two
 ---
 
 
-My last blog posting [speaking virtually](/Speaking-Virtually) introduced some of tools and equipment that could improve the way public speaking and indeed most forms of presentation over video could be delivered. 
-Since then I've had the chance to refine the offering based on finding out what works, and learning some OBS tricks along the way.
-My first point, and I'm reluctant to say it, is that no matter how I tried, the quality of sharing a screen via OBS and a virtual camera was never as good as the native screen sharing in Teams or Zoom. 
+My last blog posting [speaking virtually](/Speaking-Virtually) introduced some of tools and equipment that I found could improve the way public speaking and indeed most forms of presentation over video could be delivered. 
+Since then I've had the chance to refine the offering based on finding out what works and I learned some neat OBS tricks along the way. As I mentioned before, game streaming is huge, and there are people out there making a living from presenting themselves playing video games live, so the chances are that somebody has already figured out how to something.
+My first point, and I'm reluctant to say it, is that no matter how I tried, the quality of sharing a screen via OBS and a virtual camera was never as good as the native screen sharing in Teams or Zoom.
+
 
 ## Caring about Sharing
 
-No matter how much I pushed up the bitrate, the output would never look as good as what you got if you shared the screen natively from inside your chosen video conferencing application. The output from OBS looked fine in the preview window, but what you'd see in Teams was never as sharp as it had compression artifacts and just looked fuzzy. I would suspect that Team does something to optimise the compression for a display rather than camera output. I saw much the same results when trying this with Facebook live. With a PowerPoint containing fairly big and bold text, and lots of graphics your audience would probably not notice the difference, but with small text, and heaven forbid a terminal window it wasn't good at all.
+No matter how much I pushed up the bitrate, the output would never look as good as what you got if you shared the screen natively from a video conferencing application regardless of if it was Teams, Zoom or Facebook live. The output from OBS looked fine in the preview window, but what you'd see in Teams was never as sharp as it had compression artifacts and just looked fuzzy. I would suspect that Team does something to optimise the compression for a display rather than camera output. I saw much the same results when trying this with Facebook live. With a PowerPoint containing big and bold text, and lots of graphics your audience would probably not notice the difference, but with small text, and heaven forbid a terminal window it wasn't good at all.
 Given that, my recommendation is that you should use the native screen sharing if you intend to show anything more complex than a PowerPoint. Using Virtual Desktops to switch between PowerPoint and demos is still a great way to do things, but this can be done by sharing a screen, rather than OBS and Virtual Cameras.
+.
 
 Once we've cleared this up, let's look in more detail about some trick in OBS:
 
