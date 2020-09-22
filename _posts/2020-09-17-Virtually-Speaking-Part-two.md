@@ -4,8 +4,11 @@ title: Virtually Speaking - Part two
 ---
 
 
-My last blog posting [speaking virtually](/Speaking-Virtually) introduced some of tools and equipment that I found could improve the way public speaking and indeed most forms of presentation over video could be delivered. 
-Since then I've had the chance to refine the offering based on finding out what works and I learned some neat OBS tricks along the way. As I mentioned before, game streaming is huge, and there are people out there making a living from presenting themselves playing video games live, so the chances are that somebody has already figured out how to something.
+My last blog posting [speaking virtually](/Speaking-Virtually) introduced some of tools and equipment that I found could improve public speaking and indeed most forms of presentation over video.  
+Since then I've had the chance to refine the offering based on finding out what works and I learned some neat OBS tricks along the way. 
+
+As I mentioned before, game streaming is huge, and there are people out there making a living from presenting themselves playing video games live, so the chances are that somebody has already figured out how to something.
+
 My first point, and I'm reluctant to say it, is that no matter how I tried, the quality of sharing a screen via OBS and a virtual camera was never as good as the native screen sharing in Teams or Zoom.
 
 
