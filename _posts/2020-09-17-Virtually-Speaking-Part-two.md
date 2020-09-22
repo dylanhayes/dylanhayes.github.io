@@ -2,12 +2,13 @@
 layout: post
 title: Virtually Speaking - Part two
 ---
-My last blog posting [speaking virtually](/Speaking-Virtually) introduced some of the things that I did that could improve the way public speaking and indeed most forms of presentation over video could be improved. Since then I'm had the chance to refine the offering.
+My last blog posting [speaking virtually](/Speaking-Virtually) introduced some of the things that I did that could improve the way public speaking and indeed most forms of presentation over video could be improved. 
+Since then I've had the chance to refine the offering.
 My first point, and I'm reluctant to say it, is that no matter how I tried, the quality of sharing a screen via OBS and a virtual camera was never as good as the native screen sharing in Teams or Zoom. 
 
 ## Caring about Sharing
 
-No matter how much I pushed up the bitrate, the output wouldn't look as good as what you got if you shared the screen natively from inside your chosen video conferencing application. The output from OBS looked fine, but what you'd see in Teams was never as sharp. I would suspect that Team does something to optimise the compression for a display rather than camera output. I saw much the same results when trying this with Facebook live. With a PowerPoint containing fairly big and bold text, and lots of graphics your audience would probably not notice the difference, but with small text, and heaven forbid a terminal window it wasn't good at all.
+No matter how much I pushed up the bitrate,the output wouldn't look as good as what you got if you shared the screen natively from inside your chosen video conferencing application. The output from OBS looked fine, but what you'd see in Teams was never as sharp. I would suspect that Team does something to optimise the compression for a display rather than camera output. I saw much the same results when trying this with Facebook live. With a PowerPoint containing fairly big and bold text, and lots of graphics your audience would probably not notice the difference, but with small text, and heaven forbid a terminal window it wasn't good at all.
 Given that, my recommendation is that you should use the native screen sharing if you intend to show anything more complex than a PowerPoint. Using Virtual Desktops to switch between PowerPoint and demos is still a great way to do things, but this can be done by sharing a screen, rather than OBS and Virtual Cameras.
 
 Once we've cleared this up, let's look in more detail about some trick in OBS:
