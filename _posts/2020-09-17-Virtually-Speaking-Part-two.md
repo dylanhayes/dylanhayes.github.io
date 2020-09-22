@@ -2,9 +2,11 @@
 layout: post
 title: Virtually Speaking - Part two
 ---
+
+
 My last blog posting [speaking virtually](/Speaking-Virtually) introduced some of tools and equipment that could improve the way public speaking and indeed most forms of presentation over video could be delivered. 
-Since then I've had the chance to refine the offering based on finding out what works, and learning some OBS tricks.
-My first point, and I'm reluctant to say it, is that no matter how I tried,  the quality of sharing a screen via OBS and a virtual camera was never as good as the native screen sharing in Teams or Zoom. 
+Since then I've had the chance to refine the offering based on finding out what works, and learning some OBS tricks along the way.
+My first point, and I'm reluctant to say it, is that no matter how I tried, the quality of sharing a screen via OBS and a virtual camera was never as good as the native screen sharing in Teams or Zoom. 
 
 ## Caring about Sharing
 
