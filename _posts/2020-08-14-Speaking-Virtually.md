@@ -50,15 +50,16 @@ With a boom you can place the mic in the optimal place to pick up your voice and
 
 There&#39;s a certain amount of adjustment needed to get the right placement for the microphone, so there&#39;s a lot of value of any time spent adjusting things. You may decide to go to town on this and get a pop filter if you are prone to spitting at the microphone, and a shock mount if you are prone to bashing the mount. My own experience was that a cheap mount and an expensive microphone seemed to do the job.
 
-It&#39;s kind of obvious, but background noise which you not aware of, is really noticeable when you are recording. Anything from neighbourhood dogs to delivery drivers will inevitably happen when you least expect it. A quality microphone will have a directional pattern which will go some way to remove noise from anything but in front of you, but don&#39;t expect it to miraculously mask out background noise. Those of you, myself included who have mechanical keyboards may wish to plug in a quieter keyboard during recording, as the sound of mechanical keys is jarring to your audience.
+It&#39;s kind of obvious, but background noise which you normally not aware of is really noticeable when you are recording. Anything from neighbourhood dogs to delivery drivers will inevitably happen when you least expect it. A quality microphone will have a directional pattern which will go some way to remove noise from anything but in front of you, but don&#39;t expect it to miraculously mask out background noise. Those of you, myself included who have mechanical keyboards may wish to plug in a quieter keyboard during recording, as the sound of mechanical keys is jarring to your audience.
 
-![Mic](../../images/2020-08-14/mic.jpg
+![Mic](../../images/2020-08-14/mic.jpg)
+
 
 ## Interuptions
 
 Aside from the obvious interruptions from the real world that we've all grown accustomed to, and have limited control over, it's worth considering interruptions from your own computer.  Hopefully windows update will not decide that a reboot is required halfway through your presentation, but most computers have a bunch of software that can generate notifications. It's worth making sure you use Windows focus assist to mute notifications as far as possible. If you have two screens, sharing the screen that is not you primary screen should ensure that your audience doesn't see notifications even if you forget to set focus assistant correctly.
 
-)
+
 
 ## Putting it together
 
