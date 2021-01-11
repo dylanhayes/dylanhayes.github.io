@@ -36,12 +36,12 @@ With remote schooling resuming in the UK in early 2021 and a greater emphasis on
 ### Low light
 
 ![c930 in darker conditions](../../images/2021-01-11/c930e_dark.jpg)
-![cheap camera in darker conditions](../../images/2021-01-11/cam2_dark.png)
+![cheap camera in darker conditions](../../images/2021-01-11/cam2_dark.jpg)
 
 ### Medium light
 
 ![c930 in light conditions](../../images/2021-01-11/c930e_light.jpg)
-![cheap camera in light conditions](../../images/2021-01-11/cam2_light.png)
+![cheap camera in light conditions](../../images/2021-01-11/cam2_light.jpg)
 
 The most obvious difference is that the field of view on the cheap camera is far, far narrower. For use on top of a monitor rather than a conference room this isn't really a problem, and may even be to your advantage if your backdrop is not ideal. Under low light the picture may not have been quite so sharp, but depending on bandwidth and video quality this may not be noticable by your audience. Under brighter lighting the picture is actually pretty decent. I found that under weird lighting conditions, when I played around with the Hue lighting in my office, the auto white balance could get confused and do some strange things. But who cares?
 
