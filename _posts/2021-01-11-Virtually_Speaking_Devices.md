@@ -45,6 +45,8 @@ With remote schooling resuming in the UK in early 2021 and a greater emphasis on
 
 The most obvious difference is that the field of view on the cheap camera is far, far narrower. For use on top of a monitor rather than a conference room this isn't really a problem, and may even be to your advantage if your backdrop is not ideal. Under low light the picture may not have been quite so sharp, but depending on bandwidth and video quality this may not be noticable by your audience. Under brighter lighting the picture is actually pretty decent. I found that under weird lighting conditions, when I played around with the Hue lighting in my office, the auto white balance could get confused and do some strange things. But who cares?
 
+In case anybody asks, why is my face lighter in the 'low light image'? I wondered that myself, before remembering that sitting right in front of me, facing the camera were two large monitors, each outputting a not insignificant amount of light. With the rest of the room darker, the algorithms that determined the overall light level of the image had to balance my well lit face with the rest of the darker room. With more light in the room in the second set of images, this problem went away and the whole image had far less contrast and my face didn't look over exposed and washed out. 
+
 In general, the camera placement at eye level, and the bigger image sensor would produce a better looking picture and a more flattering angle than a laptop. It would be my recommendation that anybody wishing to look their best shouldn't really be using a laptop camera when a better alternative so inexpensive.
 
 
