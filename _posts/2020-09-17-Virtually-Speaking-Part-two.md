@@ -19,7 +19,7 @@ No matter how much I pushed up the bitrate, the output would never look as good 
 Given that, my recommendation is that you should use the native screen sharing if you intend to show anything more complex than a PowerPoint. Using Virtual Desktops to switch between PowerPoint and demos is still a great way to do things, but this can be done by sharing a screen, rather than OBS and Virtual Cameras.
 .
 
-Once we've cleared this up, let's look in more detail about some trick in OBS:
+Once we've cleared this up, let's look in more detail about some tricks in OBS:
 
 ## Some shameless self promotion
 
