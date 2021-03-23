@@ -21,9 +21,9 @@ The first thing we need is to get the phone's screen on the PC. The instructions
 ### Option 1
 Windows Connect and Android mirroring. Window 10 previously featured a handy app called Connect, but this now requires you to install it manually [Windows 10 - Features that have been removed - Windows Deployment | Microsoft Docs](https://docs.microsoft.com/en-us/windows/deployment/planning/windows-10-removed-features#:~:text=The%20Connect%20app%20for%20wireless,install%20the%20Wireless%20Display%20app.). This is a shame as it's free and works well. Once you have the app running, simply go to your Android device, and from settings look for "Screen Cast" and select you PC. This is very simple, and will work over Wi-Fi as long as both devices are connected to the same network (be warned when on some networks as a guest the two devices may not see each others).
 
-![Windows 10 Connect](../../images/2022-03-23/mryzen.png)
+![Windows 10 Connect](../../images/2021-03-23/mryzen.png)
 
-![Android Cast](../../images/2022-03-23/cast.jpg)
+![Android Cast](../../images/2021-03-23/cast.jpg)
 
 ### Option 2
 
@@ -41,21 +41,21 @@ My personal preference is that ScrCpy (option 2) is the most performant, but cas
 
 Having got your device on a window on your PC, next we need to bring this into OBS. First we need to create a new scene called "Phone". Then, we add a new Window capture.
 
-![OBS Window Capture](../../images/2022-03-23/windowcapture.png)
+![OBS Window Capture](../../images/2021-03-23/windowcapture.png)
 
 Then choose the window which is displaying your phone (ScrCpy, Windows Connect etc)
 
-![OBS Window Capture](../../images/2022-03-23/scrcpy.png)
+![OBS Window Capture](../../images/2021-03-23/scrcpy.png)
 
 And then it's as simple as placing this where you want at the size you like.
 
 In my example, as the phone window is vertical and there's a lot of spare space, I have cropped in on a camera feed as a background. Please forgive the lockdown v3 hair.
 
-![OBS Phone and PC](../../images/2022-03-23/phoneonpc.png)
+![OBS Phone and PC](../../images/2021-03-23/phoneonpc.png)
 
 You'll need to make sure the window is the right aspect ratio to avoid any ugly black bars. Frustratingly, Windows Connect pads the phone display with a lot of blank window, and doesn't look nearly as good as SrCpy. I found the best solution was to resize the Connect window to be bigger than the screen and use the crop and pad filter to chop the unused part of the window away.
 
-![Crop filter](../../images/2022-03-23/crop.png)
+![Crop filter](../../images/2021-03-23/crop.png)
 
 ## Going further
 
@@ -63,15 +63,15 @@ At this point it looking pretty good, but I wanted to put a little bit of space 
 
 I found the screen resolution of the phone, and created a colour source with the same dimensions, and then placed this just behind the window and resized it just a little bit bigger to make a nice fame.
 
-![Crop filter](../../images/2022-03-23/frame.png)
+![Crop filter](../../images/2021-03-23/frame.png)
 
 The by adding a little bit of transparency with a filter, I could fade this just a little bit. 
 
-![Crop filter](../../images/2022-03-23/framepreview.png)
+![Crop filter](../../images/2021-03-23/framepreview.png)
 
 ## Going even further
 
 Much as I liked this, I felt the need to do just one more thing. I was able to get a neater border and a drop shadow by using some additional filter plugins I downloaded and installed on OBS called 
-[https://github.com/Oncorporation/obs-shaderfilter/](ShaderFilter), but we'll save this for a future blog, as realistically the effort isn't justified by the improvement in asthetics.
+[ShaderFilter](https://github.com/Oncorporation/obs-shaderfilter/), but we'll save this for a future blog, as realistically the effort isn't justified by the improvement in asthetics.
 
-![Drop shadow and Shader Filters](../../images/2022-03-23/framepreview.png)
+![Drop shadow and Shader Filters](../../images/2021-03-23/framepreview.png)
