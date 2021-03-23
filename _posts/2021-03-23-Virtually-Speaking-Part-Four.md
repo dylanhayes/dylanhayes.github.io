@@ -21,7 +21,7 @@ The first thing we need is to get the phone's screen on the PC. The instructions
 ### Option 1
 Windows Connect and Android mirroring. Window 10 previously featured a handy app called Connect, but this now requires you to install it manually [Windows 10 - Features that have been removed - Windows Deployment | Microsoft Docs](https://docs.microsoft.com/en-us/windows/deployment/planning/windows-10-removed-features#:~:text=The%20Connect%20app%20for%20wireless,install%20the%20Wireless%20Display%20app.). This is a shame as it's free and works well. Once you have the app running, simply go to your Android device, and from settings look for "Screen Cast" and select you PC. This is very simple, and will work over Wi-Fi as long as both devices are connected to the same network (be warned when on some networks as a guest the two devices may not see each others).
 
-![Windows 10 Connect](../../images/2021-03-23/mryzen.png)
+![Windows 10 Connect](../../images/2021-03-23/myryzen.png)
 
 ![Android Cast](../../images/2021-03-23/cast.jpg)
 
@@ -74,4 +74,4 @@ The by adding a little bit of transparency with a filter, I could fade this just
 Much as I liked this, I felt the need to do just one more thing. I was able to get a neater border and a drop shadow by using some additional filter plugins I downloaded and installed on OBS called 
 [ShaderFilter](https://github.com/Oncorporation/obs-shaderfilter/), but we'll save this for a future blog, as realistically the effort isn't justified by the improvement in asthetics.
 
-![Drop shadow and Shader Filters](../../images/2021-03-23/framepreview.png)
+![Drop shadow and Shader Filters](../../images/2021-03-23/filtered.png)
