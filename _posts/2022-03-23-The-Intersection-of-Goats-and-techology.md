@@ -39,7 +39,7 @@ We arrived a few seconds past 03:00 in the morning. This was much slower than la
 ## Lessons learned ##
 
 - **Technology works**. Except when it doesn't. Knowing I was going to be out on the course for a long time meant carrying more than somebody much faster than me who would finish in the daylight. Consequenly, I took:
-    - Two  powerful head torches, two to avoid a single point of failure, as progress without lights would be near impossible. A previous problem with a main light on the Hardmoors 55 had taught me that the backup needed to be as good as the primary, not just good enough.
+    - Two  powerful head torches, two to avoid a single point of failure, as progress without lights would be near impossible. A previous problem with a main light on the Hardmoors 55 had taught me that the backup needed to be as just good as the primary, not just good enough.
     - A newish Garmin watch that I assumed had enough endurance to last the course. Whoops. Not quite sure why it failed to perform as expected.
     - A Zendure 10,000 mAh Power Bank. I had panic purchased this just before the race, as I decided my 5,000 mHa one was getting old, and wouldn't have enough capacity to charge more than one thing. It was expensive but offered a lot of juice for the small size and weight. A wise choice as my phone burnt through a full charge in the first part of the day when it struggled to connect to the mobile network, and my watch needed a full charge. It still had enough charge left to fully charge another device. When I return next December, with the difficulty turned up a notch or two, with longer and colder nights, that extra capacity will be reassuring. Battery life in the cold is greatly reduced.
 
