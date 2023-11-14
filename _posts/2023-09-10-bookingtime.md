@@ -47,7 +47,7 @@ I then carefully check my diary is fully up to date. As mentioned previously, bl
 Lastly, once you have set up a few meeting types to suit your needs, don't forget to add some reminder messages for each meeting to ensure the meeting is not forgotten. I'm fond of adding my mobile phone number to the reminder, so in case the person you are meeting is having a problem connecting to the meeting, they have a backup way to tell you this.
 
 
-### Outlook Bookings ###
+### Microsoft Bookings ###
 
 Before Book Time With me, there was 
 [https://outlook.office.com/bookings](https://outlook.office.com/bookings). The intended audience is slightly different, and there's more to customise, but the intention is much the same. This will be covered in a future blog post.
