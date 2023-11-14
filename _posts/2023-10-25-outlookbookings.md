@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Booking in Outlook part II
+title: Booking in Microsoft 365 (Part II)
 ---
 
 Last time we talked about a simple way to answer the question "What time shall we meet?"

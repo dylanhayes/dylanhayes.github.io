@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Booking in Outlook
+title: Booking in Microsoft 365 (Part I)
 ---
 
 It's likely that millions of emails fly around the internet every day try to solve a very simple problem: What time shall we meet?
