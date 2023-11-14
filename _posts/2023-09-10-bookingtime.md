@@ -52,6 +52,6 @@ Lastly, once you have set up a few meeting types to suit your needs, don't forge
 ### Microsoft Bookings ###
 
 Before Book Time With me, there was 
-[https://outlook.office.com/bookings](https://outlook.office.com/bookings). The intended audience is slightly different, and there's more to customise, but the intention is much the same. This is covered in [../outlookbookings](this blog post).
+[https://outlook.office.com/bookings](https://outlook.office.com/bookings). The intended audience is slightly different, and there's more to customise, but the intention is much the same. This is covered in [this blog post](/outlookbookings).
 
 
