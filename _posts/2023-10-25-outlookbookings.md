@@ -81,13 +81,13 @@ There's a lot to cover here, which we'll come to in a future blog post. Before y
 
 It depends on what you exact needs are. Generally, if you don't know, you probably should choose Book Time with Me.
 
-| Feature                | Microsoft Bookings | Book Time with Me |
-|------------------------|--------------------|-------------------|
-| Easy to setup          | Yes                | Very easy         |
-| Group Booking          | Yes                | No                |
-| Customised Emails      | Yes                | Limited           |
-| Private Meetings       | Yes                | Yes               |
-| Internal Only Meetings | Yes                | No                |
-| External Meetings      | Yes                | Yes               |
-| Extension points       | API & Connectors   | No                |
-``
+| Feature                | Microsoft Bookings | Book Time with Me | 
+|------------------------|--------------------|-------------------| 
+| Easy to setup          | Yes                | Very easy         | 
+| Group Booking          | Yes                | No                | 
+| Customised Emails      | Yes                | Limited           | 
+| Private Meetings       | Yes                | Yes               | 
+| Internal Only Meetings | Yes                | No                | 
+| External Meetings      | Yes                | Yes               | 
+| Extension points       | API & Connectors   | No                | 
+
