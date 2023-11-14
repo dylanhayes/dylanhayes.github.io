@@ -51,7 +51,7 @@ You can come back to the booking admin later to add your own additional meetings
 
 For now, we just have one service type, but later on, you'll be able to choose from all the services you have made available. You can also have direct deep links to these, and private service types will not show up in the list. 
 
-The person making the booking can request a particular team member if that's what they want, which will further filter the available slots. They then choose an available slot for the service and the person. 
+The person making the booking can request a particular team member if that's what they want (this can be controlled in settings), which will further filter the available slots. They then choose an available slot for the service and the person. 
 
 ![Booking a service](../images/2023-10-25/Screenshot_215844.png)
 
@@ -89,6 +89,7 @@ Here's a summary by features:
 | Easy to setup          | Yes                     | Very easy              | 
 | Group Booking          | Yes                     | No                     | 
 | Customised Emails      | Yes                     | Limited                | 
+| Branding               | Custom colour & logo    | Banner image           | 
 | Private Meetings       | Yes                     | Yes                    | 
 | Internal Only Meetings | Yes                     | No                     | 
 | External Meetings      | Yes                     | Yes                    | 
