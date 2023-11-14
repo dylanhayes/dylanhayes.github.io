@@ -11,8 +11,8 @@ There are 3rd party services out there which can do this for you, but it turns o
 
 ### Microsoft Bookings ###
 
-This has been around for longer than [Book Time With Me](../bookingtime), and although these both superfically do the same thing, this is aimed at more complex scenarios. 
-I still use this as my primary tool for allowing others  to book meetings with myself, as I was using this before Book Time with Me came along,  but the intended use case for this is when you want to be able to book from a pool of people, customise the experience, or use this to trigger other actions. 
+This has been around for longer than [Book Time With Me](/bookingtime), and although these both superfically do the same thing, this is aimed at more complex scenarios. 
+I still use this as my primary tool for allowing others  to book meetings with myself, as I was using this before Book Time with Me came along,  but the intended use case for this is when you want user to be able to book from a pool of people, customise the experience, or use this to trigger other actions. 
 
 #### Getting Started ####
 
@@ -20,7 +20,9 @@ If you go to [https://outlook.office.com/bookings/](https://outlook.office.com/b
 
 ![Book time with me](../images/2023-10-25/Screenshot_211639.png)
 
-Just like [Book time with Me](../bookingtime/) you can use this to setup a booking page for just yourself. Unless you want to have really fine grained control over your booking page, Book Time With Me may well be the better option. Here, we're going to set up a simple booking page for a group. First we're going to add some basic details.  
+Just like [Book time with Me](../bookingtime/) you can use this to setup a booking page for just yourself. Unless you want to have really fine grained control over your booking page, Book Time With Me may well be the better option. Here, we're going to set up a simple booking page for a group. What is a group? That's a good question, as a group can have many members, and you can customise which members are available offer services belonging to the group, but broadly a group should be a pool of people who perform similar actions. This could be anything from canine beauty treatments to ghost removal services.
+
+First we're going to add some basic details.  
 
 ![Who you gonna call](../images/2023-10-25/Screenshot_211943.png)
 
