@@ -18,19 +18,54 @@ I still use this as my primary tool for allowing others  to book meetings with m
 
 If you go to [https://outlook.office.com/bookings/](https://outlook.office.com/bookings/) you you get get started with Bookings. 
 
-![Book time with me](../images/2023-09-10/Screenshot_214323.png)
+![Book time with me](../images/2023-10-25/Screenshot_211639.png)
 
-Just like [Book time with Me](../bookingtime/) you can use this to setup a booking page for just yourself, but you can also set up. 
+Just like [Book time with Me](../bookingtime/) you can use this to setup a booking page for just yourself. Unless you want to have really fine grained control over your booking page, Book Time With Me may well be the better option. Here, we're going to set up a simple booking page for a group. First we're going to add some basic details.  
 
-![Book time with me](../images/2023-09-10/Screenshot_214323.png)
+![Who you gonna call](../images/2023-10-25/Screenshot_211943.png)
 
-A default private meeting is created to get you started. You can add your own additional meetings afterwards to suit your needs, so that you can offer different types of meeting by duration and purpose.
+And now some other (licensed) users who will be providing the service.
+
+![Adding members](../images/2023-10-25/Screenshot_212125.png)
+
+For now, we'll accept the defaults and add them as team members.
+
+![The team](../images/2023-10-25/Screenshot_212256.png)
+
+Now, we can create our first appointment type, and set the hours. We'll only set this up for office hours, but you can adjust this to suit your needs. You'll need to choose if this is a teams meeting. Just like book time with me, this respects diary availability, but because it's a group, the selection of available times will be wider as there are more staff to cover it.
+
+![Setting up the booking page](../images/2023-10-25/Screenshot_212449.png)
+
+Pretty soon, the booking page will be created. You'll get a URL for the booking page. 
+
+![Booking page](../images/2023-10-25/Screenshot_212618.png)
 
 
-The second mistake is to not define your available hours correctly. By default, Exchange considers your day to start at 8 and end at 5. If you don't work those hours, somebody might book time with you outside your working day. Just head to [workSchedule](https://outlook.office.com/mail/options/calendar/workSchedule) to configure this to your needs. 
+You can come back to the booking admin later to add your own additional meetings to suit your needs, so that you can offer different types of meeting by duration and purpose. But, right now, let's look at the [user experience](https://outlook.office365.com/owa/calendar/GhostBusters@dylanhayes.onmicrosoft.com/bookings/).
+
+For now, we just have one service type, but later on, you'll be able to choose from all the services you have made available. You can also have direct deep links to these, and private service types will not show up in the list. 
+
+The person making the booking can request a particular team member if that want, which will further filter the available slots. They then choose an available slot for the service and the person. 
+
+![Booking a service](../images/2023-10-25/Screenshot_215844.png)
+
+And then provide some details.
+
+![Adding details](../images/2023-10-25/Screenshot_220027.png)
+
+Once they hit book, they are presented with a confirmation page, and a confirmation email, which allows rebooking and cancellation.
+
+![Adding details](../images/2023-10-25/Screenshot_220502.png)
+
+In my opinion, the experience looks very professional, which reflects it's intended use. And, that's pretty much it to get up and running.
 
 #### Fine tuning ####
 
+[The Booking Page](https://outlook.office.com/bookings/homepage) is where you can add more services and fine tune the offering. 
+
+![Bookings page](../images/2023-10-25/Screenshot_220502.png)
+
+There's a lot to cover here, which we'll come to in a future blog post. Before you invest too much time, it's worth taking a look at some of the [pitfalls](../bookingtime/) in the Book time with Me blog post, as many of them, particularly the advice about keeping diaries perfectly maintained are euqally as valid.
 
 
 ### OK - Which tool should I use? ###

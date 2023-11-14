@@ -23,6 +23,8 @@ A default private meeting is created to get you started. You can add your own ad
 
 ![Create new meeting](../images/2023-09-10/Screenshot_214648.png)
 
+<a name="pitfalls"></a>
+
 It's very easy to create new meeting types and start using the service, but some thought needs to be given to how it will work at a practical level. 
 The first mistake you can make is to not keep the rest of your diary fully up to date. As availability is driven by your Exchange calendar, your calendar needs to be really accurate. 
 If you have booked time off, make sure you mark yourself as unavailable in Outlook the moment you book that time off, as otherwise somebody with a link to your bookings page can quite innocently book some time with you where you are not available. Your time savings from using Book With Me are soon eroded by having to fix this.
