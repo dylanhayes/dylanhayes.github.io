@@ -86,12 +86,12 @@ Here's a summary by features:
 
 |  Feature                |  Microsoft Bookings      |  Book Time with Me       | 
 |-------------------------|--------------------------|--------------------------| 
-| Easy to setup           |  Yes                     |  Very easy              | 
-| Group Booking           |  Yes                     |  No                     | 
-| Customised Emails       |  Yes                     |  Limited                | 
-| Branding                |  Custom colour & logo    |  Banner image           | 
-| Private Meetings        |  Yes                     |  Yes                    | 
-| Internal Only Meetings  |  Yes                     |  No                     | 
-| External Meetings       |  Yes                     |  Yes                    | 
-| Extension points        |  API & Connectors        |  No                     | 
+| Easy to setup           |  Yes                     |  Very easy               | 
+| Group Booking           |  Yes                     |  No                      | 
+| Customised Emails       |  Yes                     |  Limited                 | 
+| Branding                |  Custom colour & logo    |  Banner image            | 
+| Private Meetings        |  Yes                     |  Yes                     | 
+| Internal Only Meetings  |  Yes                     |  No                      | 
+| External Meetings       |  Yes                     |  Yes                     | 
+| Extension points        |  API & Connectors        |  No                      | 
 
