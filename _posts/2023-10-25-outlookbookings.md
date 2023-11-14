@@ -36,9 +36,13 @@ For now, we'll accept the defaults and add them as team members.
 
 Now, we can create our first appointment type, and set the hours. We'll only set this up for office hours, but you can adjust this to suit your needs. You'll need to choose if this is a teams meeting. Just like book time with me, this respects diary availability, but because it's a group, the selection of available times will be wider as there are more staff to cover it.
 
-![Setting up the booking page](../images/2023-10-25/Screenshot_212449.png)
+![Configuration of the hours on the booking page](../images/2023-10-25/Screenshot_212449.png)
 
-Pretty soon, the booking page will be created. You'll get a URL for the booking page. 
+Pretty soon, the booking page will be created. 
+
+![Creating the booking page](../images/2023-10-25/Screenshot_212549.png)
+
+You'll get a URL for the booking page. 
 
 ![Booking page](../images/2023-10-25/Screenshot_212618.png)
 
