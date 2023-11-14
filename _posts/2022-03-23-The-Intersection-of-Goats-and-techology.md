@@ -3,12 +3,14 @@ layout: post
 title: Cheviot Goat 2022
 ---
 
-_Lessons from the intersection of mountain goats and technology_
-## There's a bit of a reoccuring theme here right? ##
+There are some lessons to be drawn from the intersection of mountain goats and technology. We all carry a dazzling array of gadgets about our person these days, but things don't always work as intended in really severe conditions.
+
+
+## There's a bit of a reccuring theme here right? ##
 
 Last month I did the Cheviot Goat 2020 edition. Or was it the 2021 edition, or the spring 2022 edtion? With 2 cancellations due to covid and one due to storms this an event that had been a long time coming.
 
-I'm now done this [sort of event quite a few times](https://dylanhayes.github.io/Lessons-from-Ultra-Running/), and I can compare what common threads there are to each event and what is distinct. The [Cheviot Goat](https://cheviotgoat.com/) likes to emphasise the remote and challenging nature of the course and the fearsome weather conditions. At dawn on a late March day with a cloudless sky there was skant sign of the fearsome weather, and the first couple of miles along wide easy paths was far easier than it was on the previous route where this was the very last section done on tired leg in the dark howling night. If the the Cheviots are Middle Earth, then we were still on the edge of the Shire. 
+I'm now done this [sort of event quite a few times](https://dylanhayes.github.io/Lessons-from-Ultra-Running/), and I can compare what common threads there are to each event and what is distinct. The [Cheviot Goat](https://cheviotgoat.com/) likes to emphasise the remote and challenging nature of the course and the fearsome weather conditions. At dawn on a late March day with a cloudless sky there was scant sign of the fearsome weather, and the first couple of miles along wide easy paths was far easier than it was on the previous route where this was the very last section done on tired leg in a dark howling night. If the the Cheviots are Middle Earth, then we were still on the edge of the Shire. 
 
 
 ![Leaving the Shire](../images/2022-03-23/IMG_20220319_063049.jpg)
@@ -19,7 +21,7 @@ In a pattern that became all too familar, the route then left the comfort of a g
 ![Brrowburn](../images/2022-03-23/IMG_20220319_120032.jpg)
 
 
-The repetition of abrupt climbs and descents on a mixture of landrover tracks and sheep trails across rough ground countined until we reached the aptly named Windy Gyle. One of the distinct features of this race is the dour and gloomy place names. Murder Cleugh, Bloodybush Edge, Wether Cairn, Butt Road and High Bleakhope are unlikely to feature in outdoor product names like Lakeland fells do. Having been hot during the climbs so far, the wind started to feel really cold along the Pennine Way. The stone slabs were quite runnable, although it was very easy to catch a toe on protruding bit, sending you tumbling into the surrounding mire. Worse yet, there were gaps in slabs. With a combination of good luck and judgement you could tell if the gap was where the stone was concealed by a shallow muddy puddle, or a bottomless pit of filth before placing a foot into it. We arrived at the unexpectedly cloudy summit plateau of the Cheviot after making good progress. The descent from the Cheviot proved to be unpleasantly rocky at first, and then a nighmare for poor grip on the heal of my Hoka Speedgoats. I was at times speedy on the Goat, but mostly because I was sliding downwards on my behind. Getting muddy was not a problem, but getting wet risked getting cold later on.
+The repetition of abrupt climbs and descents on a mixture of landrover tracks and sheep trails across rough ground countined until we reached the aptly named Windy Gyle. One of the distinct features of this race is the dour and gloomy place names. Murder Cleugh, Bloodybush Edge, Windy Gyle, Wether Cairn, Butt Road and High Bleakhope are unlikely to feature in outdoor product names like Lakeland fells do. Having been hot during the climbs so far, the wind started to feel really cold along the Pennine Way. The stone slabs were quite runnable, although it was very easy to catch a toe on protruding bit, sending you tumbling into the surrounding mire. Worse yet, there were gaps in slabs. With a combination of good luck and judgement you could tell if the gap was where the stone was concealed by a shallow muddy puddle, or a bottomless pit of filth before placing a foot into it. Picking up on the Middle Earth theme, we were on a quest heading towards a towering volcano, although this was no Mount Doom, as the fires of the Cheviot had gone out 390 million years. We arrived at the unexpectedly cloudy summit plateau of the Cheviot after making good progress. The descent from the Cheviot proved to be unpleasantly rocky at first, and then a nighmare for poor grip on the heal of my Hoka Speedgoats. I was at times speedy on the Goat, but mostly because I was sliding downwards on my behind. Getting muddy was not a problem, but getting wet risked getting cold later on.
 
 ![Untypical weather](../images/2022-03-23/IMG_20220319_145048.jpg)
 
