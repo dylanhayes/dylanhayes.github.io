@@ -11,7 +11,7 @@ There are 3rd party services out there which can do this for you, but it turns o
 
 ### Microsoft Bookings ###
 
-This has been around for longer than [Book Time With Me](bookingtime), and although these both superfically do the same thing, this is aimed at more complex scenarios. 
+This has been around for longer than [Book Time With Me](../bookingtime), and although these both superfically do the same thing, this is aimed at more complex scenarios. 
 I still use this as my primary tool for allowing others  to book meetings with myself, as I was using this before Book Time with Me came along,  but the intended use case for this is when you want to be able to book from a pool of people, customise the experience, or use this to trigger other actions. 
 
 #### Getting Started ####
@@ -65,7 +65,7 @@ In my opinion, the experience looks very professional, which reflects it's inten
 
 ![Bookings page](../images/2023-10-25/Screenshot_220502.png)
 
-There's a lot to cover here, which we'll come to in a future blog post. Before you invest too much time, it's worth taking a look at some of the [pitfalls](../bookingtime/) in the Book time with Me blog post, as many of them, particularly the advice about keeping diaries perfectly maintained are euqally as valid.
+There's a lot to cover here, which we'll come to in a future blog post. Before you invest too much time, it's worth taking a look at some of the [pitfalls](../bookingtime/#pitfalls) in the Book time with Me blog post, as many of them, particularly the advice about keeping diaries perfectly maintained are euqally as valid.
 
 
 ### OK - Which tool should I use? ###
