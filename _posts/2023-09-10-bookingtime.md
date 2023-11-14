@@ -3,13 +3,15 @@ layout: post
 title: Booking in Outlook
 ---
 
-## Saving yourself from boring tasks ##
+It's likely that millions of emails fly around the internet every day try to solve a very simple problem: What time shall we meet?
 
-It's likely that millions of emails fly around the internet every day try to solve a very simple problem. What time would you like to meet?
+## There is salvation from this tedious task ##
 
-There are 3rd party services out there which can do this for you, but it turns out Microsoft 365 can do this for you already. In fact, as is often the case, there's actually two ways to do this. Each of these is optimised towards a slightly different use case.
+There are 3rd party services out there which can do this for you, but it turns out Microsoft 365 can do this for you already as part of your existing license. In fact, as is often the case, there's actually two ways to do this. Each of these is optimised towards a slightly different use case but broadly do the same thing.
 
 ### Book Time With me ###
+
+This is actually the newer option, but it's generally the easier one to get started with.
 
 If you go to [https://outlook.office.com/bookwithme/](https://outlook.office.com/bookwithme/) you will find the first, called Book Time With Me. As the name suggests, this is aimed at your personal work persona, and offers an easy way for colleagues and collaborators both internal and external to find a talk to book some time. 
 
