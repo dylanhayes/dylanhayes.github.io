@@ -65,7 +65,7 @@ Once they hit book, they are presented with a confirmation page, and a confirmat
 
 In my opinion, the experience looks very professional, which reflects it's intended use. And, that's pretty much it to get up and running.
 
-[Try it for yourself](https://outlook.office365.com/owa/calendar/GhostBusters@dylanhayes.onmicrosoft.com/bookings/)
+[Try it for yourself](https://outlook.office365.com/owa/calendar/GhostBusters@dylanhayes.onmicrosoft.com/bookings/) __ disclaimer I'm not a real exorcist. If you need a real exorcism call somebody else ___
 
 
 #### Fine tuning ####
