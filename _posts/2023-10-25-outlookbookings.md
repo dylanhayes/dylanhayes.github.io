@@ -65,7 +65,7 @@ Once they hit book, they are presented with a confirmation page, and a confirmat
 
 In my opinion, the experience looks very professional, which reflects it's intended use. And, that's pretty much it to get up and running.
 
-[Try it for yourself](https://outlook.office365.com/owa/calendar/GhostBusters@dylanhayes.onmicrosoft.com/bookings/)  __disclaimer If there's something strange in your neighborhood who ya gonna call? Better call somebody else__
+[Try it for yourself](https://outlook.office365.com/owa/calendar/GhostBusters@dylanhayes.onmicrosoft.com/bookings/)  __disclaimer: If there's something strange in your neighborhood who you gonna call? Better make that somebody else__
 
 
 #### Fine tuning ####
