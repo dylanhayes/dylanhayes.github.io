@@ -5,7 +5,7 @@ title: Booking in Outlook part II
 
 Last time we talked about a simple way to answer the question "What time shall we meet?"
 
-## This time we're taking a look at Microsoft Bookings##
+## This time we're taking a look at Microsoft Bookings ##
 
 There are 3rd party services out there which can do this for you, but it turns out Microsoft 365 can do this for you already as part of your existing license. In fact, as is often the case, there's actually two ways to do this. Each of these is optimised towards a slightly different use case but broadly do the same thing.
 
