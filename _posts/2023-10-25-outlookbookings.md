@@ -51,7 +51,7 @@ You can come back to the booking admin later to add your own additional meetings
 
 For now, we just have one service type, but later on, you'll be able to choose from all the services you have made available. You can also have direct deep links to these, and private service types will not show up in the list. 
 
-The person making the booking can request a particular team member if that want, which will further filter the available slots. They then choose an available slot for the service and the person. 
+The person making the booking can request a particular team member if that's what they want, which will further filter the available slots. They then choose an available slot for the service and the person. 
 
 ![Booking a service](../images/2023-10-25/Screenshot_215844.png)
 
@@ -65,11 +65,14 @@ Once they hit book, they are presented with a confirmation page, and a confirmat
 
 In my opinion, the experience looks very professional, which reflects it's intended use. And, that's pretty much it to get up and running.
 
+[Try it for yourself](https://outlook.office365.com/owa/calendar/GhostBusters@dylanhayes.onmicrosoft.com/bookings/)
+
+
 #### Fine tuning ####
 
 [The Booking Page](https://outlook.office.com/bookings/homepage) is where you can add more services and fine tune the offering. 
 
-![Bookings page](../images/2023-10-25/Screenshot_220502.png)
+![Bookings page](../images/2023-10-25/Screenshot_221045.png)
 
 There's a lot to cover here, which we'll come to in a future blog post. Before you invest too much time, it's worth taking a look at some of the [pitfalls](../bookingtime/#pitfalls) in the Book time with Me blog post, as many of them, particularly the advice about keeping diaries perfectly maintained are euqally as valid.
 
