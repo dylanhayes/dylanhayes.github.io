@@ -73,9 +73,9 @@ My previous workflow involved the creation of content in ChatGPT, and pasting it
 
 After all the Wows, the Copilot support in Excel was more of a ‘hmmm interesting’ for me. Copilot in Excel works on tables – rather than authoring content. If you recall, Copilot can create tables as output, so content creation is available, but requires two steps.
 
-![Copilot Pro to Excel](../images/2024-03-03/copilotislands.png)
+![Copilot Pro to Excel](../images/2024-03-03/island.png)
 
-In this case we’re going to create a list of the highest point of each English county with Copilot Pro, and output this to Excel.
+In this case we’re going to create a list of the highest point of the largest islands (just because) with Copilot Pro, and output this to Excel. The ability to coalesce multiple sources of information into one table and make that into Excel is astonishing. But, as ever a keen pair of eyes and subject knowledge still pays dividends, as my first pass through this featured some mistakes when my prompt was too ambitious in trying to merge too many sources. Regardless of this, in a real world case, the ability grab data and make Excel documents is truly useful.
 
 ![Copilot to add column](../images/2024-03-03/exceladdcol.png)
 
