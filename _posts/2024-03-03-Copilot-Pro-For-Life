@@ -73,7 +73,7 @@ My previous workflow involved the creation of content in ChatGPT, and pasting it
 
 After all the Wows, the Copilot support in Excel was more of a ‘hmmm interesting’ for me. Copilot in Excel works on tables – rather than authoring content. If you recall, Copilot can create tables as output, so content creation is available, but requires two steps.
 
-![Copilot Pro to Excel](../images/2024-03-03/excelcreatetable.png)
+![Copilot Pro to Excel](../images/2024-03-03/copilotislands.png)
 
 In this case we’re going to create a list of the highest point of each English county with Copilot Pro, and output this to Excel.
 
@@ -81,13 +81,15 @@ In this case we’re going to create a list of the highest point of each English
 
 But, once you have the table, you can ask questions about the table. It’s a great way to gain insights into the data quickly. You can also ask for calculations for columns. Although this seems far less striking than the ability to magically create text from thin air, if you work in Excel a lot and don’t mind changing the way you work it’s powerful stuff.
 
+![Copilot to add column](../images/2024-03-03/exceladdedformula.png)
+
 ## OneNote
 
 OneNote is my all-time favourite application. I tend to only use written paper notes as a temporary cache to capture things during a call before I can write them up in OneNote. As a consequence, I have a lot of OneNote content, and sometimes the content is copied and pasted from somewhere else, and sometimes it’s a Joycean stream of consciousness. If I need to use OneNote as the basis for writing something based on this, it’s a bit of chore turn it into useful prose, or extract a summary.
 
 Copilot does a great job of cleaning up some text that suffers bloat and poor writing.
 
-![Copilot rewrite](../images/2024-03-03/onenoterewrite.png)
+![Copilot rewrite](../images/2024-03-03/onenoterwrite.png)
 
 If you need to distill the imformation you can as well.
 
