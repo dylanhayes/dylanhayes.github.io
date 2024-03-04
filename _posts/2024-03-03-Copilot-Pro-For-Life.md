@@ -3,11 +3,9 @@ layout: post
 title: Copilot Pro for everyday life (Part I)
 ---
 
-# Adventures in Copilot Pro
-
 There's a Copilot for everything Microsoft these days. This time, we're going to take a look at how to bring Copilot home.
 
-## A purpose
+## A purpose to our adventures in Copilot Pro
 
 When Copilot Pro finally became available on Personal and Family subscriptions, I thought I would try out it. Having used Copilot in what was called it’s Bing Chat incarnation, and Chat GPT Plus, I was keen to find out if Copilot Pro might dethrone ChatGPT Plus as my go to AI tooling. 
 To test how it worked, I thought I would try a series of tasks I needed to acomplish in running a cub scout section. Naturally, I use IT and Microsoft services to try and make things easy, and this was the perfect place to see how these worlds crossed over.
