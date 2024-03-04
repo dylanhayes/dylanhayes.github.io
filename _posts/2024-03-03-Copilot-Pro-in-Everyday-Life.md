@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Copilot Pro for everyday life (Part I)
+title: Copilot Pro in everyday life (Part I)
 ---
 
 There's a Copilot for everything Microsoft these days. This time, we're going to take a look at how to bring Copilot home.
