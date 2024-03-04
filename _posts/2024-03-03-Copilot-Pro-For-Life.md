@@ -71,6 +71,12 @@ I was able to use these features to create and refine a risk assessment for an e
 
 My previous workflow involved the creation of content in ChatGPT, and pasting it into Word. This involved either a 3rd party markdown plugin such as Writeage, or pasting as plain text and adding the markup, as Word would convert ChatGPT derived content as tables, which are not a good way to manage text in Word.
 
+Another use case is the ability to create a summary. In this case, I had an email about a scouting event that I wished to condence down the details and remove irrelevant sections and send it to parents. A few clicks got me a summary, which was ready with a few edits for an email. The alternative of snipping bits from a Word document and cleaning formatting would have been 10 minutes of tedious work.
+
+![Risk assessment](../images/2024-03-03/word3.png)
+
+
+
 ## Excel
 
 After all the Wows, the Copilot support in Excel was more of a ‘hmmm interesting’ for me. Copilot in Excel works on tables – rather than authoring content. If you recall, Copilot can create tables as output, so content creation is available, but requires two steps.
