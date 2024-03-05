@@ -8,7 +8,7 @@ There's a Copilot for everything Microsoft these days. This time, we're going to
 ## A purpose to our adventures in Copilot Pro
 
 When Copilot Pro finally became available on Personal and Family subscriptions, I thought I would try out it. Having used Copilot in what was called it’s Bing Chat incarnation, and Chat GPT Plus, I was keen to find out if Copilot Pro might dethrone ChatGPT Plus as my go to AI tooling. 
-To test how it worked, I thought I would try a series of tasks I needed to acomplish in running a cub scout section. Naturally, I use IT and Microsoft services to try and make things easy, and this was the perfect place to see how these worlds crossed over.
+To test how it worked, I thought I would try a series of tasks I needed to acomplish in running a cub scout section. Naturally, I use IT and Microsoft services to try and make things easy, and this was the perfect place to see how these two worlds crossed over.
 
  Before we get down to use cases, I think it’s helpful to explain how Copilot Pro fits into the rest of the Copilot offerings and other Generative AI services.
 
@@ -30,7 +30,7 @@ To add further Copilots to the mix, there is Copilot (Formerly called Bing Chat)
 
 One hard to ignore difference between Copilot Pro and its business focused equivalent is price. Copilot for Microsoft 365 is currently only available on an annual license. At £25 per user per month, that’s quite a commitment. Copilot Pro is £19 per user per month, and it’s charged monthly so you have the chance to see if it’s worth it.
 
-### Unhappy families
+### Unhappy families?
 
 Tolstoy might once have said each unhappy family is unhappy in its own way, but if you have a Microsoft 365 Family subscription, you might find yourself unhappy in the same way. Even through you are bought a family subscription, which can be used by multiple people for the same annual cost, the Copilot pro license is per user, so either one lucky user gets the license, or you will have to pay for each of the family users to have a subscription at £19 per month. The yearly cost of each family member’s Copilot Pro will vastly exceed the cost of the Microsoft 365 Family subscription of around £80 per year.
 
@@ -52,10 +52,9 @@ The most standout feature in comparison with ChatGPT Plus is of course the abili
 
 ## PowerPoint
 
-The first time you hit the Copilot button in PowerPoint, write up a prompt and see the results will be the same sort of **WOW!** moment you got when you saw the results of your first ChatGPT prompt. In my case, I needed to create a PowerPoint to explain the Lunar New Year to Cub Scouts. A simple bit of prompting produced a decent PowerPoint that vibrant colours, suitable images and the text I needed to introduce the concept of the lunar new year and the zodiac animals, and the significance of the year of the Dragon. I would have taken a while to do that in my previous workflow of ChatGPT, DALLE images and then pasting it all into PowerPoint and trying a few designs.
+The first time you hit the Copilot button in PowerPoint, write up a prompt and see the results will be the same sort of **WOW!** moment you got when you saw the results of your first ChatGPT prompt. In my case, I needed to create a PowerPoint to explain the Lunar New Year to Cub Scouts. A simple bit of prompting produced a decent PowerPoint that featured vibrant colours, suitable images and the text I needed to introduce the concept of the lunar new year and the zodiac animals, and the significance of the Year of the Dragon. I would have taken a while to do that in my previous workflow of ChatGPT, DALL-E images and then pasting it all into PowerPoint and trying a few designs.
 
 ![PowerPoint Wow Moment](../images/2024-03-03/powerpoint.png)
-
 
 The same functionality of prompt based content generation is repeated across the other Office applications.
 
@@ -93,7 +92,7 @@ But, once you have the table, you can ask questions about the table. It’s a gr
 
 ## OneNote
 
-OneNote is my all-time favourite application. I tend to only use written paper notes as a temporary cache to capture things during a call before I can write them up in OneNote. As a consequence, I have a lot of OneNote content, and sometimes the content is copied and pasted from somewhere else, and sometimes it’s a Joycean stream of consciousness. If I need to use OneNote as the basis for writing something based on this, it’s a bit of chore turn it into useful prose, or extract a summary.
+OneNote is my all-time favourite application. I tend to only use written paper notes as a temporary cache to capture things during a call before I can write them up in OneNote. As a consequence, I have a lot of OneNote content, and sometimes the content is copied and pasted from somewhere else, and more sometimes it’s a Joycean stream of consciousness that anybody else would struggle to understand. If I need to use OneNote as the basis for writing something based on this, it’s a bit of a chore turn it into useful prose, or extract a summary.
 
 Copilot does a great job of cleaning up some text that suffers bloat and poor writing.
 
