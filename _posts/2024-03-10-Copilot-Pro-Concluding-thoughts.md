@@ -3,6 +3,8 @@ layout: post
 title: Copilot Pro in everyday life Concluding Thoughts (Part II)
 ---
 
+Copilot Pro compared, and which is best for me?
+
 # Summing Up
 
 ## Copilot Pro versus Copilot
@@ -18,6 +20,7 @@ title: Copilot Pro in everyday life Concluding Thoughts (Part II)
 | Prerequisites                 | None                                       | Microsoft 365 Personal or Family subscription         |
 | Image Generation              | DALL-E 3/ Designer – 15/day                | DALLE 3 / Designer 100/day                            |
 | Extension points              | Find and use 3rd party plugins             | Author plugins and use 3rd party plugins              |
+
 
 ## Copilot Pro versus paid for AI
 
