@@ -5,9 +5,9 @@ title: Copilot Pro in everyday life Concluding Thoughts (Part II)
 
 Copilot Pro compared, and which is best for me?
 
-# Summing Up
+## Summing Up
 
-## Copilot Pro versus Copilot
+### Copilot Pro versus Copilot
 
 |                               | **Copilot**                                | **Copilot Pro**                                       |
 |-------------------------------|--------------------------------------------|-------------------------------------------------------|
@@ -22,7 +22,7 @@ Copilot Pro compared, and which is best for me?
 | Extension points              | Find and use 3rd party plugins             | Author plugins and use 3rd party plugins              |
 
 
-## Copilot Pro versus paid for AI
+### Copilot Pro versus paid for AI
 
 |                               | **ChatGPT Plus**                                       | **Copilot Pro**                                                         | **Copilot for Microsoft 365**                                                     |
 |-------------------------------|--------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
@@ -37,7 +37,7 @@ Copilot Pro compared, and which is best for me?
 | Extension points              | Author and find extensive library of 3rd party plugins | Author plugins and find more limited library of 3rd party plugins       | Author and find curated corporate plugins                                         |
 
 
-## Conclusion
+### Conclusion
 
 If your generative AI needs are related to your work in an organisation, then **Copilot for Microsoft 365 is aimed at you. It’s also the most expensive option here (although the work orientated version of ChatGPT, ChatGPT Enterprise is also expensive).**
 
