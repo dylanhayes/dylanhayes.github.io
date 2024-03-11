@@ -7,6 +7,8 @@ Copilot Pro compared, and which is best for me?
 
 ## Summing Up
 
+In the [previous post]({% link _posts/2024-03-03-Copilot-Pro-in-Everyday-Life.md %}) we looked at what Copilot Pro was and the capabilities it offered. Now, let's compare it to other options and look at if it's right for you.
+
 ### Copilot Pro versus Copilot
 
 |                               | **Copilot**                                | **Copilot Pro**                                       |
@@ -39,7 +41,7 @@ Copilot Pro compared, and which is best for me?
 
 ### Conclusion
 
-If your generative AI needs are related to your work in an organisation, then **Copilot for Microsoft 365 is aimed at you. It’s also the most expensive option here (although the work orientated version of ChatGPT, ChatGPT Enterprise is also expensive).**
+If your generative AI needs are related to your work in an organisation, then Copilot for Microsoft 365 is aimed at you. It’s also the most expensive option here (although the work orientated version of ChatGPT, ChatGPT Enterprise is also expensive).
 
 If you are paying for ChatGPT Plus and you are not using it in an organisational setting, and especially if you are using office applications like Word and Excel then Copilot Pro has more features for the same money, and would be my favoured choice. The style and output of ChatGPT Plus compared to Copilot Pro is often different for the same prompts, and which is better for a given use case is a matter of personal taste. I find myself trying both and comparing. I note that ChatGPT tends to like making lists, whereas Copilot Pro tends toward prose.
 
