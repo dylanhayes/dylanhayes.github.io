@@ -118,3 +118,7 @@ The bit I found interesting is the email coaching, where it will examine an emai
 ## Moving on
 
 OneDrive is not yet supported, but coming to the Copilot for Microsoft 365, so one would assume OneDrive will get the same treatment.
+
+## Part II 
+
+In the [next post]({% link _posts/2024-03-10-Copilot-Pro-Concluding-thoughts.md %}) we're going compare Copilot with other offers in a bid to decide which is best.
