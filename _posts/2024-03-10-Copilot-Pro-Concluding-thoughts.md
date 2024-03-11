@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Copilot Pro Concluding Thoughts (Part II)
+excerpt_separator: <!--more-->
 ---
 
 Copilot Pro compared, and which is best for me?
+<!--more-->
 
 ## Summing Up
 
