@@ -24,7 +24,7 @@ In the [previous post]({% link _posts/2024-03-03-Copilot-Pro-in-Everyday-Life.md
 | Extension points              | Find and use 3rd party plugins             | Author plugins and use 3rd party plugins              |
 
 
-### Copilot Pro versus paid for AI
+### Copilot Pro versus other premium AI services
 
 |                               | **ChatGPT Plus**                                       | **Copilot Pro**                                                         | **Copilot for Microsoft 365**                                                     |
 |-------------------------------|--------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
