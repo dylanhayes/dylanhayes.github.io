@@ -284,22 +284,14 @@ footer {
 }
 
 
-/* Apply to every table */
-table {
-
-  border-collapse: collapse;
+/* Style for the header row with a thick black bottom border */
+table thead tr th {
+  border-bottom: 3px solid black; /* Adjust the thickness as needed */
 }
 
-/* Style for the first row */
-table thead tr {
-  font-weight: bold;
-  background-color: darkgray;
-  color: white;
-}
-
-/* Style for every other row in the body */
-table tbody tr:nth-child(odd) {
-  background-color: lightgray;
+/* Style for each body row with a thin dotted bottom border */
+table tbody tr td {
+  border-bottom: 1px dotted black;
 }
 
 table th,
