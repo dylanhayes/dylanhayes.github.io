@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Copilot Pro Concluding Thoughts (Part II)
+title: Copilot Pro - Concluding Thoughts (Part II)
 excerpt_separator: <!--more-->
 ---
 
