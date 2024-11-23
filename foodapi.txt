@@ -1,0 +1,103 @@
+openapi: 3.0.0
+info:
+  title: Food Standards Agency API
+  description: API for accessing Food Standards Agency data, including food hygiene ratings and establishment details.
+  version: 1.0.0
+servers:
+  - url: https://api.food.gov.uk
+paths:
+  /establishments:
+    get:
+      summary: Get a list of establishments
+      description: Retrieve a list of food establishments with optional filtering.
+      parameters:
+        - in: query
+          name: name
+          schema:
+            type: string
+          description: Filter establishments by name.
+        - in: query
+          name: localAuthorityId
+          schema:
+            type: integer
+          description: Filter by local authority ID.
+        - in: query
+          name: businessTypeId
+          schema:
+            type: integer
+          description: Filter by business type ID.
+      responses:
+        '200':
+          description: A list of establishments.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/EstablishmentsResponse'
+        '400':
+          description: Invalid request parameters.
+  /establishments/{id}:
+    get:
+      summary: Get establishment details
+      description: Retrieve detailed information about a specific establishment.
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+          description: The ID of the establishment.
+      responses:
+        '200':
+          description: Establishment details retrieved successfully.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Establishment'
+        '404':
+          description: Establishment not found.
+components:
+  schemas:
+    EstablishmentsResponse:
+      type: object
+      properties:
+        establishments:
+          type: array
+          items:
+            $ref: '#/components/schemas/Establishment'
+    Establishment:
+      type: object
+      properties:
+        FHRSID:
+          type: integer
+          description: The Food Hygiene Rating Scheme ID.
+        BusinessName:
+          type: string
+          description: The name of the business.
+        BusinessType:
+          type: string
+          description: The type of business.
+        AddressLine1:
+          type: string
+          description: Address line 1.
+        AddressLine2:
+          type: string
+          description: Address line 2.
+        AddressLine3:
+          type: string
+          description: Address line 3.
+        PostCode:
+          type: string
+          description: Postal code.
+        RatingValue:
+          type: string
+          description: The hygiene rating value.
+        RatingDate:
+          type: string
+          format: date
+          description: The date when the rating was given.
+        LocalAuthorityName:
+          type: string
+          description: Name of the local authority.
+        LocalAuthorityId:
+          type: integer
+          description: ID of the local authority.
