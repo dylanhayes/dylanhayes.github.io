@@ -3,7 +3,7 @@ layout: post
 title: Copilot Pages - Adding Charts
 ---
 
-Copilot Pages are a feature of Biz chat allowing a more interactive approach to AI assisted authoring. Although broadly similar to Canvas in Chat GPT-4o, Copilot pages have some interesting features for mixing different types content due the incorporation of Loop capabilities.
+Copilot Pages are a feature of Biz Chat allowing a more interactive approach to AI assisted authoring. Although broadly similar to Canvas in Chat GPT-4o, Copilot Pages have some interesting features for mixing different types content due the incorporation of Loop capabilities.
 
 ## Starting with a prompt ##
 
@@ -23,6 +23,13 @@ The output of our prompt is displayed as the results.  As expected, an AI genera
 If we scroll down, we can see some markdown has been inserted into the text. It took me a few interations to get the right prompt, as my first few attempts ended up with a designer image of mermaids, and charts. Eventually, I got chat to create output in Markdown, with additional instructions in Markdown to render a chart in Mermaid. There are lots of tools which can render Mermaid, and plugins for ChatGPT, but here we're going to keep this all "inhouse" and display the chart inline in our output.
 
 ![chart_in_mermaid_format](../images/2025-01-05/chart_source.png)
+
+## Rich Content ##
+
+Mermaid charts are just an option to format code. We also have other formatting that you'd expect in things like a Word Docoument, like tables and lists:
+
+![results](../images/2025-01-05/other_content.png)
+
 
 ## Edit in Pages ##
 
@@ -56,13 +63,13 @@ It's looking better with our edits, but on reading it (you do read the AI output
 
 The new text is rendering below. This is a bit different to how ChatGPT canvas works, where the prompt changes the text on the right directly. If I scroll to the bottom of the newly created text, I can simply hit edit in pages, and my changes are appended to the text on the right. I found this feature not as intuitive as ChatGPT's Canvas. Addmittedly, Canvas gets a bit flakey when editing and the manual edits can go sour and lose formatting, but appending the edits on the end, and leaving the human to edit the text on the right isn't great.  
 
-![change_prompt](../images/2025-01-05/refresh_prompt.png)
+![change_prompt](../images/2025-01-05/refresh_with_prompt.png)
 
 ## Opening in Loop ##
 
 If we are done with the AI led authoring experience, we can hit the small "page" icon to open this in Loop:
 
-![edit_in_Loop](../images/2025-01-05/edit_in_loop.png)
+![edit_in_Loop](../images/2025-01-05/open_in_loop.png)
 
  We now have the same editing tools, to format our text, with more screen real estate given over to the editing expeience, but now we're in Loop we've lost the ability to keep changing the document from the prompt. 
 
