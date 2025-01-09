@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Copilot Pages - Adding Charts
+title: Copilot Pages - Adding Charts with Mermaid
 ---
 
 Copilot Pages are a feature of Biz Chat allowing a more interactive approach to AI assisted authoring. Although broadly similar to Canvas in Chat GPT-4o, Copilot Pages have some interesting features for mixing different types content due the incorporation of Loop capabilities.
