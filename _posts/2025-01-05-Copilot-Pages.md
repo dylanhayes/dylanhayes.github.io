@@ -9,7 +9,9 @@ Copilot Pages are a feature of Biz Chat allowing a more interactive approach to 
 
 ![prompt](../images/2025-01-05/prompt.png)
 
+```
 please create an article about the elves of middle earth. include an org chart using mermaid in the article showing the principle elves of middle earth
+```
 
 ## Looking at the output ##
 
@@ -24,11 +26,7 @@ If we scroll down, we can see some markdown has been inserted into the text. It 
 
 ![chart_in_mermaid_format](../images/2025-01-05/chart_source.png)
 
-## Rich Content ##
 
-Mermaid charts are just an option to format code. We also have other formatting that you'd expect in things like a Word Docoument, like tables and lists:
-
-![results](../images/2025-01-05/other_content.png)
 
 
 ## Edit in Pages ##
@@ -42,6 +40,13 @@ We can keep editing in chat, and inject additional prompts to change the text.
 
 
 ![edit in Copilot pages](../images/2025-01-05/edit_in_pages.png)
+
+## Rich Content ##
+
+Mermaid charts are just an option to format code. We also have other formatting that you'd expect in things like a Word Docoument, like tables and lists:
+
+![results](../images/2025-01-05/other_content.png)
+
 
 ## Add finese ##
 
