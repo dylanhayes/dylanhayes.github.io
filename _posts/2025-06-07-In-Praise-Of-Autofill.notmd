@@ -9,13 +9,11 @@ Metadata is virtuous, but like many virtues easily ignored. The problem is most 
 
 Autofill columns have a running cost, just like Syntex. You are going to need to turn these one before you can use them.
 You will need to have billing setup, and enable Autofill (you may also want to add Syntext later)
-In Microsoft Admin Centre, go to Bill
-
-TBA
+In Microsoft Admin Centre, go to Billing and enable Autofill and Syntex.
 
 ## Baby steps ##
 
-Just like regular columns, your first choice is to figure out what the column should contain and what data type best represents this. An autofill columns is just like anyother column, and ideally should belong to content type to promote consistancy and reuse. 
+Just like regular columns, your first choice is to figure out what the column should contain and what data type best represents this. An autofill columns is just like any other column, and ideally should belong to content type to promote consistancy and reuse. Do note however - although you can and indeed should create columns used with autofill as site columns in the content type gallery so they can be shared, the autofill settings are set locally in each document library (which makes sense as they should be tuned to each use case), so you'll need to add the autofill settings each time that they are used.
 
 In this example, we're going to be extracting different fields from a PDF utility bill. In this instance the document has a text layer, which gives the AI something to work with. If you have a scanned document with no text, you are going to need to do some OCR extraction first. 
 
@@ -23,19 +21,23 @@ It's worth remembering that autofill is pretty smart, and you don't need to trai
 
 Our first column is the account number. Despite the title being account "number", the number might actually be a string - so we're going to use a text field here. Let gett his added this now.
 
-add col
-add col2
+
+![step 1](../images/2025-07-06/addcol.png)
+
+![step 2](../images/2025-07-06/addcol2.png)
+
 
 Then we hit Autofill settings:
 
-autofill 1
+![step 3](../images/2025-07-06/createcolpart2_1.png)
+
 
 Now we are going to add a prompt. A tip here is to add some example data first. If the library is blank you'll need to write the prompt yourself. If the library is populated, the process is easier.
 
 Let's just the autofill settings, and then save the column and see what happens.
 
-autofill 2
-autofill 3
+![step 4](../images/2025-07-06/createcolpart2_2.png)
+![step 5](../images/2025-07-06/createcolpart2_3.png)
 
 Now, we're going to add a utility bill, and set it to work. Let's right click on the fill and select "Autofill".
 
@@ -47,18 +49,19 @@ And hey presto - the value is populated.
 
 Next we're going to extract the bill data. On our bill, this is called "Created On". Let's add this as a date column.
 
-create col part2 1
-create col part2 2
+![step 4](../images/2025-07-06/createcolpart2_1.png)
+![step 5](../images/2025-07-06/createcolpart2_2.png)
+
 
 Now, here's where the magic starts. As wer're already named the column as Create On, and given it the right data type, a default prompt has been created for us. Simply clicking on the automatic prompt suggestion will fill in the prompt for us. In general the automatic suggestion gets it right - so let's go with that.
 
-create col part2 3
-create col part2 4
+![step 6](../images/2025-07-06/createcolpart2_3.png)
+![step 7](../images/2025-07-06/createcolpart2_4.png)
+
 
 There's also a "test" button - which if we click on it allows us to test the prompt extracts information. You can choose which file to test on so that you can try a few samples and tune the prompt if needed.
 
-create col part2 4
-create col part2 5
+![step 8](../images/2025-07-06/createcolpart2_5.png)
 
 Once again, we can save the autofill, save the newly created column, and test it works. Be warned, each run is Syntext consumption and billable (although it's fractions of a penny each time).
 
