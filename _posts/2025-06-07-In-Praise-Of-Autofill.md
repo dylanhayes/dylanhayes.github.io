@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autofill Coloumns - Simple & Helpful
+title: Autofill Columns - Simple & Helpful
 ---
 
 Metadata is virtuous, but like many virtues easily ignored. The problem is most people can't be bothered to enter the data that makes life easier. Arguably search and increasingly generative AI means metadata is less important, when searching for keywords keeps getting better - but try sorting and filtering on document contents and you'll soon see why structured metadata is important.
