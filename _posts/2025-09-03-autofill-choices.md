@@ -3,7 +3,7 @@ layout: post
 title: Autofill Columns - Dealing with choices
 ---
 
-We've [previously looked](2025-06-07-In-Praise-Of-Autofill.md) at how Autofill columns can do really useful things really easily.  We've seen how that works for text fields, and it's not hard to see how this would also apply to other types of fields like numbers and dates. 
+We've [been looking at autofill](2025-06-07-In-Praise-Of-Autofill.md) and how easy it is to do useful things.  We've seen how that works for text fields, and it's not hard to see how this would also apply to other types of fields like numbers and dates. 
 
 The next part of our blog post is about choice columns. Text is all very well, but if you are minded to put a chaotic universe into neat categories, then the choice field is the obvious choice.
 
