@@ -33,17 +33,19 @@ First pass
 
 We can do the same thing as the Knowledge Agent - but we can exert a little bit more control over the process.
 
+### Step by step ###
+
+The add column dialog now has 'Classification'. Let's select this:
 ![Add Column](../images/2025-10-22/1.png)
 
-The add column dialog now has 'Classification'. Let's select this.
 
+Provide some details for the new classification column:
 ![Add column](../images/2025-10-22/2.png)
 
-Provide some details for the new classification column.
-
+Select add category:
 ![Add category](../images/2025-10-22/3.png)
 
-Select add category.
+
 
 
 ![Category](../images/2025-10-22/4.png)
