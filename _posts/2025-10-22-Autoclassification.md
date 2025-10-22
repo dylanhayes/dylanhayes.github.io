@@ -64,9 +64,7 @@ Autofill is done. Note the document have got sensible categories as we defined.
 
 ![Autofill](../images/2025-10-22/8.png)
 
-Autofill is done. Note the document have got sensible categories as we defined.
 
-![Edit column](../images/2025-10-22/9.png)
 
 We can edit the column and review the choices to fine tune the behavior.
 
