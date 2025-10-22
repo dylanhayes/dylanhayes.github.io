@@ -12,7 +12,7 @@ As of late October 2025, SharePoint now features the SharePoint Knowledge Agent 
 
 First we're going to do this the easy way using the SharePoint Knowledge Agent.
 
-## Cheat Mode ##
+## Cheat Mode On ##
 
 You can go straight to the SharePoint Knowledge Agent, and select 'Organize this library' then select the prepared prompt for 'classifiy documents', and run the prompt. This will create a classification column, which can also be done manually - but with the AI creating the classification choices. This works reasonably well if you have good examples in the library already. For fine grained control, especially if you want to apply further processes depending on the type (for example rules in the SharePoint Knowledge Agent) you will probably want to define the choices yourself.
 
@@ -29,3 +29,47 @@ Classify Documents
 
 First pass
 
+## Manual Override ##
+
+We can do the same thing as the Knowledge Agent - but we can exert a little bit more control over the process.
+
+![Add Column](../images/2025-10-22/1.png)
+
+The add column dialog now has 'Classification'. Let's select this.
+
+![Add column](../images/2025-10-22/2.png)
+
+Provide some details for the new classification column.
+
+![Add category](../images/2025-10-22/3.png)
+
+Select add category.
+
+
+![Category](../images/2025-10-22/4.png)
+
+Describe our category. Be specific about what this is, and provide a good descripion so that the AI can identify documents from your description.
+
+![Save](../images/2025-10-22/5.png)
+
+Save changes - remember unless we do, this will not be saved for this library.
+
+![Autofill](../images/2025-10-22/6.png)
+
+Let autofill get to work. Yes - there's a weird bug with the timing of the autofill actions ('8 hours ago').
+
+![Autofill](../images/2025-10-22/7.png)
+
+Autofill is done. Note the document have got sensible categories as we defined.
+
+![Autofill](../images/2025-10-22/8.png)
+
+Autofill is done. Note the document have got sensible categories as we defined.
+
+![Edit column](../images/2025-10-22/9.png)
+
+We can edit the column and review the choices to fine tune the behavior.
+
+## Summing up ##
+
+The SharePoint Knowledge Agent is a great tool for getting a start on classification. If you want fine grained control over the actual choices you may need to edit the chocies yourself - taking care to describe each one well.
