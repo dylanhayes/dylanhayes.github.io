@@ -23,7 +23,7 @@ Because magic, and that we've created a choice field populated correctly, autofi
 
 ![Create autofill](../images/2025-09-03/choice3.png)
 
-Let's go with the suggestion, and let autofill autofill the prompt.
+Let's go with the suggestion, and let autofill do it's autofill thing on the prompt.
 
 ![Create autofill](../images/2025-09-03/choice4.png)
 
