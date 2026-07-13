@@ -4,7 +4,7 @@ title: SharePoint Knowledge Agent - Automatic classification
 ---
 
 
-Previously we've [been looking at autofill](2025-06-07-In-Praise-Of-Autofill.md). It's useful, but there's more that can be done with classification. Classification is a useful first step in dealing with documents - as by knowing what something is, you know what must be done.
+Previously we've [been looking at autofill](In-Praise-Of-Autofill.md). It's useful, but there's more that can be done with classification. Classification is a useful first step in dealing with documents - as by knowing what something is, you know what must be done.
 
 ## Prerequisites ##
 

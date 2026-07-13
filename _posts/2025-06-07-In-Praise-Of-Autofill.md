@@ -75,7 +75,7 @@ Now, here's where the magic starts. As wer're already named the column as Create
 
 There's also a "test" button - which if we click on it allows us to test the prompt extracts information. You can choose which file to test on so that you can try a few samples and tune the prompt if needed.
 
-![step 13](../images/2025-07-06/createcolpart2_5.png)
+![step 13](../images/2025-07-06/create col part2_5.png)
 
 Once again, we can save the autofill, save the newly created column, and test it works. Be warned, each run is Syntext consumption and billable (although it's fractions of a penny each time).
 

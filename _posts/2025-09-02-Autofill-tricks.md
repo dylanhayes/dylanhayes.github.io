@@ -3,7 +3,7 @@ layout: post
 title: Autofill Columns - Extraction from images
 ---
 
-We've [previously looked](2025-06-07-In-Praise-Of-Autofill.md) at how Autofill columns can do really useful things really easily. Now we're going to look at some extra features you might not have considered.
+We've [previously looked](In-Praise-Of-Autofill.md) at how Autofill columns can do really useful things really easily. Now we're going to look at some extra features you might not have considered.
 
 ## Images ##
 
