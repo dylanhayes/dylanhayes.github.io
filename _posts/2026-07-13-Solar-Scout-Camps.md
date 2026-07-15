@@ -67,7 +67,24 @@ Feeding 30 hungry people over a weekend from a camp kitch is a challnge. Our men
 
 ##  Running the system ##
 
-On arrival on Friday we powered up the fridges. Alas, the 2 Jackery solar panels didn't get pluggeg in properly (blame the confusion over the two different types of DC power connector and the ease of plugging in the wrong one which fits but doesn't connect), so the big battery took 
+On arrival on Friday we powered up the fridges. Alas, the 2 Jackery solar panels didn't get pluggeg in properly (blame the confusion over the two different types of DC power connector and the ease of plugging in the wrong one which fits but doesn't connect), so the big battery had to cool the fridge and contents of drinks with no input, and took a hit over night and was down to 20% capacity in the morning. Worse yet the morning started misty, and there was very little power coming in.
+The other systems faired better, as we got enough sunlight during the evening to go into the night with nearly full batteries.
+During the day the sun came back, and the big battery started to fill up again. The domestic fridge was really struggling in the heat, and the layout of the cooking area meant sunlight was hitting the heat exchanger. COnstant opening of the door didn't help either, so the fridge was drawing 60 watts most of the time. 
+Fortunatly, the strong sunshine and periodic re-alignment to face the sun of the two jackery panels meant 190 watts was going into the battery pletty much all afternoon, and the battery reached the evening mostly full.  The extension cables really helped to allow some flexibility in placing the panels in the best possible position, and the battery in the most shaded spot.
+The system with the Renology panel and the Anker Solix 521 and 50 litre fridge performed well enough. Even if the Renology panel struggled to hit 60 watts, it was enough to power the fridge which seemed to only drawn 45 watts occassionally, and the battery gained power. Until we plugged a large Bose speaker in for some music which took a steady 20 watts off the 240 volt socket. Charging phones (which get used a lot for admin) added to the load, and the battery was down to the last few percent by midnight, and went offline some time in the night. As the night was cool, and the last item in the fridge was served at breakfast this was fine. The battery soon charged once the sun returned, but in hindsight, the speaker was a load I hadn't planned for, and we struggled to find enough power.
+Meanwhile down in the Explorer camp, my son pointed the 40 watt panel in the general direction of the sun, put the battery and fridge in the shade and just left it. There was enough power to charge his phone, even if the jackery Explorer 240 battery was below 50% by the time we packed it up.
+
+## Lessons learned ##
+
+
+
+## Tips ###
+
+Extension leads help you place the panels in the sun and the load and battery in the shade.
+Use the 12 volt supply for the camping fridges. Stepping up the battery to 240 volts AC and back down to 12 with the external power supply for the fridge is wasted energy that could be used elsewhere.
+Phones consume a lot more power than you expect. Hot conditions, and scout admin done online, combined with terrible bandwidth chew throuugh phone batteries requiring multiple charges per day. With multiple adults with phones this is actually quite a lot of extra load to consider.
+Not all panels hit their nameplate output. The Jackery 100 watt panels do. The 40 watt panel gets 20-25 watts on a good day, but due to it's folding structure.  The renology 100 got around 50-60 watts at best.
+Following the sun. To get anything like the state output you will need to position the panels to face the sun and move them to follow the sun every hour. Even in direct sunlight a panel not well aligned will not reach it's best output.
 
 
 
