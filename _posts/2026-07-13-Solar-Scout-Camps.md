@@ -76,7 +76,7 @@ During the day the sun came back, and the big battery started to fill up again. 
 Fortunatly, the strong sunshine and periodic re-alignment to face the sun of the two jackery panels meant 190 watts was going into the battery pletty much all afternoon, and the battery reached the evening mostly full.  The extension cables really helped to allow some flexibility in placing the panels in the best possible position, and the battery in the most shaded spot.
 The system with the Renology panel and the Anker Solix 521 and 50 litre fridge performed well enough. Even if the Renology panel struggled to hit 60 watts, it was enough to power the fridge which seemed to only drawn 45 watts occassionally, and the battery gained power. Until we plugged a large Bose speaker in for some music which took a steady 20 watts off the 240 volt socket. Charging phones (which get used a lot for admin) added to the load, and the battery was down to the last few percent by midnight, and went offline some time in the night. As the night was cool, and the last item in the fridge was served at breakfast this was fine. The battery soon charged once the sun returned, but in hindsight, the speaker was a load I hadn't planned for, and we struggled to find enough power.
 
-![Our min solar farm](../images/2026-07-13/outsideview.jpg)
+![Our mini solar farm](../images/2026-07-13/outsideview.jpg)
 
 Meanwhile down in the Explorer camp, my son pointed the 40 watt panel in the general direction of the sun, put the battery and fridge in the shade and just left it. There was enough power to charge his phone, even if the jackery Explorer 240 battery was below 50% by the time we packed it up.
 
@@ -98,6 +98,7 @@ Each setup worked pretty well for it's intended use:
 
 ## Following up ##
 
+By the end of the camp, the group had taken to refering to the setup as "our solar farm|" suggesting my idea had gone from one of Dylan's mad ideas to acceptance. Our position at the end of a row, by one of the many access routes ment plenty of passers by stopped to ask about the setup, and I was able to give a quick demo of the system. 
 After some inital skeptism, one of my fellow scout leaders is borrowing the small setup for a week long camp where his specific dietary requirements mean he wants to provide his own food. However, to build in a little bit of resiliance for those not so sunny days, we have swapped the 40 watt panel for a 100 watt panel, to ensure there's enough power collected even on dull days.
 
 
