@@ -104,11 +104,11 @@ After some inital skeptism, one of my fellow scout leaders is borrowing the smal
 
 ## Tips ###
 
-Extension leads help you place the panels in the sun and the load and battery in the shade.
-Use the 12 volt supply for the camping fridges. Stepping up the battery to 240 volts AC and back down to 12 with the external power supply for the fridge is wasted energy that could be used elsewhere.
-Phones consume a lot more power than you expect. Hot conditions, and scout admin done online, combined with terrible bandwidth chew throuugh phone batteries requiring multiple charges per day. With multiple adults with phones this is actually quite a lot of extra load to consider.
-Not all panels hit their nameplate output. The Jackery 100 watt panels do. The 40 watt panel gets 20-25 watts on a good day, but due to it's folding structure.  The renology 100 got around 50-60 watts at best.
-Following the sun. To get anything like the state output you will need to position the panels to face the sun and move them to follow the sun every hour. Even in direct sunlight a panel not well aligned will not reach it's best output.
+* Extension leads help you place the panels in the sun and the load and battery in the shade.
+* Use the 12 volt supply for the camping fridges. Stepping up the battery to 240 volts AC and back down to 12 with the external power supply for the fridge is wasted energy that could be used elsewhere.
+* Phones consume a lot more power than you expect. Hot conditions, and scout admin done online, combined with terrible bandwidth chew throuugh phone batteries requiring multiple charges per day. With multiple adults with phones this is actually quite a lot of extra load to consider.
+* Not all panels hit their nameplate output. The Jackery 100 watt panels do. The 40 watt panel gets 20-25 watts on a good day, but due to it's folding structure.  The renology 100 got around 50-60 watts at best.
+* Following the sun. To get anything like the state output you will need to position the panels to face the sun and move them to follow the sun every hour. Even in direct sunlight a panel not well aligned will not reach it's best output.
 
 
 
