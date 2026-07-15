@@ -74,8 +74,25 @@ Fortunatly, the strong sunshine and periodic re-alignment to face the sun of the
 The system with the Renology panel and the Anker Solix 521 and 50 litre fridge performed well enough. Even if the Renology panel struggled to hit 60 watts, it was enough to power the fridge which seemed to only drawn 45 watts occassionally, and the battery gained power. Until we plugged a large Bose speaker in for some music which took a steady 20 watts off the 240 volt socket. Charging phones (which get used a lot for admin) added to the load, and the battery was down to the last few percent by midnight, and went offline some time in the night. As the night was cool, and the last item in the fridge was served at breakfast this was fine. The battery soon charged once the sun returned, but in hindsight, the speaker was a load I hadn't planned for, and we struggled to find enough power.
 Meanwhile down in the Explorer camp, my son pointed the 40 watt panel in the general direction of the sun, put the battery and fridge in the shade and just left it. There was enough power to charge his phone, even if the jackery Explorer 240 battery was below 50% by the time we packed it up.
 
-## Lessons learned ##
+## Observations ##
 
+Each setup worked pretty well for it's intended use:
+* The small setup of a camping fridge, 40 watt panel and Jackery Explorer 240 worked pretty well for an individual setup, but wouldn't really address the needs of a camp, unless it was a very small group.
+* The 100 watt panel, 250 watt/hour battery and 50 litre fridge worked brilliantly together, and would be ideal for a weekend for a group of 20-30 people.
+* The big setup of two 100 watt panels, a 1000 watt/hour battery and a domestic fridge worked well to the point whene by Sunday evening the battery was full again.
+
+## Lessons learned ##
+* If value for money was a concern, spending more money on an efficient cmaping fridge, and less money on smaller battery and panel would be more cost effective.
+* Don't forget the power consumption of other loads - powered a large speaker, and constantly charging phones put a dent into the battery. Ideally put these loads on a separate battery to the essential food fridge to avoid the possibility of a dead fridge.
+* Domestic fridges are power hogs. With a relatively inefficient compressor, a front loading door (which lets all the cold air out each time its opened), and frequent opening, the domestic fridge was using twice as much power as the camping fridge. For our use case of the "fun fridge" this worked pretty well, but this tied up a lot of valuable equipment for a trival task.
+* Don't under estimate the additional load of opening the fridge and adding warm items. Each time that happens, the fridge has to draw extra power to keep the same temperature.
+* Not all panels reach their rated output. The Jackery 100 watt panels came very close.
+* Spending some time turned the panels to face the sun every hour maximises output.
+* Extension cables are suprisingly useful. Keeping panels in the sun, and batteries and fridge in the cold makes the most of the system. 
+
+## Following up ##
+
+After some inital skeptism, one of my fellow scout leaders is borrowing the small setup for a week long camp where his specific dietary requirements mean he wants to provide his own food. However, to build in a little bit of resiliance for those not so sunny days, we have swapped the 40 watt panel for a 100 watt panel, to ensure there's enough power collected even on dull days.
 
 
 ## Tips ###
