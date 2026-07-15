@@ -30,7 +30,7 @@ The kit I had assembled was as follows:
 * Jackery Explorer 240  - my first foray into batteries and a much smaller battery with 240 watts/hour capacity and 12v, USB and 240 v AC output.
 * Anker Solix 521 - a more modern 250 watt/hour battery, with USB, mains and 12 v output.
 * 2 x 100 watt Jackery Solar panels
-* 2 x jacker solar extension cables
+* 2 x Jackery solar extension cables (these extend the lead from the panel to the battery)
 * 100 Renology folding panel
 * 40 watt jackery panel
 * An Alpicool Y16T 16 litre camping fridge
