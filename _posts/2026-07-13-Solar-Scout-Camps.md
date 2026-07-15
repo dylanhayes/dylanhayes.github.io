@@ -57,6 +57,9 @@ On a hot camp, cold water and drinks are great for leader morale. Likewise milk 
 * 2 x 100 watt Jackery solar panels
 * Domestic fridge
 
+![Our mini solar farm](../images/2026-07-13/interior.jpg)
+
+
 ### The food fridge ###
 
 Feeding 30 hungry people over a weekend from a camp kitch is a challnge. Our menu featured camp staples like sausages and bacon for breakfast and pasta with a mince sauce for dinner. As previously noted, keeping items bought on Friday morning at a safe temperature until Sunday morning, when just getting the food to camp in the back of an unairconditioned van in 34 degrees is a serious challenge to the cold chain.  Fortunatly, all the food fitted well inside the Alpicool GE50's massive 50 litre interior which was pretty close to a conventional coolbox in shape. As our plan was to open this only when needing to access food, and the fridge was well insulated, I decided the power requirements were actually quite modest, even though this was the fridge I most cared about temperature wise. To further help the battery, we prechilled the fridge before loading, and ran the fridge on 12 v on the way. 
@@ -72,6 +75,9 @@ The other systems faired better, as we got enough sunlight during the evening to
 During the day the sun came back, and the big battery started to fill up again. The domestic fridge was really struggling in the heat, and the layout of the cooking area meant sunlight was hitting the heat exchanger. COnstant opening of the door didn't help either, so the fridge was drawing 60 watts most of the time. 
 Fortunatly, the strong sunshine and periodic re-alignment to face the sun of the two jackery panels meant 190 watts was going into the battery pletty much all afternoon, and the battery reached the evening mostly full.  The extension cables really helped to allow some flexibility in placing the panels in the best possible position, and the battery in the most shaded spot.
 The system with the Renology panel and the Anker Solix 521 and 50 litre fridge performed well enough. Even if the Renology panel struggled to hit 60 watts, it was enough to power the fridge which seemed to only drawn 45 watts occassionally, and the battery gained power. Until we plugged a large Bose speaker in for some music which took a steady 20 watts off the 240 volt socket. Charging phones (which get used a lot for admin) added to the load, and the battery was down to the last few percent by midnight, and went offline some time in the night. As the night was cool, and the last item in the fridge was served at breakfast this was fine. The battery soon charged once the sun returned, but in hindsight, the speaker was a load I hadn't planned for, and we struggled to find enough power.
+
+![Our min solar farm](../images/2026-07-13/outsideview.jpg)
+
 Meanwhile down in the Explorer camp, my son pointed the 40 watt panel in the general direction of the sun, put the battery and fridge in the shade and just left it. There was enough power to charge his phone, even if the jackery Explorer 240 battery was below 50% by the time we packed it up.
 
 ## Observations ##
