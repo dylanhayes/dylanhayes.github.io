@@ -107,7 +107,7 @@ After some initial skeptism, one of my fellow scout leaders is borrowing the sma
 * **Extension leads help a lot**. They allow you place the panels in the sun and the load and battery in the shade maximising the power output and lowering power consumption.
 * **Use the 12 volt supply for the camping fridges**. Stepping up the battery to 240 volts AC and back down to 12 with the external power supply for the fridge is wasted energy that could be used elsewhere.
 * **Phones consume a lot more power than you expect**. Hot conditions, and scout admin done online, combined with terrible bandwidth chew through phone batteries requiring multiple charges per day. With multiple adults with phones this is actually quite a lot of extra load to consider.
-* **Domestic appliances are hungry for power**. At home you don't need to think about power consumption much. When running on batteries, you need to be mindful all the time. Even leaving the fridge door open on a hot day.
+* **Domestic appliances are hungry for power**. At home you don't need to think about power consumption much. When running on batteries, you need to be mindful of power all the time. Even leaving the fridge door open on a hot day.
 * **Not all panels hit their nameplate output**. The Jackery 100 watt panels do. The 40 watt panel gets 20-25 watts on a good day, but due to it's folding structure.  The renology 100 got around 50-60 watts at best.
 * **Follow the sun**. To get anything like the state output you will need to position the panels to face the sun and move them to follow the sun every hour. Even in direct sunlight a panelthat's not well aligned will not reach it's full output.
 
