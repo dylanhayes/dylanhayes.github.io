@@ -29,10 +29,10 @@ The kit I had assembled was as follows:
 * Jackery Explorer 1000 v2 - a big powerful battery with 1000 watts/hour capacity and 12v, USB and two 240 v AC outputs.
 * Jackery Explorer 240  - my first foray into batteries and a much smaller battery with 240 watts/hour capacity and 12v, USB and 240 v AC output.
 * Anker Solix 521 - a more modern 250 watt/hour battery, with USB, mains and 12 v output.
-* 2 x 100 watt Jackery Solar panels
+* 2 x 100 watt Jackery SolarSaga solar panels
 * 2 x Jackery solar extension cables (these extend the lead from the panel to the battery)
 * 100 Renology folding panel
-* 40 watt jackery panel
+* 40 watt Jackery SolarSaga panel
 * An Alpicool Y16T 16 litre camping fridge
 * An Alpicool X50 50L camping fridge
 * A small Beko Domestic fridge
@@ -46,17 +46,17 @@ From this kit list I created three separate systems, each tuned for a different 
 My son was on the Explorers section of the campsite and was keen have some cold drinks available, and keep his phone charged. To meet this requirement I combbined the smallest panel, fridge and battery.
 
 * Jackery Explorer 240
-* 40 watt Jackery solar panel
+* 40 watt Jackery SolarSaga solar panel
 * 16 litre fridge
 
 ![Not so sunny days](../images/2026-07-13/explorer240.jpg)
 
 ### The fun fridge ###
 
-On a hot camp, cold water and drinks are great for leader morale. Likewise milk that is still drinkable for breakfast and the endless tea and coffee that scout camps is important. For this requirement I combined the biggest and most powerful items together. Knowing the fridge would be opered frequently, I prioritised providing plenty of power to the fridge even if it wasn't the most important one.
+On a hot camp, cold water and drinks are great for leader morale. Likewise milk that is still drinkable for breakfast and the endless tea and coffee that scout camps is important. For this requirement I combined the biggest and most powerful items together. Knowing the fridge would be opened frequently, I prioritised providing plenty of power to the fridge even if it wasn't the most important one.
 
 * Jackery Explorer 1000 v2
-* 2 x 100 watt Jackery solar panels
+* 2 x 100 watt Jackery SolarSaga solar panels
 * Domestic fridge
 
 ![Our mini solar farm](../images/2026-07-13/interior.jpg)
@@ -85,7 +85,7 @@ Meanwhile down in the Explorer camp, my son pointed the 40 watt panel in the gen
 ## Observations ##
 
 Each setup worked well for its intended use:
-* The small setup of a camping fridge, 40 watt panel and Jackery Explorer 240 worked pretty well for an individual setup, but wouldn't really address the needs of a camp, unless it was a very small group.
+* The small setup of a camping fridge, 40 watt panel and Jackery Explorer 240 worked pretty well for an individual setup, but wouldn't really scale to needs of a scout camp, unless it was a very small group.
 * The 100 watt panel, 250 watt/hour battery and 50 litre fridge worked brilliantly together, and would be ideal for a weekend for a group of 20-30 people.
 * The big setup of two 100 watt panels, a 1000 watt/hour battery and a domestic fridge worked well to the point whene by Sunday evening the battery was full again.
 
@@ -100,7 +100,7 @@ Each setup worked well for its intended use:
 
 ## Following up ##
 
-By the end of the camp, the group had taken to referring to the setup as "the solar farm" suggesting my idea had gone from one of Dylan's mad ideas to acceptance. Our position at the end of a row, by one of the many access routes meant plenty of passers by stopped to ask about the setup, and I was able to give a quick demo of the system. 
+By the end of the camp, the group had taken to referring to the setup as "the solar farm" suggesting my idea had gone from one of my mad ideas to acceptance. Our position at the end of a row, by one of the many access routes meant plenty of passersby stopped to ask about the setup, and I was able to give a quick demo of the system. 
 After some initial skeptism, one of my fellow scout leaders is borrowing the small setup for a week long camp where his specific dietary requirements mean he wants to provide his own food. However, to build in a little bit of resilience for those not so sunny days, we have swapped the 40 watt panel for a 100 watt panel, to ensure there's enough power collected even on dull days.
 
 
@@ -109,8 +109,9 @@ After some initial skeptism, one of my fellow scout leaders is borrowing the sma
 * **Extension leads help a lot**. They allow you place the panels in the sun and the load and battery in the shade maximising the power output and lowering power consumption.
 * **Use the 12 volt supply for the camping fridges**. Stepping up the battery to 240 volts AC and back down to 12 with the external power supply for the fridge is wasted energy that could be used elsewhere.
 * **Phones consume a lot more power than you expect**. Hot conditions, and scout admin done online, combined with terrible bandwidth chew through phone batteries requiring multiple charges per day. With multiple adults with phones this is actually quite a lot of extra load to consider.
-* **Not all panels hit their nameplate output**. The Jackery 100 watt panels do. The 40 watt panel gets 20-25 watts on a good day, but due to it's folding structure.  The renology 100 got around 50-60 watts at best.
-* **Follow the sun**. To get anything like the state output you will need to position the panels to face the sun and move them to follow the sun every hour. Even in direct sunlight a panel not well aligned will not reach it's best output.
+* **Domestic appliances are hungry for power**. At home you don't need to think about power consumption much. When running on batteries, you need to be mindful of power all the time. Even leaving the fridge door open on a hot day.
+* **Not all panels hit their nameplate output**. The Jackery 100 watt panels do. The 40 watt panel gets 20-25 watts on a good day, but due to it's folding structure and lack of stand it wasn't well aimed.  The renology 100 got around 50-60 watts at best.
+* **Follow the sun**. To get anything like the state output you will need to position the panels to face the sun and move them to follow the sun every hour. Even in direct sunlight a panelthat's not well aligned will not reach it's full output.
 
 
 
