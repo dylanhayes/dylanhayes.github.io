@@ -35,7 +35,7 @@ The kit I had assembled was as follows:
 * 40 watt Jackery SolarSaga panel
 * An Alpicool Y16T 16 litre camping fridge
 * An Alpicool X50 50L camping fridge
-* A small Beko Domestic fridge
+* A smallish Beko domestic fridge
 
 ## Combing the parts ##
 
