@@ -49,6 +49,8 @@ My son was on the Explorers section of the campsite and was keen have some cold 
 * 40 watt Jackery solar panel
 * 16 litre fridge
 
+![Not so sunny days](../images/2026-07-13/explorer240.jpg)
+
 ### The fun fridge ###
 
 On a hot camp, cold water and drinks are great for leader morale. Likewise milk that is still drinkable for breakfast and the endless tea and coffee that scout camps is important. For this requirement I combined the biggest and most powerful items together. Knowing the fridge would be opered frequently, I prioritised providing plenty of power to the fridge even if it wasn't the most important one.
