@@ -47,7 +47,7 @@ My son was on the Explorers section of the campsite and was keen have some cold 
 
 * Jackery Explorer 240
 * 40 watt Jackery SolarSaga solar panel
-* 16 litre fridge
+* 16 litre Alpicool fridge
 
 ![Not so sunny days](../images/2026-07-13/explorer240.jpg)
 
