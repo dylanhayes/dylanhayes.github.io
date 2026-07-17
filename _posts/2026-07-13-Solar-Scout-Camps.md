@@ -31,7 +31,7 @@ The kit I had assembled was as follows:
 * Anker Solix 521 - a more modern 250 watt/hour battery, with USB, mains and 12 v output.
 * 2 x 100 watt Jackery SolarSaga solar panels
 * 2 x Jackery solar extension cables (these extend the lead from the panel to the battery)
-* 100 Renology folding panel
+* 100 watt Renology folding panel
 * 40 watt Jackery SolarSaga panel
 * An Alpicool Y16T 16 litre camping fridge
 * An Alpicool X50 50L camping fridge
