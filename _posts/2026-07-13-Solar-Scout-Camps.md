@@ -87,10 +87,10 @@ Meanwhile down in the Explorer camp, my son pointed the 40 watt panel in the gen
 Each setup worked well for its intended use:
 * The small setup of a camping fridge, 40 watt panel and Jackery Explorer 240 worked pretty well for an individual setup, but wouldn't really scale to needs of a scout camp, unless it was a very small group.
 * The 100 watt panel, 250 watt/hour battery and 50 litre fridge worked brilliantly together, and would be ideal for a weekend for a group of 20-30 people.
-* The big setup of two 100 watt panels, a 1000 watt/hour battery and a domestic fridge worked well to the point whene by Sunday evening the battery was full again.
+* The big setup of two 100 watt panels, a 1000 watt/hour battery and a domestic fridge worked well to the point where by Sunday evening the battery was full again.
 
 ## Lessons learned ##
-* If value for money was a concern, spending more money on an efficient cmaping fridge, and less money on smaller battery and panel would be more cost effective.
+* If value for money was a concern, spending more money on an efficient camping fridge, and less money on smaller battery and panel could be more cost effective. The power consumption of the camping fridge was half that of the domestic fridge for a similar volume. Doubling hte capacity of a solar system (battery and panels) is expensive. 
 * Don't forget the power consumption of other loads - powered a large speaker, and constantly charging phones put a dent into the battery. Ideally put these loads on a separate battery to the essential food fridge to avoid the possibility of a dead fridge.
 * Domestic fridges are power hogs. With a relatively inefficient compressor, a front loading door (which lets all the cold air out each time its opened), and frequent opening, the domestic fridge was using twice as much power as the camping fridge. For our use case of the "fun fridge" this worked pretty well, but this tied up a lot of valuable equipment for a trivial task.
 * Don't under estimate the additional load of opening the fridge and adding warm items. Each time that happens, the fridge has to draw extra power to keep the same temperature.
